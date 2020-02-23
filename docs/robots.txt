@@ -1,1 +1,1 @@
-Sitemap: /galada/sitemap.xml
+Sitemap: /Niximagery/sitemap.xml
