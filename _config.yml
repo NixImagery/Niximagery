@@ -50,7 +50,9 @@ plugins:
   - jekyll-sitemap
 
 paginate: 7
-paginate_path: "/page/:num"
+#paginate_path: "/page/:num"
+paginate_path: "/articles/page:num/"
+permalink: /:year/:month/:day/:title:output_ext
 
 include:
   - _pages
@@ -59,6 +61,8 @@ sass:
   sass_dir: _sass
   style: compressed
 
+
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'LICENSE', 'README.md']
 
 #-------------------------------
 # Exclude from processing.
