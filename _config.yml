@@ -10,20 +10,20 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 author-name:   Nick Hood
-author-avatar: 09.jpg
+author-avatar: NRH-avatar.png
 
 
 #-------------------------------
 # Contact links
-facebook:  https://facebook.com/ # Add your Facebook handle
-twitter:   https://twitter.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/ # Add your Facebook handle
-pinterest: https://www.pinterest.com/ # Add your Facebook handle
+facebook:  https://facebook.com/cullaloe
+twitter:   https://twitter.com/cullaloe
+instagram: https://www.instagram.com/cullaloe
+# pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Niximagery # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
