@@ -49,6 +49,18 @@
         <a href="{{ site.pinterest }}" class="social-profiles-link"><i class="ion ion-logo-pinterest"></i></a>
       </li>
       {% else %} {% endif %}
+
+      {% if site.github %}
+      <li class="social-profiles-item">
+        <a href="{{ site.github }}" class="social-profiles-link"><i class="ion ion-logo-github"></i></a>
+      </li>
+      {% else %} {% endif %}
+
+      {% if site.flickr %}
+      <li class="social-profiles-item">
+        <a href="{{ site.flickr }}" class="social-profiles-link"><i class="ion ion-logo-flickr"></i></a>
+      </li>
+      {% else %} {% endif %}
     </ul>
   </div>
 
