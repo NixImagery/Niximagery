@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Niximagery | Stories and blog
+title: Niximagery | Stories and Images
 description: Stories about image making. # this means to ignore newlines until "baseurl:"
 baseurl: "/Niximagery" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -16,8 +16,8 @@ author-avatar: NRH-avatar.png
 #-------------------------------
 # Contact links
 facebook:  https://facebook.com/cullaloe
-twitter:   https://twitter.com/cullaloe
-instagram: https://www.instagram.com/cullaloe
+twitter:   https://twitter.com/NixImagery
+instagram: https://www.instagram.com/niximagery
 # pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 
@@ -44,7 +44,8 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 #-------------------------------
 # Build settings
 markdown: kramdown
-permalink: ':title/'
+# permalink: ':title/'
+permalink: /:year/:month/:day/:title:output_ext
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -52,7 +53,6 @@ plugins:
 paginate: 7
 #paginate_path: "/page/:num"
 paginate_path: "/articles/page:num/"
-permalink: /:year/:month/:day/:title:output_ext
 
 include:
   - _pages

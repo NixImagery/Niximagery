@@ -52,6 +52,7 @@
     </ul>
   </div>
 
+  {% if site.mailchimp %}
   <div class="widget widget-newsletter">
     <h3 class="widget-title">Newsletter</h3>
     <div class="newsletter-subtitle">Get Interesting News</div>
@@ -68,13 +69,14 @@
       </div>
     </form>
   </div>
+  {% else %} {% endif %}
 
   {% if site.instafeed == true %}
   <div class="widget widget-instagram">
     <h3 class="widget-title">Instagram</h3>
     <div class="instagram-box">
       <ul id="instafeed" class="instagram-grid list-reset clearfix"></ul>
-      <a class="instagram-prof" href="#">&#64;UserName</a>
+      <a class="instagram-prof" href="#">&#64;niximagery</a>
     </div>
   </div>
   {% endif %}
