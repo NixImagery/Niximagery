@@ -13,6 +13,6 @@ tags:
   - GW690ii
   - Miðvágur
 ---
-Yellow cottage near Miðvágur, Faroe Islands. Fuji Pro 400H taken hand held at f/11, 1/60s on a 6x9 Fuji GW690ii with the 90mm lens.
+Sunday morning, the 9th February. We went out for sunrise at the Witch's Finger which was unspectacular due to clouds obstructing the sun but still fun. After breakfast, we headed out to find the lake above the sea. We did, but not before shelling out 200 Kroner each for the privilege of access to the footways. A nicely spoken local girl was manning the barricade and promising tea and coffee when we returned from our hike. Of course, she wasn't there when we returned after sunset. We didn't care much, having had around 10km and 120m of elevation to stretch our muscles on. The sphincter got the most exercise as the cliff drops are several hundred metres to the sea and even on a fairly calm day, as today was, the thought of a sudden gust and GAME OVER focused us. We took some hopefully decent images - I used up 2 rolls of Acros II 100, a roll and a half of Fuji Pro 400H and my single Ilford Ortho Plus 80 film. 
 
-via [Flickr](https://flic.kr/p/2iv2vpU)
+This image, of the Yellow cottage near Miðvágur, was taken with my Fuji GW690ii on Fuji Pro 400H, hand held at f/11, 1/60s. A larger version is avilable on [Flickr](https://flic.kr/p/2iv2vpU).
