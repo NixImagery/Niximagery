@@ -1,12 +1,11 @@
 ---
-id: 3877
 title: Film cameras
 date: 2020-02-25T18:20:00+00:00
 author: Nick
 layout: post
 image: IMG_8568-FM.jpg
 categories:
-  - Analogue
+  - Equipment
 tags:
   - Fuji
   - Nikon

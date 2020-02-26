@@ -1,12 +1,11 @@
 ---
-id: 3877
 title: A short trip to the Faroes - day 4
 date: 2020-02-09T23:59:00+00:00
 author: Nick
 layout: post
 image: Fuji-Acros-II-2.2-sm.jpg
 categories:
-  - Analogue
+  - Travel
 tags:
   - Fuji
   - Faroes
