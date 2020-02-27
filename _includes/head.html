@@ -11,6 +11,16 @@
   
   {% if page.image %}<link rel="image_src" href="{{"/img/" | prepend: site.baseurl | append : page.image}}" />{% endif %}
 
+  <!-- Facebook sharing Open Graph -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+  <meta property="og:type" content="text/html"/>
+  <meta property="og:url" content="{{ page.url }}"/>
+  <meta property="og:image" content="{% if page.image %}{{"/img/" | prepend: site.baseurl | append : page.image}}{% endif %}"/>
+  <meta property="og:site_name" content=""/>
+  <meta property="fb:admins" content=""/>
+  <meta property="og:description"
+        content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"/>
+
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css?family=Nunito:400,700" rel="stylesheet">
   <!-- Ionicons -->
