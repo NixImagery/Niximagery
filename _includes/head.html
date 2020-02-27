@@ -8,6 +8,8 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  
+  {% if page.image %}<link rel="image_src" href="{{"/img/" | prepend: site.baseurl | append : page.image}}" />{% endif %}
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css?family=Nunito:400,700" rel="stylesheet">
