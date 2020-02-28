@@ -1,1 +1,1 @@
-Sitemap: /Niximagery/sitemap.xml
+Sitemap: https://cullaloe.github.io/Niximagery/sitemap.xml
