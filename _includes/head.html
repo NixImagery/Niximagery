@@ -14,8 +14,8 @@
   <!-- Facebook sharing Open Graph -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
   <meta property="og:type" content="text/html"/>
-  <meta property="og:url" content="{{ page.url }}"/>
-  <meta property="og:image" content="{% if page.image %}{{"/img/" | prepend: site.baseurl | append : page.image}}{% endif %}"/>
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}"/>
+  <meta property="og:image" content="{% if page.image %}{{ site.url }}{{ site.baseurl }}{{"/img/" | append : page.image}}{% endif %}"/>
   <meta property="og:site_name" content="{{ site.title }}"/>
   <meta property="fb:admins" content=""/>
   <meta property="og:description"
