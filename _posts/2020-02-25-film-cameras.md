@@ -4,13 +4,10 @@ date: 2020-01-30 08:00
 author: Nick
 layout: post
 image: IMG_8568-FM.jpg
-categories:
-  - Equipment
 tags:
   - Fuji
   - Nikon
   - cameras
-  - gear
 ---
 I've returned to making film photographs after a long break, and a few years shooting digital. These are the film cameras I am using at the start of 2020.
 
