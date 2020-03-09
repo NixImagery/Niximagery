@@ -64,6 +64,13 @@
     </ul>
   </div>
 
+  {% if site.pithyquote %}
+  <div class="widget">
+    <p>{{ site.pithyquote }}</p>
+  </div>
+
+  {% endif %}
+ 
   {% if site.mailchimp %}
   <div class="widget widget-newsletter">
     <h3 class="widget-title">Newsletter</h3>

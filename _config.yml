@@ -32,6 +32,9 @@ disqus-identifier: Niximagery # Add your shortname for Disqus Comment. For examp
 # Instagram Feed
 instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 
+#-------------------------------
+# Pithy photographc quote
+pithyquote: “Your first 10,000 photographs are your worst.” ― Henri Cartier-Bresson
 
 #-------------------------------
 # Google Analytics
