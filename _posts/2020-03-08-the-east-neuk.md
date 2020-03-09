@@ -1,7 +1,7 @@
 ---
 title: The East Neuk
 date: 2020-03-08T20:00:00+00:00
-published: no
+# published: no
 author: Nick
 layout: post
 image: IMG_8646.jpg
@@ -30,6 +30,8 @@ St Monans is famous for its zig-zag breakwater but is also where Kara's family h
 Image|Camera|Lens|Film/ISO|Aperture|Shutter|Comment
 :----|:-----|:---|:---|:------:|:----:|:------
 Header image|iPhone 11|1.54mm|20|f/2.4|1/200s|Rainbow over Earlsferry
+
+More images will follow once they are developed and scanned.
 
 <!-- Sandavágur Church|Fuji GW690ii|90mm|Fuji Pro 400H|f/16|1/125s -->
 <!-- Trøllkonufingur|Fuji GW690ii|90mm|Fuji Pro 400H|f/32|1/4s|PP in [Iridient](https://www.iridientdigital.com/) -->
