@@ -1,5 +1,6 @@
 ---
 title: Kinghorn Beach
+description: With the COVID-19 pandemic evolving around us, a spot of sea air was in order, so we drove along the coast to Kinghorn.
 date: 2020-03-14T20:00:00+00:00
 # published: no
 author: Nick
