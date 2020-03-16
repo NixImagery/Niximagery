@@ -13,6 +13,7 @@ tags:
   # - Nikon FM
   # - Ilford Delta 400
   # - Fuji Pro 400H
+  # - Fuji X-T2
   # - Ricoh GRIII
   # - Agfa Isolette I
   # - Kodacolor II
