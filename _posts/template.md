@@ -1,6 +1,6 @@
 ---
 title: 
-description: 
+# description: automatic
 date: 2020-mm-ddT20:00:00+00:00
 published: no
 author: Nick

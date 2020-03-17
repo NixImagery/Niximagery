@@ -1,6 +1,5 @@
 ---
 title: Beach Stories
-description: Sea jewellery and other tales
 date: 2020-03-16T20:00:00+00:00
 # published: no
 author: Nick
