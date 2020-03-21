@@ -10,8 +10,8 @@ tags:
   # - iPhone 11
   - Fuji GW690ii
   - Ilford Pan F Plus 50
-  - Nikon FM
-  - Ilford Delta 400
+  # - Nikon FM
+  # - Ilford Delta 400
 #   - Fuji Pro 400H
   - Ricoh GRIII
   - Agfa Isolette I
@@ -26,8 +26,12 @@ I had film to finish off in the Texas Leica, my Nikon FM and my newest and cheap
 
 ![]({{site.baseurl}}/img/Isolette.jpg)
 
+See [this post](/2020/03/21/1983-kodacolorII.html) for how the images from this film turned out.
+
 ## Beach life
-The sky over Edinburgh across the Forth was pretty dramatic, so we were excited to see a group of parasurfers setting up and enjoying the elements. There was a stiff breeze as the tide was coming in, so the waves were expressive and obviously not a small challenge for the boys and girls braving the wind chill.
+The sky over Edinburgh across the Forth was pretty dramatic, so we were excited to see a group of parasurfers setting up and enjoying the elements. There was a stiff breeze as the tide was coming in, so the waves were expressive and obviously not a small challenge for the boys and girls braving the wind chill. We had our own challenge with the rapidly incoming tide.
+
+![]({{site.baseurl}}/img/20-3-20-Pro50-8.jpg)
 
 ### Notes
 [^1]: For these terms, see my [earlier post](/2020/01/30/film-cameras.html#notes).
@@ -36,8 +40,4 @@ Image|Camera|Lens|Film/ISO|Aperture|Shutter|Comment
 :----|:-----|:---|:---|:------:|:----:|:------
 Header image|Ricoh GRIII|18.3mm|ISO 800|f/8|1/4000s|pp in Capture One Pro 20
 Isolette|iPhone 11|4.25mm|640|f/1.8|1/30s|
-
-More images will follow once they are developed and scanned.
-
-<!-- Sandavágur Church|Fuji GW690ii|90mm|Fuji Pro 400H|f/16|1/125s -->
-<!-- Trøllkonufingur|Fuji GW690ii|90mm|Fuji Pro 400H|f/32|1/4s|PP in [Iridient](https://www.iridientdigital.com/) -->
+Parasurfers|Fuji GW690ii|90mm|Ilford Pan F Plus 50|f/11|1/60s|Brightened and split toning in Capture One.
