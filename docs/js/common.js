@@ -70,7 +70,7 @@ $(function() {
           }, 100);
         }, 500);
       },
-      waitForAll: true
+      waitForAll: false // trying to fix the mobile infinite load
     });
   });
 
