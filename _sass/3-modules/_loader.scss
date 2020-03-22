@@ -19,7 +19,7 @@
   font-family: 'Nunito', sans-serif;
   font-size: 21px;
   letter-spacing: .5em;
-  // text-transform: uppercase;
+  text-transform: uppercase;
   font-weight: 700;
   color: #fff;
   background: $black;
@@ -36,19 +36,19 @@
     left: 0;
     width: 60px;
     height: 100%;
-    // background: #fff;
-    // animation: animate 3s linear infinite;
+    background: #fff;
+    animation: animate 3s linear infinite;
   }
 }
 
-// @keyframes animate {
-//   0% {
-//     left: 0;
-//   }
-//   50% {
-//     left: calc(100% - 70px);
-//   }
-//   100% {
-//     left: 0;
-//   }
-// }
+@keyframes animate {
+  0% {
+    left: 0;
+  }
+  50% {
+    left: calc(100% - 70px);
+  }
+  100% {
+    left: 0;
+  }
+}
