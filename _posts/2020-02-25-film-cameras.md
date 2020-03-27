@@ -19,7 +19,7 @@ I then bought another Nikon FM from [SE Cameras](https://www.ebay.co.uk/str/seca
 ## Medium format
 My wife and I were out taking photos on a frosty morning at the end of 2019 when we met a chap in the woods with a boxy-looking camera with a waist level viewfinder. This turned out to be a Hasselblad 500 of some kind and I asked him quite a lot of questions about medium format film photography. He had bought his camera at [Ffordes](https://www.ffordes.com/) in Inverness and I bought a dose of GAS[^3] from him. After a fair bit of reading and research, I decided I wanted to give medium format a try.  I bought a Fuji GW690ii[^2] from [ODA-Japan](https://www.ebay.co.uk/str/odacamerajapan) at the end of 2019 for under $500 US, not including P&P, the Amex foreign currency fees, VAT, import duty and local PO handling fees, which brought the actual cost to over £500 Sterling. The camera has a fixed 90mm lens with a 67 mm filter thread. 
 
-![]({{site.baseurl}}/img/IMG_8582.jpg)
+![](/img/IMG_8582.jpg)
 
 Because the Fuji doesn’t have a meter, I bought a Gossen Sixtino meter on eBay for £20. There’s also an app for my iPhone that’s very nice but it makes me feel dirty when I use it.
 

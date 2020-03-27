@@ -25,7 +25,7 @@ With the COVID-19 pandemic evolving around us, a spot of sea air was in order, s
 ## Title
 Lorem ipsum [^1], with [a link](https://alink.com). 
 
-![]({{site.baseurl}}/img/an-image.jpg)
+![](/img/an-image.jpg)
 
 ### Notes
 [^1]: A footnote.
