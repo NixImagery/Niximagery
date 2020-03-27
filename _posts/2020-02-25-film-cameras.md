@@ -7,7 +7,6 @@ image: IMG_8568-FM.jpg
 tags:
   - Fuji GW690ii
   - Nikon FM
-  - cameras
 ---
 I've returned to making film photographs after a long break, and a few years shooting digital. These are the film cameras I am using at the start of 2020.
 
