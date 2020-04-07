@@ -11,7 +11,6 @@ tags:
   - Ilford Pan F Plus 50
   - Nikon FM
   - Ilford Delta 400
-#   - Fuji Pro 400H
 ---
 Sunday 8th March, 2020. 
 

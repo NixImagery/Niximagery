@@ -8,15 +8,19 @@ layout: post
 image: image.jpg
 tags:
   # - iPhone 11
-  # - Fuji GW690ii
-  # - Ilford Pan F Plus 50
-  # - Nikon FM
-  # - Ilford Delta 400
-  # - Fuji Pro 400H
-  # - Fuji X-T2
-  # - Ricoh GRIII
   # - Agfa Isolette I
+  # - Fuji GW690ii
+  # - Fuji X-T2
+  # - Nikon FM
+  # - Ricoh GRIII
+  # - Fuji Acros II
+  # - Ilford Pan F Plus 50
+  # - Ilford Delta 400
+  # - Kodak TMY 400
+  # - Fuji Pro 400H
   # - Kodacolor II
+  # - Kodak Ektachrome E100
+  # - Kodak Portra 160
 ---
 Saturday 14th March, 2020. 
 

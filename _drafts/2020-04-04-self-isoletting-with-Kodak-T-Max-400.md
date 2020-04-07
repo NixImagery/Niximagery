@@ -6,16 +6,8 @@ description: A beach walk for exercise, officer, with an old Agfa.
 layout: post
 # image: 20-4-4-Kodak-400-1.jpg
 tags:
-  # - iPhone 11
-  # - Fuji GW690ii
-  # - Ilford Pan F Plus 50
-  # - Nikon FM
-  # - Ilford Delta 400
-  # - Fuji Pro 400H
-  # - Ricoh GRIII
    - Agfa Isolette I
    - Kodak T-Max 400
-  # - Kodacolor II
 ---
 This is the first roll of my own film I have put through this little Agfa. My wife and I went out during the so-called lockdown for some messages and a little exercise, having heard on the news that it's OK to get in your car and take a short drive to somewhere local if it helps you remain socially distanced enough to fight the spread of COVID-19. We decided that a walk on a beach would be safer and more responsible than a walk in the local park.
 

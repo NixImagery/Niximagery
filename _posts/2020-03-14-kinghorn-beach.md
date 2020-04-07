@@ -7,12 +7,8 @@ author: Nick
 layout: post
 image: R0000538.jpg
 tags:
-  # - iPhone 11
   - Fuji GW690ii
   - Ilford Pan F Plus 50
-  # - Nikon FM
-  # - Ilford Delta 400
-#   - Fuji Pro 400H
   - Ricoh GRIII
   - Agfa Isolette I
   - Kodacolor II
