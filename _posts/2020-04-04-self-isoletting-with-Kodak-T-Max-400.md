@@ -4,7 +4,7 @@ description: A beach walk for exercise, officer, with an old Agfa.
 # published: no
 # author: Nick
 layout: post
-image: 2020-04-17-Kodak-TMY-5.jpg
+image: 2020-04-17-Kodak-TMY-9.jpg
 tags:
    - Agfa Isolette I
    - Kodak T-Max 400
@@ -25,26 +25,32 @@ Notice that these were all carefully exposed without remembering to advance the 
 
 ![](/img/2020-04-17-Kodak-TMY-2.jpg)
 
-I did it again on frame 4, re-taking the shots in 5 and 6. Apparently, photography is good for mindfulness.
+I double-exposed again on frame 4, re-taking the shots in 5 and 6. Apparently, photography is good for mindfulness.
 
 ## Processing
-I processed this myself, using 50:1 Rodinal R09 for 18 minutes and Kodak Fixer/Hardener. I had the devil of a job getting the film on the Paterson Reel and got quite grumpy at myself. The development went OK once I'd sorted out my fingers and thumbs. I scanned a selection on my Epson using their dreadful Silverfast 8 software and noticed that pretty much every frame had a band across the top, presumably from a light leak in the camera somewhere.
+I like this film, known as TMY, because it's reliably good and very tolerant of my handling. This roll I processed myself, using 50:1 Rodinal R09 for 18 minutes and Kodak Fixer/Hardener. I had the devil of a job getting the film on the Paterson Reel and got quite grumpy at myself. The development went OK once I'd sorted out my fingers and thumbs. I scanned a selection of the frames on my Epson using their dreadful Silverfast 8 software and noticed that pretty much every one had a band across the top, presumably from a light leak in the camera somewhere. You can see it in the building image above, and faintly in the tree image:
 
 ![](/img/2020-04-17-Kodak-TMY-12.jpg)
 
-## Summary of the results
-I notice that I didn't deviate from 1/200s shutter speed with this roll. It was quite bright and so perhaps 400 ISO wasn't right for the conditions, given that this camera's shutter doesn't go any faster than that. Even inside the Monk's cave, I was exposing for the surfaces lit directly from the outside.
+I really don't think I am going to worry about it - this camera cost me less than twenty quid including postage so a professional CLA[^1] is not economically viable. Quite probably the light seals along the bottom of the camera are just needing replaced, a job I might do in a future lock-down.
 
-![](/img/2020-04-17-Kodak-TMY-9.jpg)
+The scanned tiff files were converted in Capture One, with a bit of contrast adjustment and cropping in the header image.
+
+[^1]: Clean, lubricate and adjust.
+
+## Summary of the results
+I notice that I didn't deviate from 1/200s shutter speed with this roll. It was quite bright and so perhaps 400 ISO wasn't right for the conditions, given that this camera's shutter doesn't go any faster than that. Even inside the Monk's cave (header image), I was exposing for the surfaces lit directly from the outside.
+
+![](/img/2020-04-17-Kodak-TMY-5.jpg)
 
 ### Notes
 
 Image|Camera|Lens|Film/ISO|Aperture|Shutter|Comment
 :----|:-----|:---|:---|:------:|:----:|:------
-Building|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/22|1/200s|Frame 2!
-Inchcolm Island|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/32|1/200s|Frame 5, page header
-Inside the Monk's cave|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/8|1/200s|Frame 8
-Dead tree|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/11|1/200s|Frame 12
+8. Inside the Monk's cave|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/8|1/200s|Page header. Cropped.
+2. Building|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/22|1/200s
+12. Dead tree|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/11|1/200s
+5. Inchcolm Island|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/32|1/200s|Cropped
 
 <!-- Boat|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/22|1/200s|Frame 3
 Inchcolm Island|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/32|1/200s|Frame 4
