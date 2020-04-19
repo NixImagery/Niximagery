@@ -14,18 +14,20 @@ This is the first roll of my own film I have put through this little Agfa Isolet
 ## Stupid is as stupid does
 I'm still not quite myself following a recent loss, but I make no excuses for myself: these are the first four exposures on this film in the camera:
 
-Image|Camera|Lens|Film/ISO|Aperture|Shutter|Comment
-:----|:-----|:---|:---|:------:|:----:|:------
-Golf course & beach|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/16|1/200s|Frame 1.
-Terminal|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/22|1/200s|Frame 1.
-Boat|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/22|1/200s|Frame 1.
-Building|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/22|1/200s|Frame 1.
+Image|Aperture|Shutter|Comment
+:----|:------:|:----:|:------
+Golf course & beach|f/16|1/200s|Frame 1.
+Terminal|f/22|1/200s|Frame 1.
+Boat|f/22|1/200s|Frame 1.
+Building|f/22|1/200s|Frame 1.
 
 Notice that these were all carefully exposed without remembering to advance the film. I re-took the building (Charles Hill Battery) on frame 2 using the same settings.
 
 ![](/img/2020-04-17-Kodak-TMY-2.jpg)
 
-I double-exposed again on frame 4, re-taking the shots in 5 and 6. Apparently, photography is good for mindfulness.
+I double-exposed again on frame 4, re-taking the shots in 5 and 6. Apparently, photography is good for mindfulness. One of the scans, of the Monk's Cave, where monks used to wait for the boat to take them to Inchcolm Island out in the Forth, I processed using the Nik Collection Silver Efex Pro 2 application to bring out the detail in the sky and foreground. I quite like it:
+
+![](/img/2020-04-17-Kodak-TMY-6.jpg)
 
 ## Processing
 I like this film, known as TMY, because it's reliably good and very tolerant of my handling. This roll I processed myself, using 50:1 Rodinal R09 for 18 minutes and Kodak Fixer/Hardener. I had the devil of a job getting the film on the Paterson Reel and got quite grumpy at myself. The development went OK once I'd sorted out my fingers and thumbs. I scanned a selection of the frames on my Epson using their dreadful Silverfast 8 software and noticed that pretty much every one had a band across the top, presumably from a light leak in the camera somewhere. You can see it in the building image above, and faintly in the tree image:
@@ -45,18 +47,20 @@ I notice that I didn't deviate from 1/200s shutter speed with this roll. It was 
 
 ### Notes
 
-Image|Camera|Lens|Film/ISO|Aperture|Shutter|Comment
-:----|:-----|:---|:---|:------:|:----:|:------
-8. Inside the Monk's cave|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/8|1/200s|Page header. Cropped.
-2. Building|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/22|1/200s
-12. Dead tree|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/11|1/200s
-5. Inchcolm Island|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/32|1/200s|Cropped
+All images on this page taken with an Agfa Isolette I fitted with the Agfa Agnar 1:4.5/85 lens. The film used was Kodak TMY, or T-Max 400 Black & White film, rated at EI 400.
+
+Image|Aperture|Shutter|Frame|Comment
+:----|:------:|:----:|--:|:------
+Inside the Monk's cave|f/8|1/200s|8|Page header. Cropped.
+Building|f/22|1/200s|2
+The Monk's cave|f/32|1/200s|6|PP in Silver Efex (Nik Collection)
+Dead tree|f/11|1/200s|12
+Inchcolm Island|f/32|1/200s|5|Cropped
 
 <!-- Boat|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/22|1/200s|Frame 3
 Inchcolm Island|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/32|1/200s|Frame 4
 Monk's cave|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/32|1/200s|Frame 4
-Monk's cave|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/32|1/200s|Frame 6
-The Monk's cave|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/22|1/200s|Frame 7
+Monk's cave|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/22|1/200s|Frame 7
 Monk's cave window|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/8|1/200s|Frame 9
 Inchcolm Island|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/16|1/200s|Frame 10
 Beach|Agfa Isolette I|Agfa Agnar 1:4.5/85|400|f/16|1/200s|Frame 11
