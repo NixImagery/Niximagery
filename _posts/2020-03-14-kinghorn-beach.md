@@ -12,6 +12,7 @@ tags:
   - Ricoh GRIII
   - Agfa Isolette I
   - Kodacolor II
+  - Fife
 ---
 Saturday 14th March, 2020. 
 

@@ -8,6 +8,7 @@ image: 2020-04-17-Kodak-TMY-9.jpg
 tags:
    - Agfa Isolette I
    - Kodak T-Max 400
+   - Fife
 ---
 This is the first roll of my own film I have put through this little Agfa Isolette (see what I did there?). My wife and I went out during the so-called lockdown for some messages and a little exercise, having heard on the news that it's OK to get in your car and take a short drive to somewhere local if it helps you remain socially distanced enough to fight the spread of COVID-19. We decided that a walk on a beach would be safer and more responsible than a walk in the local park.
 
