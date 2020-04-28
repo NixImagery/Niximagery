@@ -1,5 +1,5 @@
 ---
-title: Sunshine walks
+title: Sunshine walks with E100
 description: Being in the sunshine with Kodak Ektachrome E100.
 # published: no
 # author: Nick
@@ -25,7 +25,7 @@ Kodak Professional Ektachrome E100 is a new, fine grained colour transparency fi
 
 ## Soaking up the sunshine at Pattiesmuir
 
-The April sun was splitting the sky, so we went out around Pattiesmuir, a local walking route which winds through rural pathways and copses, offering glimpses of the iconinc Forth bridges.
+The April sun was splitting the sky, so we went out around Pattiesmuir, a local walking route which winds through rural pathways and copses, offering glimpses of the iconic Forth bridges.
 
 ![](/img/20-4-7-Kodak-E100-1.jpg)
 
@@ -41,6 +41,8 @@ I next picked up the camera when, on another sunny day, we took ourselves on a b
 The remaining half dozen frames were made in short exercise trips out the back door during the continuing COVID-19 restrictions.
 
 ![](/img/20-4-7-Kodak-E100-1.jpg)
+
+Blossom is so photogenic, and we are lucky to be living in a place where there is plenty to be found.
 
 ## The camera
 
@@ -89,3 +91,6 @@ All of these images were taken on a Nikon FM with the Nikon AI-s 28mm f/2.8 lens
 31.|Swan|f/8|1/125s|Rosyth park, 23rd April
 32.|Blossom|f/2.8 |1/500s
 33.|Blossom tree|f/8|1/125s
+34.|Braefoot Lane |f/8|1/60s |Braefoot, 28th April
+35.|Blossom|f/4|1/1000s
+36.|Blossom|f/4|1/1000s
