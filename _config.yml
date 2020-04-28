@@ -71,5 +71,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Rakefile
+  - exposures
   - LICENSE
   - README.md
