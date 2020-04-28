@@ -67,15 +67,10 @@ sass:
   style: compressed
 
 
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'LICENSE', 'README.md']
-
-#-------------------------------
-# Exclude from processing.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - CNAME
+  - LICENSE
+  - README.md
