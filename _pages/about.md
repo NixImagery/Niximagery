@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+showinmenu: yes
 image: Portra-160-2.4-Feb-13-2020-1-sm.jpg
 permalink: /about/
 ---
