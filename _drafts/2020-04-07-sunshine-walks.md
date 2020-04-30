@@ -56,41 +56,8 @@ Most of the landscape shots were around f/16, 1/125th of a second exposure, cons
 
 ### Notes
 
-All of these images were taken on a Nikon FM with the Nikon AI-s 28mm f/2.8 lens. These frames were shot on a single 36 exposure roll of Kodak Ektachrome E100.
+All of these images were taken on a Nikon FM with the Nikon AI-s 28mm f/2.8 lens. These frames were shot on a single 36 exposure roll of Kodak Ektachrome E100. You can see the roll exposure list [here](/exposures/2020-04-07-Kodak-E100.html).
 
 #|Image|Aperture|Shutter|Comment
 ----:|:----|:----:|:----:|:------
 3.|Landscape|f/16|1/125s|Pattiesmuir, 7th April
-4.|Log 1|f/11|1/125s|
-5.|Log 2|f/2.8|1/1000s|
-6.|Leaves|f/2.8|1/1000s|
-7.|Mushroom|f/5.6|1/125s|
-8.|Post top|f/4|1/500s|
-9.|Pattiesmuir trees|f/16|1/125s|
-10.|Tank with fence|f/16|1/125s|
-11.|Sign|f/11|1/125s|
-12.|Mushrooms|f/4|1/125s|
-13.|Forth bridges|f/16|1/125s|
-14.|Forget-me-not|f/4|1/1000s|
-15.|Gorse|f/5.6|1/500s|
-16.|The Common|f/11|1/125|Norton 14th April
-17.|Blossom|f/5.6|1/125|not sure of shutter
-18.|Smoke|f/5.6|1/125
-19.|Forget-me-not|f/5.6|1/30s
-20.|Forget-me-not|f/4|1/60s
-21.|Canpoy|f/8|1/125s
-22.|Tunnel|f8|1/30s
-23.|Forget-me-nots|f/2.8|1/125s
-24.|Forget-me-nots|f/11|1/60s
-25.|Forget-me-nots|f/2.8|1/500
-26.|Woods|f/2.8|1/60s
-27.|Common lane|f/8|1/60s
-28.|Young tree shoots|f/2.8|1/500s
-29.|Poppy|f/2.8|1/500|15th April, heading home
-30.|Poppies|f/5.6|1/250
-31.|Swan|f/8|1/125s|Rosyth park, 23rd April
-32.|Blossom|f/2.8 |1/500s
-33.|Blossom tree|f/8|1/125s
-34.|Braefoot Lane |f/8|1/60s |Braefoot, 28th April
-35.|Blossom|f/4|1/1000s
-36.|Blossom|f/4|1/1000s
