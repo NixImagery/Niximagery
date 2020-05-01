@@ -42,6 +42,13 @@ layout: default
 				<div class="post-body">
 					{{ content }}
 
+					{% if page.exposures %}
+					  <h3>Film exposure details</h3>
+					  {% for exposure in page.exposures %}
+					  <p><a href="/exposures/{{ exposure }}.html">{{ exposure }}</a> </p>
+					  {% endfor %}
+					{% endif %}
+				  
 					<div class="post-share">
 						<ul class="share-list list-reset">
 							<li class="share-item">

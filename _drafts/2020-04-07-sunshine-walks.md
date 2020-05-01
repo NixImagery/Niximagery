@@ -5,6 +5,7 @@ description: Being in the sunshine with Kodak Ektachrome E100.
 # author: Nick
 layout: post
 # image: 20-4-7-Kodak-E100-1.jpg
+exposures: 2020-04-07-Kodak-E100
 tags:
   # - iPhone 11
   # - Fuji GW690ii
@@ -55,8 +56,6 @@ Most of the landscape shots were around f/16, 1/125th of a second exposure, cons
 ...
 
 ### Notes
-
-All of these images were taken on a Nikon FM with the Nikon AI-s 28mm f/2.8 lens. These frames were shot on a single 36 exposure roll of Kodak Ektachrome E100. You can see the roll exposure list [here](/exposures/2020-04-07-Kodak-E100.html).
 
 #|Image|Aperture|Shutter|Comment
 ----:|:----|:----:|:----:|:------
