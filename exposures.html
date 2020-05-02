@@ -9,7 +9,9 @@ permalink: /exposures/
 {% if site.exposures %}
 <h3>Film exposure list</h3>
 <p>These pages contain listings of the exposures taken in each roll of film, with details of the camera and exposure settings for each frame, where I noted it at the time. It's really just my reference. Not all of these were scanned, and most of them aren't on this site. Ask if you're particularly interested.</p>
-{% for exposure in site.exposures %}
-<p><a href="{{ exposure.url }}">{{ exposure.title }}</a> </p>
-{% endfor %}
+<ul>
+  {% for exposure in site.exposures %}
+    <li><small>{{ exposure.date | date: "%B %Y" }}</small> | <a class="tag-link" href="{{ exposure.url }}">{{ exposure.title }}</a></li>
+  {% endfor %}
+</ul>
 {% endif %}
