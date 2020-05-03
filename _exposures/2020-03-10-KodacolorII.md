@@ -17,6 +17,6 @@ Kodak|Kodacolor II|100|120|12|Agfa Isolette I|Agfa Agnar 1:4.5/85
 
 Frame|Image|Aperture|Shutter
 --:|:----|:----|:----:|:----:
-1-8.|Garden images|unknown|unknown
+1-8.|Garden images, possibly from around 1983 ?|unknown|unknown
 9.|I opened the back, dammit|-|-
 10-12.|Kinghorn Beach 14th March|f/22|1/200s 

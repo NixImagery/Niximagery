@@ -7,17 +7,8 @@ layout: post
 # image: 20-4-7-Kodak-E100-1.jpg
 exposures: 2020-04-07-Kodak-E100
 tags:
-  # - iPhone 11
-  # - Fuji GW690ii
-  # - Ilford Pan F Plus 50
   - Nikon FM
-  # - Ilford Delta 400
-  # - Fuji Pro 400H
-  # - Ricoh GRIII
-  #  - Agfa Isolette I
-  #  - Kodak T-Max 400
   - Kodak Ektachrome E100
-  # - Kodacolor II
   - Pattiesmuir
   - Letchworth
   - Rosyth

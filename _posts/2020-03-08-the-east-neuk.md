@@ -5,7 +5,9 @@ date: 2020-03-08T20:00:00+00:00
 author: Nick
 layout: post
 image: IMG_8646.jpg
-exposures: 2020-03-10-Ilford-Pan
+exposures: 
+ - 2020-03-10-Ilford-Pan
+ - 2020-03-14-Ilford-Delta-400
 tags:
   - iPhone 11
   - Fuji GW690ii

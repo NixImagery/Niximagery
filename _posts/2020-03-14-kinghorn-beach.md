@@ -6,7 +6,9 @@ date: 2020-03-14T20:00:00+00:00
 author: Nick
 layout: post
 image: R0000538.jpg
-exposures: 2020-03-10-Ilford-Pan
+exposures: 
+ - 2020-03-10-Ilford-Pan
+ - 2020-03-14-Ilford-Delta-400
 tags:
   - Fuji GW690ii
   - Ilford Pan F Plus 50
