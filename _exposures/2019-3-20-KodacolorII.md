@@ -9,7 +9,7 @@ tags:
    - Agfa Isolette I
    - Kodacolor II
 ---
-This film was in the Agfa Isolette I bought on eBay. Exposed on 4th April 2020, processed at home in Rodinal R09 one shot, works out at something like 75p per shot.
+This film was in the Agfa Isolette I bought on eBay. Exposed on 4th April 2020, processed at home in Rodinal R09 one shot ([read more](/2020/03/21/1983-kodacolorII.html)).
 
 Brand|Type|ISO|Format|Exposures|Camera|Lens
 :----|:---|:--|:-----|:--------|:-----|:----
