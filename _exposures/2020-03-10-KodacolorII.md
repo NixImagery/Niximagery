@@ -1,5 +1,5 @@
 ---
-title: Kodacolour II
+title: Kodacolour II 120
 description: Exposures
 # published: no
 # author: Nick
