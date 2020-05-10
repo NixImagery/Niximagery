@@ -5,6 +5,7 @@ description: A beach walk for exercise, officer, with an old Agfa.
 # author: Nick
 layout: post
 exposures: 2020-04-04-Kodak-TMY
+pithyquote: "\"Make visible, what without you, might perhaps never have been seen.\" ― Robert Bresson"
 image: 2020-04-17-Kodak-TMY-9.jpg
 tags:
    - Agfa Isolette I

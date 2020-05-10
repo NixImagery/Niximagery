@@ -64,7 +64,11 @@
     </ul>
   </div>
 
-  {% if site.pithyquote %}
+  {% if page.pithyquote %}
+  <div class="widget">
+    <p>{{ page.pithyquote }}</p>
+  </div>
+  {% elsif site.pithyquote %}
   <div class="widget">
     <p>
       <script>
