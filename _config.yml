@@ -34,7 +34,19 @@ instafeed: false # To enable the instafeed, use the value true. To turn off use 
 
 #-------------------------------
 # Pithy photographc quote
-pithyquote: “Your first 10,000 photographs are your worst.” ― Henri Cartier-Bresson
+pithyquote: 
+  - "\"You don't take a photograph, you make it.\" — Ansel Adams"
+  - "\"There are always two people in every picture: the photographer and the viewer.\" — Ansel Adams"
+  - "\"A photograph is a secret about a secret. The more it tells you the less you know.\" — Diane Arbus"
+  - "\"Make visible, what without you, might perhaps never have been seen.\" ― Robert Bresson"
+  - "\"Your first 10,000 photographs are your worst.\" ― Henri Cartier-Bresson"
+  - "\"Don't shoot what it looks like. Shoot what it feels like.\" ― David Alan Harvey"
+  - "\"We learn by shooting to see better without a camera.\" ― Ernst Hass"
+  - "\"Photographs are as much an interpretation of the world as paintings and drawings are.\" ― Susan Sontag"
+  - "\"All photographs are memento mori.\" ― Susan Sontag"
+  - "\"To photograph someone is a sublimated murder.\" ― Susan Sontag"
+  - "\"There is an aggression implicit in every use of the camera.\" ― Susan Sontag"
+  - "\"The painter constructs, the photographer discloses.\" ― Susan Sontag"
 
 #-------------------------------
 # Google Analytics

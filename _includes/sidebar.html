@@ -66,10 +66,18 @@
 
   {% if site.pithyquote %}
   <div class="widget">
-    <p>{{ site.pithyquote }}</p>
+    <p>
+      <script>
+      var quotes = [];
+      {% for quote in site.pithyquote %}
+      quotes.push('{{ quote | escape  }}');
+      {% endfor %}
+      document.write(quotes[Math.floor(Math.random() * quotes.length)]);
+      </script>
+    </p>
   </div>
   {% endif %}
- 
+
   {% if site.mailchimp %}
   <div class="widget widget-newsletter">
     <h3 class="widget-title">Newsletter</h3>
