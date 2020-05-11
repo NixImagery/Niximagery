@@ -1,6 +1,6 @@
 ---
 title: Lost and found
-description: Exposures
+description: Images recovered from old found film
 # published: no
 # author: Nick
 layout: post
