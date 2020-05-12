@@ -24,7 +24,7 @@
   {% endif %}
 
   <div class="widget widget-social">
-    <h3 class="widget-title">Subscribe & Follow</h3>
+    <h3 class="widget-title">Social</h3>
     <ul class="social-profiles list-reset">
       {% if site.facebook %}
       <li class="social-profiles-item">
@@ -84,9 +84,9 @@
 
   {% if site.mailchimp %}
   <div class="widget widget-newsletter">
-    <h3 class="widget-title">Newsletter</h3>
-    <div class="newsletter-subtitle">Get Interesting News</div>
-    <div class="newsletter-text">Receive the latest news via email.</div>
+    <h3 class="widget-title">Subscribe</h3>
+    <!-- <div class="newsletter-subtitle">Get Interesting News</div> -->
+    <div class="newsletter-text">Receive occasional news via email.</div>
     <form class="c-newsletter-form validate" action="{% if site.mailchimp %}//{{site.mailchimp}}{% else %}#{% endif %}" method="POST"
       id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
       <div class="newsletter-group">
@@ -94,6 +94,7 @@
           <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
           <i class="email-icon ion ion-ios-mail"></i>
           <input class="newsletter-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="E-mail">
+          <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="gdpr_89746" name="gdpr[89746]" value="Y" } class="av-checkbox" hidden checked>
         </div>
         <input class="newsletter-button" id="mc-embedded-subscribe" type="submit" name="subscribe" value="Subscribe">
       </div>
