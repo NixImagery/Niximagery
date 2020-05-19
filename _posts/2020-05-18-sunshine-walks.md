@@ -29,21 +29,21 @@ I next picked up the camera when, on another sunny day, we took ourselves on a b
 
 ![](/img/img20200518_19103767.jpg)
 
-We haardly stopped on the long drive back to Scotland, but stop we did, long enough to appreciate poppies.
+We had stayed in a little Air B&B in the pretty village of Great Wymondley, the smaller of the two Wymondleys, not far from the A1. The country kitchen of the old stable block featured a table where we had sat in the sunrays and listened to the voices of the host's children playing at the big house. There were poppies.
 
 ![](/img/img20200518_19224915.jpg)
 
 ## Rosyth
 
-The remaining half dozen frames were made on short exercise trips out the back door during the continuing COVID-19 restrictions.
+The remaining half dozen frames were made on short exercise trips out the back door and into the park during the continuing COVID-19 restrictions.
 
 ![](/img/img20200518_19410207.jpg)
 
-Blossom is so photogenic, and we are lucky to be living in a place where there is plenty to be found.
+Blossom is so photogenic, and we are lucky to be living in a place where there is plenty to be found at this time of year.
 
 ## The camera
 
-The camera I used for this roll was an eBay-sourced Nikon FM of similar vintage to my old FM, whose shutter was sadly condemned last year. It feels very similar but different, not least because the focusing screen is quite mucky, which reminds me every time I frame a shot that this is a substitute for my *real* Nikon FM. I am loving the lens, however, which is the superb AI-s 28mm f/2.8 which gives excellent results across a range of apertures.
+The camera I used for this roll was an eBay-sourced Nikon FM of similar vintage to my old FM, whose shutter was sadly condemned last year. It feels very similar but different, not least because the focusing screen is quite mucky, which reminds me every time I frame a shot that this is a substitute for my *real* Nikon FM. It's just not the same. I am loving the lens, however, which is the superb AI-s 28mm f/2.8 which gives excellent results across a range of apertures.
 
 ### Notes
 
