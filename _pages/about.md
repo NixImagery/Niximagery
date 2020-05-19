@@ -2,7 +2,7 @@
 layout: page
 title: About
 showinmenu: yes
-image: Portra-160-2.4-Feb-13-2020-1-sm.jpg
+image: Dunbar.jpg
 permalink: /about/
 ---
 
@@ -10,3 +10,5 @@ My name is Nick Hood. Jack of All, Master of None and perpetually frustrated by 
 
 ### Photography
 This site is a place where I can expand on the quick-and-dirty posting of images that I do in social channels and on my [photo website](https://photo.cullaloe.net). There are often stories to go with the pictures and I wanted to try to make a space where I can, if I can find the time, tell the stories of the images. Or maybe post the images of the stories. Whatever. I hope you enjoy it - thanks for stopping by - and please post comments or questions if you like.
+
+The header photo was taken by my wife. She is [a better photographer than I am](https://karamudie.co.uk/).
