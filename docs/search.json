@@ -166,7 +166,7 @@
         "tags"     : "",
         "url"      : "/exposures/",
         "date"     : "",
-        "content"  : "Film exposure listThese pages contain listings of the exposures taken in each roll of film, with details of the camera and exposure settings for each frame, where I noted it at the time. It's really just my reference. Not all of these were scanned, and most of them aren't on this site. Ask if you're particularly interested.      December 2019 | Fujifilm Superia 400 35mm      January 2020 | Fujifilm Superia 400 35mm      February 2020 | Ilford PanF Plus 120      February 2020 | Faroes Trip February 2020 120      March 2020 | Ilford PanF Plus 120      March 2020 | Kodacolour II 120      March 2020 | Ilford Delta 400 35mm      April 2020 | Kodak T-Max 400 120      April 2020 | Kodak Ektachrome E100 35mm      April 2020 | Kodak Verichrome 120      May 2020 | Kodak Portra 800 35mm      June 2020 | Potsdam in an Isolette      June 2020 | Lomography Potsdam 100      July 2020 | Bergger Panchro 400      July 2020 | Lomography Berlin 400  "
+        "content"  : "Film exposure listThese pages contain listings of the exposures taken in each roll of film, with details of the camera and exposure settings for each frame, where I noted it at the time. It's really just my reference. Not all of these were scanned, and most of them aren't on this site. Ask if you're particularly interested.      December 2019 | Fujifilm Superia 400 35mm      January 2020 | Fujifilm Superia 400 35mm      February 2020 | Ilford PanF Plus 120      February 2020 | Faroes Trip February 2020 120      March 2020 | Ilford PanF Plus 120      March 2020 | Kodacolour II 120      March 2020 | Ilford Delta 400 35mm      April 2020 | Kodak T-Max 400 120      April 2020 | Kodak Ektachrome E100 35mm      April 2020 | Kodak Verichrome 120      May 2020 | Kodak Portra 800 35mm      June 2020 | Potsdam in an Isolette      June 2020 | Lomography Potsdam 100      July 2020 | Bergger Panchro 400      July 2020 | Ilford Ortho 80      July 2020 | Lomography Berlin 400      July 2020 | Lomography Berlin 400  "
      
    } ,
   
@@ -363,11 +363,33 @@
   
    {
      
+        "title"    : "Ilford Ortho 80",
+        "category" : "",
+        "tags"     : "Nikon FM, Ilford Ortho 80",
+        "url"      : "/exposures/2020-07-13-Ilford-orthochrome-80.html",
+        "date"     : "2020-07-13 00:00:00 +0100",
+        "content"  : "Black and white orthochromatic film, cost £12.50 per roll from Analog Wonderland. Loaded 13th July 2020, in camera. Used without a filter.            Brand      Type      ISO      Format      Exposures      Camera      Lens                  Ilford      Ortho      80      35mm      36      Nikon FM      Nikon AI-s 28mm f/2.8      Frame|Image|Aperture|Shutter|Comment—-:|:—-|:—-:|:—-:|:——                              Clachtoll beach          f/22          1/125s          13th July                                                  Clachtoll beach          f/16          1/125s                                                                                                              Waves                  f/8                  1/1000s                  Clachtoll                                                                                                      Wrench rock          f/11          1/250s          Clachtoll                                     7., 8.          Salmon bothy          f/11          1/250s          Clachtoll                                                  Ardvreck castle          f/11          1/1250s          14th July                                                  Sheds at Ballachulish          f/5.6          1/60s          hand held                                                  Glencoe          f/11          1/30s          h.h.                                                  Etive Mór          f/16          1/30s                                                  Etive Mór          f/11          1/60s                      |Buachaille Etive Mór|f/22|1/8s|Portrait15."
+     
+   } ,
+  
+   {
+     
         "title"    : "Lomography Berlin 400",
         "category" : "",
         "tags"     : "Fuji GW690ii, Lomography Berlin 400",
         "url"      : "/exposures/2020-07-13-Lomography-Berlin-400.html",
         "date"     : "2020-07-13 00:00:00 +0100",
+        "content"  : "In the camera from 12th - 14th July, with a yellow filter for the sky. Kino film, £9 per roll from Analog Wonderland.            Brand      Type      ISO      Format      Exposures      Camera      Lens                  Lomography      Berlin      400      120      8      Fuji GW 690 ii      Fixed Fuji 90mm                  Frame      Image      Aperture      Shutter      Comment                  1., 2.      Achmevlich Beach      f/16      1/125s      13th July              3.      Glencoe      f/16      1/80s      14th July, portrait              4. - 6.      Etive Mór      f/16      1/125s                     7.      Buachaille Etive Mór      f/16      1/60s      Tripod              8.      Buachaille Etive Mór      f/32      1/30s      Tripod      "
+     
+   } ,
+  
+   {
+     
+        "title"    : "Lomography Berlin 400",
+        "category" : "",
+        "tags"     : "Fuji GW690ii, Lomography Berlin 400",
+        "url"      : "/exposures/2020-07-15-Lomography-Berlin-400.html",
+        "date"     : "2020-07-15 00:00:00 +0100",
         "content"  : "In the camera from 12th - 14th July. Kino film, £9 per roll from Analog Wonderland.            Brand      Type      ISO      Format      Exposures      Camera      Lens                  Lomography      Berlin      400      120      8      Fuji GW 690 ii      Fixed Fuji 90mm                  Frame      Image      Aperture      Shutter      Comment                  1.                                          2.                                          3.                                          4.                                          5.                                          6.                                          7.                                          8.                                  "
      
    } 
