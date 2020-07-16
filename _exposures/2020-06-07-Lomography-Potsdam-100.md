@@ -12,13 +12,14 @@ tags:
 ---
 Black and white negative film, cost £8.00 per roll from Analog Wonderland. Exposed between 4 - 7 Jun 2020 in and around Barkway, Hertfordshire. 
 
-<!-- processed at home in Rodinal R09 one shot, works out at something like 75p per shot. -->
+I processed this film at home, intending to semi-stand develop in Rodinal R09 one shot, which would have worked out at something like 75p per shot. However, I made a stupid mistake, and reached for the stop solution instead of the developer, resulting in completely blank (transparent) carrier at the end (not even the manufacturer's film markings along the side).
 
 Brand|Type|ISO|Format|Exposures|Camera|Lens
 :----|:---|:--|:-----|:--------|:-----|:----
 Lomography|Potsdam Kino film|100|120|12|Agfa Isolette I|Agfa Agnar 1:4.5/85
 
 Barkway 4-7 Jun 2020
+
 Frame|Image|Aperture|Shutter|Comment
 ----:|:----|:------:|:-----:|:------
 1.|War memorial|f/8|1/25s|4 Jun
