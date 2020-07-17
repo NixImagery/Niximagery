@@ -7,7 +7,7 @@ layout: post
 image: 2020-04-17-Kodak-TMY-12.jpg
 tags:
    - Agfa Isolette I
-   - Lomography Potsdam
+   - Lomography Potsdam 100
    - Rodinal R09
 ---
 Black and white negative film, cost £8.00 per roll from Analog Wonderland. Exposed between 4 - 7 Jun 2020 in and around Barkway, Hertfordshire. 
