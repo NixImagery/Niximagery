@@ -12,7 +12,7 @@ tags:
   - Kodak Portra 800
   - Pattiesmuir
 ---
-We took a walk down at Pattiesmuir again, because we can and we need to. I took my Nikon FM loaded with Kodak Portra 800 this time, and my little Ricoh GR III in my pocket. This gave me a picture to share on Instagram (above) when we got home - with a fresh 36-exposure roll of Portra, it might be a while before I get these processed and scanned for sharing.
+We took a walk down at Pattiesmuir again, because we can and we need to. I took my Nikon FM loaded with Kodak Portra 800 this time, and my little Ricoh GR III in my pocket. This gave me a picture to share on Instagram (above) when we got home - with a fresh 36-exposure roll of Portra, it might be a while before I get these processed and scanned for sharing[^july].
 
 This little place is a secret haven for photographers, it's so photogenic and variable with the seasons. The bluebells are coming, after the last frosts have become ancient history. The wild garlic is flowering, too, and the whole place, with its gnarled stumps and undergrowth on the hill, is magical.
 
@@ -20,6 +20,8 @@ This little place is a secret haven for photographers, it's so photogenic and va
 ...
 
 ### Notes
+
+[^july]: Eventually, this was in July. I finished the roll during our [trip to Assynt](2020-07-14-assynt) and had it processed at AG Photo Labs.
 
 Image|Camera|Lens|Film|Aperture|Shutter|Comment
 :----|:-----|:---|:---|:------:|:----:|:------

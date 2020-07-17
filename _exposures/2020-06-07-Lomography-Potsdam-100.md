@@ -1,5 +1,5 @@
 ---
-title: Potsdam in an Isolette
+title: Potsdam in an Isolette 120
 description: Exposures
 # published: no
 # author: Nick

@@ -1,5 +1,5 @@
 ---
-title: Lomography Potsdam 100
+title: Lomography Potsdam 100 120
 description: Exposures
 # published: no
 # author: Nick

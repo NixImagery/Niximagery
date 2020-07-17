@@ -1,5 +1,5 @@
 ---
-title: Lomography Berlin 400
+title: Lomography Berlin 400 120
 description: Exposures
 # published: no
 # author: Nick

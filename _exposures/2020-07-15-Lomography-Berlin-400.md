@@ -1,7 +1,7 @@
 ---
-title: Lomography Berlin 400
+title: Lomography Berlin 400 120
 description: Exposures
-# published: no
+published: no
 # author: Nick
 layout: post
 # image: 20-3-20-Pro50-1.jpg
