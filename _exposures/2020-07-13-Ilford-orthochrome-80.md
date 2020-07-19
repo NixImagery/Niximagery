@@ -9,7 +9,7 @@ tags:
   - Nikon FM
   - Ilford Ortho 80
 ---
-Black and white orthochromatic film, cost £12.50 per roll from Analog Wonderland. Loaded 13th July 2020, in camera. Used without a filter.
+Black and white orthochromatic film, cost £12.50 per roll from Analog Wonderland. Loaded 13th July 2020, still in camera. Used without a filter.
 
 Brand|Type|ISO|Format|Exposures|Camera|Lens
 :----|:---|:--|:-----|:--------|:-----|:----
@@ -27,4 +27,25 @@ Frame|Image|Aperture|Shutter|Comment
 11.|Glencoe|f/11|1/30s|h.h.
 12.|Etive Mór|f/16|1/30s
 13.|Etive Mór|f/11|1/60s
-14.|Buachaille Etive Mór|f/22|1/8s|Portrait
+14.|Buachaille Etive Mór|f/22|1/8s|portrait
+15.|Cottage at Glen Etive|f/5.6|1/125s
+16.|Cottage at Glen Etive|f/8|1/60s|portrait
+17.|Belhaven sands towards Bass Rock|f/16|1/125s|18th July
+18.|Bass Rock posts|f/16|1/125s
+19.|Beach posts|f/22|1/60s
+20.|Beach posts|f/16|1/125s
+21., 22.|Beach posts|f/22|1/8s|0.6ND filter
+23.|Beach posts|f/22|1/60s|0.6ND filter
+24.|Kids playing|f/5.6|1/500s
+25.|Kids playing|f/8|1/1000s
+26.|||
+27.|||
+28.|||
+29.|||
+30.|||
+31.|||
+32.|||
+33.|||
+34.|||
+35.|||
+36.|||
