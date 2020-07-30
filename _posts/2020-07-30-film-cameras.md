@@ -47,7 +47,7 @@ I picked up the three cameras today, all in excellent working order, with a clea
 * Get your CLA done by a reputable, local repair shop
 
 ## Recommended suppliers
-I buy (too much) film from [Analog Wonderland](https://analoguewonderland.co.uk/), and get it developed at [AG Photolab](https://www.ag-photolab.co.uk/), who have been brilliant in helping me make sense of some of the recent development problems.
+I buy (too much) film from [Analogue Wonderland](https://analoguewonderland.co.uk/), and get it developed at [AG Photolab](https://www.ag-photolab.co.uk/), who have been brilliant in helping me make sense of some of the recent exposure problems.
 
 [Cameratiks](https://www.cameratiks.co.uk/) in Edinburgh is staffed by calm, competent and polite people who know what they are doing. They are not cheap, nor are they expensive: you can buy quality digital and film gear there, and have them offer decent advice on the basis that you will go back there next time you need anything. That's my kind of business.
 
