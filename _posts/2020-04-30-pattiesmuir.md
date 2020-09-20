@@ -17,7 +17,7 @@ We took a walk down at Pattiesmuir again, because we can and we need to. I took 
 This little place is a secret haven for photographers, it's so photogenic and variable with the seasons. The bluebells are coming, after the last frosts have become ancient history. The wild garlic is flowering, too, and the whole place, with its gnarled stumps and undergrowth on the hill, is magical.
 
 ## Next steps
-...
+Get the Nikon serviced. The film was pretty much wasted, as most of the shots had what I described as "flare" but were in fact light leaks in the camera. Nothing worth showing here, I am sorry. Thank goodness for the Ricoh.
 
 ### Notes
 
