@@ -21,4 +21,9 @@ I took my little old Afga Isolette, a ridiculously cheap camera (some of the fil
 ![](/img/Berlin-400-Afga-20201031_12353688.jpg)
 **At the Hermitage, looking towards the bridge.**
 
-I have ditched the neurotic habit of writing down every exposure setting of every frame. Consequently, I've enjoyed my photography more, although I am less certain of good results. One benefit of living in the modern age is that we have tools to make adjustments after scanning to yield something not unpleasing. These were tweaked a little in Capture One to try and retain the character of the film, as well as a reasonable photograph.
+I have ditched the neurotic habit of writing down every exposure setting of every frame. Consequently, I've enjoyed my photography more, although I am less certain of good results. One benefit of living in the modern age is that we have tools to make adjustments after scanning to yield something not unpleasing. These were tweaked a little in Capture One to try and retain the character of the film, as well as a reasonable photograph. This example features a little colour toning in the highlights and shadows:
+
+![](/img/Berlin-400-Afga-20201031_12134961 1.jpg)
+**Killiekrankie shore, cropped and split toning in Capture One**
+
+All a bit of fun.
