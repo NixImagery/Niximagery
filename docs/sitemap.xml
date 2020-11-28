@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://niximagery.com/cameras/afga-isolette.html</loc>
+<lastmod>2020-11-28T21:00:54+00:00</lastmod>
+</url>
+<url>
+<loc>https://niximagery.com/cameras/fuji-gw690ii.html</loc>
+<lastmod>2020-11-28T21:00:54+00:00</lastmod>
+</url>
+<url>
+<loc>https://niximagery.com/cameras/nikon-fm.html</loc>
+<lastmod>2020-11-28T21:00:54+00:00</lastmod>
+</url>
+<url>
 <loc>https://niximagery.com/exposures/2019-12-31-Fuji-400.html</loc>
 <lastmod>2019-12-31T00:00:00+00:00</lastmod>
 </url>
@@ -198,6 +210,9 @@
 </url>
 <url>
 <loc>https://niximagery.com/about/</loc>
+</url>
+<url>
+<loc>https://niximagery.com/cameras/</loc>
 </url>
 <url>
 <loc>https://niximagery.com/exposures/</loc>
