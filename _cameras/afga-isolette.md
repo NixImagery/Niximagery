@@ -35,6 +35,8 @@ I got the light seals replaced by [Cameratiks](https://www.cameratiks.co.uk/) in
 **Yester Castle, November 2020** *Ilford Delta 3200, stand developed in Rodinal R09*
 
 ## Notes
+I'm thankful to [Camera Wiki](http://camera-wiki.org/wiki/Isolette#Isolette_I) and [Roland and Caroline](http://www.rolandandcaroline.co.uk/isolettei/isolettei.html) for their comprehensive information on this camera. Knowing more about the machine is of great technical benefit in operating it, but also brings me closer to it emotionally and aesthetically.
+
 [^arse1]: If you don't remember to wind the film on, the next image will superimpose on the the last. Perfect for double exposures, if you're into that.
 
 [^arse2]: You can't release a shutter that ain't cocked, Cock.
