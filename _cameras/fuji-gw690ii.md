@@ -12,7 +12,7 @@ My wife and I were out taking photos on a frosty morning at the end of 2019 when
 
 Because the Fuji doesn’t have a meter, I bought a Gossen Sixtino meter on eBay for £20. There’s also an app for my iPhone that is very convenient.
 
-I had light leask with this camera from the outset, which was disappointing. I took it to [Cameratiks](https://www.cameratiks.co.uk/) in Morningside for a CLA, along with two Nikon FM SLRs, who sorted it out for me.
+I had light leaks with this camera from the outset, which was disappointing. I took it to [Cameratiks](https://www.cameratiks.co.uk/) in Morningside for a CLA, along with two Nikon FM SLRs, who sorted it out for me.
 
 ### Notes
 [^2]: This medium format rangefinder is enormous, of circus clown comedy proportions. It is sometimes referred to as the "Texas Leica" for this reason.
