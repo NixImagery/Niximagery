@@ -22,7 +22,7 @@ I finished the roll but clearly the film had suffered over time.
 ![](/img/20-3-20-KodacolorII-10.jpg)
 **Kinghorn, Fife, 2020**
 
-The camera itself is a second version Isolette I was produced between 1955 and 1958, according to [camera-wiki](http://camera-wiki.org/wiki/Isolette#Isolette_I).
+The camera itself is a second version Isolette I, produced between 1955 and 1958, according to [camera-wiki](http://camera-wiki.org/wiki/Isolette#Isolette_I).
 
 ## The Isolette I
 ![](/img/Isolette.jpg)
