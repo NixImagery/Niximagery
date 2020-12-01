@@ -14,11 +14,11 @@ task :generate do
   })).process
 end
 
-# task :test, [:var] do |task, args|
-#   args.with_defaults(var: 'Commit via Rake')
-#   puts "#{args.var.inspect}"
-#   puts 2 + 2
-# end
+# Usage:
+# $ rake
+# $ rake generate
+# $ rake publish
+# $ rake publish["Your comment here"]
 
 desc "Generate and publish blog to master/docs"
 task :publish, [:var] => [:generate] do |task, args|
@@ -32,7 +32,7 @@ Dir.mktmpdir do |tmp|
     system "git commit -a -m #{args.var.inspect}"
     system "git push origin master --force"
     system "git checkout master"
-    system "echo yolo"
+    system "echo Finished."
   end
 end
 
