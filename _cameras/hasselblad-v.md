@@ -12,6 +12,8 @@ So, this will be just notes on the system for me to refer to as I learn. Eventua
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">do it ; - )</p>&mdash; Dr David Mitchell (@DSM888) <a href="https://twitter.com/DSM888/status/1334098543984906247?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Notes
+## Sources
+
+I am grateful to a number of authors and publishers for sharing their useful guides and instruction on the Hasselblad *marque*, not least of which is the superb [Emulsive Hasselblad V-System Master Guide](https://emulsive.org/reviews/camera-reviews/hasselblad-camera-reviews/the-hasselblad-v-system-master-guide-overview). I haven't figured out who "EM" is yet but he says that his site is not his "day job" yet so I figure he's just being professionally coy, using his initials. If you're curious about Hasselblad, you could do worse than just read his articles.
 
 The header image is the iconic "Earthrise" taken on Christmas Eve, 1968 by [Bill Anders](https://en.wikipedia.org/wiki/Bill_Anders) during the Apollo 8 mission, on a Hasselblad EL/M and Zeiss Sonnar f/5.6 250mm lens.
