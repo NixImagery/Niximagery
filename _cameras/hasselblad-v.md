@@ -8,13 +8,20 @@ type: Medium format SLR
 
 I do not own a Hasselblad. Yet. What I hope to do at first is learn enough about the so-called V-system to be able to acquire a coherent kit, piece by piece, which seems to be the smart (more economical) way to do it. Whole systems attract a premium -- even at auction, an early 500C in good condition will fetch over £1,800.
 
-So, this will be just notes on the system for me to refer to as I learn. Eventually, it might record my journey to acquisition. I have some encouragement:
+## Introduction
+This article will be just notes on the system for me to refer to as I learn. Eventually, it might record my journey to acquisition. I have had some encouragement:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">do it ; - )</p>&mdash; Dr David Mitchell (@DSM888) <a href="https://twitter.com/DSM888/status/1334098543984906247?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+The piece I refer to in that Tweet is David's [personal reflection on JCH](https://www.japancamerahunter.com/2020/11/hasselblad-a-personal-reflection/), in which he sketches the history of Hasselblad and his own passion for the brand. In it, David describes the early models which had a focal plane shutter and Kodak lenses. These were replaced by the copal shuttered Zeiss glass that has been part of the success of the V-series. It is these cameras, that became known as the *V-series*, that I'm keen to explore. David makes a point that resonates with my thinking:
+
+> "Good design is discreet and intuitive – if it feels like it should do something then well designed things often do – it’s Mac vs PC for me..."
+
+
+
 ## Sources
 
-I am grateful to a number of authors and publishers for sharing their useful guides and instruction on the Hasselblad *marque*, not least of which is the superb [Emulsive Hasselblad V-System Master Guide](https://emulsive.org/reviews/camera-reviews/hasselblad-camera-reviews/the-hasselblad-v-system-master-guide-overview) by Emmett Brown[^nto].  If you're curious about Hasselblad, you could do worse than just read his articles.
+As well as David Mitchell's piece in Japan Camera Hunter, I am grateful to a number of authors and publishers for sharing useful guides and instruction on the Hasselblad *marque*, not least of which is the superb [Emulsive Hasselblad V-System Master Guide](https://emulsive.org/reviews/camera-reviews/hasselblad-camera-reviews/the-hasselblad-v-system-master-guide-overview) by Emmett Brown[^nto].  If you're curious about Hasselblad, you could do worse than just read his articles.
 
 [^nto]: No, not [that one](https://en.wikipedia.org/wiki/Emmett_Brown). [The other one](https://www.facebook.com/emulsive.overlord). He says that his site is not his "day job" yet so he tends to be professionally coy, using the epithet, "EM".
 
