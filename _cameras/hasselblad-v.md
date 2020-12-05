@@ -17,7 +17,15 @@ The piece I refer to in that Tweet is David's [personal reflection on JCH](https
 
 > "Good design is discreet and intuitive – if it feels like it should do something then well designed things often do – it’s Mac vs PC for me..."
 
+## Bodies
+The 500 series cameras, including the super-wide angle SWC bodies, have a top shutter speed of 1/500 s (hence the designation). The leaf shutter is in the lens. Later 2000/200 series bodies revert to a focal plane shutter which can fire at up to 1/2000 s. 
 
+### Designations
+The **C** indicates compur-shutter compatible, and **/M** is a *modified* designation. **CX** and **CXi** are TTF/OTF X-sync flash compatible, the **i** meaning *improved*.
+
+The SWA super-wide angle bodies are based on the older series one and two cameras (1000 and 1600).
+
+F indicates a focal plane shutter with additional letters to indicate compatibility: **FC**, **FCM** and **FCW** are compatible with Compur lenses.
 
 ## Sources
 
