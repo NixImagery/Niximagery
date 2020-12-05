@@ -14,6 +14,8 @@ So, this will be just notes on the system for me to refer to as I learn. Eventua
 
 ## Sources
 
-I am grateful to a number of authors and publishers for sharing their useful guides and instruction on the Hasselblad *marque*, not least of which is the superb [Emulsive Hasselblad V-System Master Guide](https://emulsive.org/reviews/camera-reviews/hasselblad-camera-reviews/the-hasselblad-v-system-master-guide-overview). I haven't figured out who "EM" is yet but he says that his site is not his "day job" yet so I figure he's just being professionally coy, using his initials. If you're curious about Hasselblad, you could do worse than just read his articles.
+I am grateful to a number of authors and publishers for sharing their useful guides and instruction on the Hasselblad *marque*, not least of which is the superb [Emulsive Hasselblad V-System Master Guide](https://emulsive.org/reviews/camera-reviews/hasselblad-camera-reviews/the-hasselblad-v-system-master-guide-overview) by Emmet Brown[^nto].  If you're curious about Hasselblad, you could do worse than just read his articles.
+
+[^nto]: No, not [that one](https://en.wikipedia.org/wiki/Emmett_Brown). [The other one](https://www.facebook.com/emulsive.overlord). He says that his site is not his "day job" yet so he tends to be professionally coy, using the epithet, "EM".
 
 The header image is the iconic "Earthrise" taken on Christmas Eve, 1968 by [Bill Anders](https://en.wikipedia.org/wiki/Bill_Anders) during the Apollo 8 mission, on a Hasselblad EL/M and Zeiss Sonnar f/5.6 250mm lens.
