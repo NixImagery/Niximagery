@@ -3,6 +3,7 @@ title: Film cameras
 date: 2020-01-30 08:00
 author: Nick
 layout: post
+published: no
 image: IMG_8568-FM.jpg
 tags:
   - Fuji GW690ii

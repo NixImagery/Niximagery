@@ -36,7 +36,7 @@ instafeed: false # To enable the instafeed, use the value true. To turn off use 
 # Pithy photographc quote
 pithyquote: 
   - "\"There are always two people in every picture: the photographer and the viewer.\" — Ansel Adams"
-  - "\"You don't take a photograph, you make it.\" — Ansel Adams"
+  # - "\"You don't take a photograph, you make it.\" — Ansel Adams"
   - "\"A photograph is a secret about a secret. The more it tells you the less you know.\" — Diane Arbus"
   - "\"What the Photograph reproduces to infinity has occurred only once\" - Roland Barthes"
   - "\"Make visible, what without you, might perhaps never have been seen.\" ― Robert Bresson"
@@ -50,9 +50,9 @@ pithyquote:
   - "\"Photographs are as much an interpretation of the world as paintings and drawings are.\" ― Susan Sontag"
   - "\"The painter constructs, the photographer discloses.\" ― Susan Sontag"
   - "\"There is an aggression implicit in every use of the camera.\" ― Susan Sontag"
-  - "\"To photograph someone is a sublimated murder.\" ― Susan Sontag"
+  # - "\"To photograph someone is a sublimated murder.\" ― Susan Sontag"
   - "\"When Cartier-Bresson goes to China, he shows that there are people in China, and that they are Chinese.\" ― Susan Sontag"
-  - "\"With photography, eclecticism has no limits.\" ― Susan Sontag"
+  # - "\"With photography, eclecticism has no limits.\" ― Susan Sontag"
 
 #-------------------------------
 # Google Analytics
@@ -67,6 +67,7 @@ mailchimp: niximagery.us18.list-manage.com/subscribe/post?u=87266cb51fc169a033c1
 #-------------------------------
 # Build settings
 markdown: kramdown
+
 # permalink: ':title/'
 permalink: /:year/:month/:day/:title:output_ext
 plugins:
