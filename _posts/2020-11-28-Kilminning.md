@@ -2,13 +2,11 @@
 title: Kilminning
 layout: post
 image: Fujifilm-Neopan-Acros-II-100-20201127_21154833.jpg
-published: no
+# published: no
 #exposures: 2020-02-09-faroes
 tags:
   - Fuji GW690ii
   - Fuji Acros II
-  - Fuji Pro 400H
-  - Ricoh GRIII
 ---
 We took a weekend run up the coast to Crail and the Kilminning nature reserve, where we played on the beach. I used up my last roll of Acros in my GW690ii rangefinder -- I thought it was polite to put Fuji in Fuji.
 
@@ -27,4 +25,3 @@ I developed the Acros film at home in Rodinal R09 for an hour, turning once half
 Camera|Lens|Film|Comment
 :-----|:---|:---|:------
 Fuji GW690ii|90mm|Fuji Acros 100 II|Yellow filter
-Fuji GW690ii|90mm|Fuji Pro 400H|
