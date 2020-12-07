@@ -60,8 +60,8 @@ google-analytics: UA-29333042-11 # Add your identifier. For example UA-99631805-
 
 
 #-------------------------------
-# Newsletter
-mailchimp: niximagery.us18.list-manage.com/subscribe/post?u=87266cb51fc169a033c1cfe1e&amp;id=a0be9cf040 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+# Newsletter -- honestly, I can't be arsed with this.
+# mailchimp: niximagery.us18.list-manage.com/subscribe/post?u=87266cb51fc169a033c1cfe1e&amp;id=a0be9cf040 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
 #-------------------------------
