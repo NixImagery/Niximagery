@@ -28,6 +28,7 @@ The piece I refer to in that Tweet is David's [personal reflection](https://www.
 There are separate and distinct parts to the V-system that need to work together to make a camera. The *lens* attaches to and works with the *body* to capture light. The body is more than just a box to mount things on to: it houses the controls, the mirror (these are single-lens reflex cameras) and provides the framework for the other system components to interface with. The *viewfinder* is for the operator to compose the scene with, focusing on the *screen*. The *back* captures the image on to film or a digital sensor.
 
 ## Timeline
+
 Production | Model | Notes
 :--------- | :---: | :-------
 1957 -- 1970 | 500 C   | Original Compur leaf-shutter
