@@ -25,7 +25,17 @@ The piece I refer to in that Tweet is David's [personal reflection](https://www.
 
 ## The parts of the system
 
-There are separate and distinct parts to the V-system that need to work together to make a camera. The *lens* attaches to and works with the *body* to capture light. The body is more than just a box to mount things on to: it houses the controls, the mirror (these are single-lens reflex cameras) and provides the framework for the other system components to interface with. The *viewfinder* is for the operator to compose the scene with. The *back* captures the image on to film or a digital sensor.
+There are separate and distinct parts to the V-system that need to work together to make a camera. The *lens* attaches to and works with the *body* to capture light. The body is more than just a box to mount things on to: it houses the controls, the mirror (these are single-lens reflex cameras) and provides the framework for the other system components to interface with. The *viewfinder* is for the operator to compose the scene with, focusing on the *screen*. The *back* captures the image on to film or a digital sensor.
+
+## Timeline
+Production | Model | Notes
+:--------- | :---: | :-------
+1957 -- 1970 | 500 C   | Original Compur leaf-shutter
+1970 -- 1994 | 500 C/M | User-changeable screen
+1988 -- 1994 | 503 C/X | Built-in TTL flash meter, “Palpas” shutter coating, improved Acute Matte screen
+1994 -- 1997 | 501 C   | Complete kit, A12 magazine, 80mm lens 
+1997 -- 2005 | 501 C/M | The best Acute Matte D screen, CW winder
+1996 -- 2013 | 503 C/W | Improved mirror system
 
 ## Bodies
 The 500 series cameras, including the super-wide angle SWC bodies, have a top shutter speed of 1/500 s (hence the series name). The leaf shutter is in the lens. Later 2000/200 series bodies revert to a focal plane shutter which can fire at up to 1/2000 s. 
