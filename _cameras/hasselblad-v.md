@@ -39,7 +39,7 @@ Production | Model | Notes
 1996 -- 2013 | 503 C/W | Improved mirror system
 
 ## Bodies
-The 500 series cameras, including the super-wide angle SWC bodies, have a top shutter speed of 1/500 s (hence the series name). The leaf shutter is in the lens. Later 2000/200 series bodies revert to a focal plane shutter which can fire at up to 1/2000 s. 
+The 500 series cameras, including the super-wide angle SWC bodies, have a top shutter speed of 1/500 s (hence the series name). A leaf shutter is in the lens. Later 2000/200 series bodies revert to a focal plane shutter which can fire at up to 1/2000 s. 
 
 ### Designations
 The **C** indicates compur-shutter compatible, and **/M** is a *modified* designation. **CX** and **CXi** are TTF/OTF X-sync flash compatible, the **i** meaning *improved*.
@@ -51,7 +51,7 @@ F indicates a focal plane shutter with additional letters to indicate compatibil
 ## Sources
 {:.no_toc}
 
-As well as David Mitchell's piece in Japan Camera Hunter, I am grateful to a number of authors and publishers for sharing useful guides and instruction on the Hasselblad *marque*, not least of which is the superb [Emulsive Hasselblad V-System Master Guide](https://emulsive.org/reviews/camera-reviews/hasselblad-camera-reviews/the-hasselblad-v-system-master-guide-overview) by Emmett Brown[^nto].  If you're curious about Hasselblad, you could do worse than just read his articles.
+As well as David Mitchell's piece in Japan Camera Hunter, I am grateful to a number of authors and publishers for sharing useful guides and instruction on the Hasselblad *marque*, not least of which is the superb [Emulsive Hasselblad V-System Master Guide](https://emulsive.org/reviews/camera-reviews/hasselblad-camera-reviews/the-hasselblad-v-system-master-guide-overview) by Emmett Brown[^nto].  If you're curious about Hasselblad, you could do worse than just read his articles. Others, in no particular order, include [Photoethnography](http://www.photoethnography.com/ClassicCameras/Hasselblad500.html); [Hasselblad historical](http://www.hasselbladhistorical.eu/); and [Hasselblad.com](https://www.hasselblad.com/inspiration/history/500-series/).
 
 [^nto]: No, not [that one](https://en.wikipedia.org/wiki/Emmett_Brown). [The other one](https://www.facebook.com/emulsive.overlord). He says that his site is not his "day job" yet so he tends to be professionally coy, using the epithet, "EM".
 
