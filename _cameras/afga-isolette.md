@@ -34,6 +34,8 @@ I got the light seals replaced by [Cameratiks](https://www.cameratiks.co.uk/) in
 ![](/img/Ilford-Delta-3200-20201127_20114793.jpg)
 **Yester Castle, November 2020** *Ilford Delta 3200, stand developed in Rodinal R09*
 
+The shutter has three speeds: 1/25s, 1/50s and 1/200s, in addition to a bulb or B setting. The aperture runs from f/4.5 to f/32. Focusing distance is indicated in feet, with a separate ring indicating depth of field ranges for the selected aperture.
+
 ## Notes
 I'm thankful to [Camera Wiki](http://camera-wiki.org/wiki/Isolette#Isolette_I) and [Roland and Caroline](http://www.rolandandcaroline.co.uk/isolettei/isolettei.html) for their comprehensive information on this camera. Knowing more about the machine is of great technical benefit in operating it, but also brings me closer to it emotionally and aesthetically.
 
