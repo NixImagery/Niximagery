@@ -40,7 +40,7 @@ The shutter has three speeds: 1/25s, 1/50s and 1/200s, in addition to a bulb or 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/mrhood/albums/72157717287942686" title="Agfa Isolette I"><img src="https://live.staticflickr.com/65535/49663288168_142911202f_z.jpg" width="640" height="480" alt="Agfa Isolette I"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Notes
-I'm thankful to [Camera Wiki](http://camera-wiki.org/wiki/Isolette#Isolette_I) and [Roland and Caroline](http://www.rolandandcaroline.co.uk/isolettei/isolettei.html) for their comprehensive information on this camera. Knowing more about the machine is of great technical benefit in operating it, but also brings me closer to it emotionally and aesthetically.
+I'm thankful to [Camera Wiki](http://camera-wiki.org/wiki/Isolette#Isolette_I) and [Roland and Caroline](http://www.rolandandcaroline.co.uk/isolettei/isolettei.html) for their comprehensive information on this camera. Knowing more about the machine is of great technical benefit in operating it, but also brings me closer to it emotionally and aesthetically. There's a nice review on [35mmc](https://www.35mmc.com/28/05/2020/5-frames-with-an-agfa-isolette-by-rock/).
 
 [^arse1]: If you don't remember to wind the film on, the next image will superimpose on the the last. Perfect for double exposures, if you're into that.
 
