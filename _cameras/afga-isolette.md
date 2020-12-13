@@ -36,6 +36,9 @@ I got the light seals replaced by [Cameratiks](https://www.cameratiks.co.uk/) in
 
 The shutter has three speeds: 1/25s, 1/50s and 1/200s, in addition to a bulb or B setting. The aperture runs from f/4.5 to f/32. Focusing distance is indicated in feet, with a separate ring indicating depth of field ranges for the selected aperture.
 
+## on Flickr
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mrhood/albums/72157717287942686" title="Agfa Isolette I"><img src="https://live.staticflickr.com/65535/49663288168_142911202f_z.jpg" width="640" height="480" alt="Agfa Isolette I"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Notes
 I'm thankful to [Camera Wiki](http://camera-wiki.org/wiki/Isolette#Isolette_I) and [Roland and Caroline](http://www.rolandandcaroline.co.uk/isolettei/isolettei.html) for their comprehensive information on this camera. Knowing more about the machine is of great technical benefit in operating it, but also brings me closer to it emotionally and aesthetically.
 
