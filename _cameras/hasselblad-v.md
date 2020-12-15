@@ -63,7 +63,7 @@ Tele-Tessar C|350mm|f/5.6|f/45|Tele|B50 bayonet|Compur Synchro
 Hasselblad have made improvements with each iteration of the film backs: the later type IV backs have a dark slide holder which I imagine will be a very smart thing to have for a system in my hashy hands. If there's a nice safe place to put the dark slide, then I'm less likely to sit on it or drop it in a river. This Hasselblad is going outdoors.
 
 ## The hunt begins
-So, I think I'm looking for a 503 CW with a 42204 screen; an A12 Type IV back; waist-level viewfinder; and an 80mm Planar, or 250mm Sonnar lens. There is a complete 1998 kit on eBay with the 80mm, boxed, for a buy-it-now price of £2,800 or directly from [the seller](Mifsuds.COM) for £3K. Another 1997 kit is available for £2K. If I'm more humble about the age of the cameras, there's a 1986 501CM kit for £1300.
+So, at best I'm looking for a 503 CW with a 42204 screen; an A12 Type IV back; waist-level viewfinder; and an 80mm Planar, or 250mm Sonnar lens. There is a complete 1998 kit on eBay with the 80mm, boxed, for a buy-it-now price of £2,800 or directly from [the seller](Mifsuds.COM) for £3K. Another 1997 kit with a 2000 back is available with a 6 month warranty for £2K from Cambrian. If I'm more humble about the age of the cameras, there's a 1986 501CM kit for £1300: a private auction of a 1988 503 CX / 80mm T* planar realised the same price.
 
 ## Sources
 {:.no_toc}
