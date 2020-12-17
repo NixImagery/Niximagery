@@ -36,6 +36,7 @@ instafeed: false # To enable the instafeed, use the value true. To turn off use 
 # Pithy photographc quote
 pithyquote: 
   - "\"There are always two people in every picture: the photographer and the viewer.\" — Ansel Adams"
+  - "\"Bracketing is a sign of insecurity.\" — Ansel Adams"
   # - "\"You don't take a photograph, you make it.\" — Ansel Adams"
   - "\"A photograph is a secret about a secret. The more it tells you the less you know.\" — Diane Arbus"
   - "\"What the Photograph reproduces to infinity has occurred only once\" - Roland Barthes"
