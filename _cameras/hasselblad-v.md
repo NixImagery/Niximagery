@@ -65,6 +65,20 @@ Hasselblad have made improvements with each iteration of the film backs: the lat
 ## The hunt begins
 So, at best I'm looking for a 503 CW with a 42204 screen; an A12 Type IV back; waist-level viewfinder; and an 80mm Planar, or 250mm Sonnar lens. There is a complete 1998 kit on eBay with the 80mm, boxed, for a buy-it-now price of £2,800 or directly from [the seller](Mifsuds.COM) for £3K. Another 1997 kit with a 2000 back is available with a 6 month warranty for £2K from Cambrian. If I'm more humble about the age of the cameras, there's a 1986 501CM kit for £1300: a private auction of a 1988 503 CX / 80mm T* planar realised the same price.
 
+You do have to take your time and do your homework, I am learning. eBay is almost certainly not the right place to buy anything over £100, because it's full of crims and druggies. Even the reputable-looking places that sell on there, are selling on there for a reason. Check this out, for example:
+
+![](/img/ebayV.jpg)
+
+[Ken Rockwell](https://www.kenrockwell.com/tech/ebay/index.htm)'s guide is right on the money when it comes to evaluating sellers:
+
+> "The seller's feedback rating is a better predictor of the quality of an item than his description of it."
+
+The image above is from a 98.9% positive seller's listing. Ken suggests that: 
+
+> "Good feedback ratings are 99.8% and above. Bad feedback ratings are 99.6% and below. Don't even consider buying from anyone with much less of a feedback rating than 99.5%. When I have, I've often gotten junk."
+
+I've sent Ken [another donation](https://www.paypal.com/paypalme/kenrockwell). I was seriously tempted by that 503CW.
+
 ## Sources
 {:.no_toc}
 
