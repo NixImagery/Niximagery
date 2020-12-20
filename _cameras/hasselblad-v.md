@@ -2,6 +2,7 @@
 title: Hasselblad V
 author: Nick
 layout: post
+published: no
 image: apollo08_earthrise.jpg
 type: Medium format SLR
 ---
@@ -64,19 +65,18 @@ Tele-Tessar C|350mm|f/5.6|f/45|Tele|B50 bayonet|Compur Synchro
 Hasselblad have made improvements with each iteration of the film backs: the later type IV backs have a dark slide holder which I imagine will be a very smart thing to have for a system in my hashy hands. If there's a nice safe place to put the dark slide, then I'm less likely to sit on it or drop it in a river. This Hasselblad is going outdoors.
 
 ## The hunt begins
-So, at best I'm looking for a 501 CM or 503 CW with a 42204 screen; an A12 Type IV back; waist-level viewfinder; and an 80mm Planar, or 250mm Sonnar lens. There is a complete 1998 kit on eBay with the 80mm, boxed, for a buy-it-now price of £2,800 or directly from [the seller](Mifsuds.COM) for £3K. Another 1997 kit with a 2000 back is available with a 6 month warranty for £2K from Cambrian. If I'm more humble about the age of the cameras, there's a 1986 501CM kit for £1300: a private auction of a 1988 503 CX / 80mm T* planar realised the same price.
+So, at best I'm looking for a 501 CM or 503 CW with a 42204 screen; an A12 Type IV back; waist-level viewfinder; and an 80mm Planar lens. Things to watch for:
 
-Things to watch for:
-
-* The components are of similar age
+* That the components (back, body, lens) are of similar age
 * Serial numbers of back, roll carrier and dark slide match (last 3 digits)
 
-Some possibles (and maybe eventually, actuals) are listed below
+Some possibles (and maybe eventually, actuals) are listed below.
 
 Back | Body | Lens | VF  | Screen | Location | Date | Price | Notes
 ---- | ---- | ---- | --- | ------ | -------- | ---- | ----- | ------
-A12 IV | 501CM EU 97 | Planar 80mm New C T*  EU 97 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/str/Flashfix) | 24 Dec 20 | > £1000 | Auction
-A12 IV EE 99|-|-|-|-| [eBay UK](https://www.ebay.co.uk/str/Flashfix) | 20 Dec 20 | £ 370 | buy it now
+A12 IV EU 97 | 501CM EU 97 | Planar 80mm C T* 1996 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | 24 Dec 20 | > £1000 | Auction
+A12 IV EE 99|-|-|-|-| [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | 20 Dec 20 | £ 370 | buy it now
+A12 IV ER 98 | 503CW ER 98 | 80mm F2.8 CF 84 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/usr/mifsudsphotographic) 99.5% | 20 Dec 20 | £ 2799 | buy it now
 
 You do have to take your time and do your homework, I am learning. eBay is almost certainly not the right place to buy anything over £100, because it's full of crims and druggies. Even the reputable-looking places that sell on there, are selling on there for a reason. Check this out, for example:
 
