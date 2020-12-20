@@ -44,6 +44,7 @@ The 500 series cameras, including the super-wide angle SWx (which have fixed len
 Whilst many reviewers and vloggers have 500 CMs, and I really don't care about flash, the newer models with better mirrors, second shutter coatings and a bright screen seem to be more attractive for a first investment: this, because it is likely to be the only investment I make in a system like this. I might as well do it right, and do it once, if I can.
 
 ### Designations
+{:.no_toc}
 The **C** indicates compur-shutter compatible, and **/M** is a *modified* designation. **CX** and **CXi** are TTF/OTF X-sync flash compatible, the **i** meaning *improved*. The SWA super-wide angle bodies are based on the older series one and two cameras (1000 and 1600). F indicates a focal plane shutter with additional letters to indicate compatibility: **FC**, **FCM** and **FCW** are compatible with Compur lenses.
 
 ## Lenses
@@ -63,7 +64,19 @@ Tele-Tessar C|350mm|f/5.6|f/45|Tele|B50 bayonet|Compur Synchro
 Hasselblad have made improvements with each iteration of the film backs: the later type IV backs have a dark slide holder which I imagine will be a very smart thing to have for a system in my hashy hands. If there's a nice safe place to put the dark slide, then I'm less likely to sit on it or drop it in a river. This Hasselblad is going outdoors.
 
 ## The hunt begins
-So, at best I'm looking for a 503 CW with a 42204 screen; an A12 Type IV back; waist-level viewfinder; and an 80mm Planar, or 250mm Sonnar lens. There is a complete 1998 kit on eBay with the 80mm, boxed, for a buy-it-now price of £2,800 or directly from [the seller](Mifsuds.COM) for £3K. Another 1997 kit with a 2000 back is available with a 6 month warranty for £2K from Cambrian. If I'm more humble about the age of the cameras, there's a 1986 501CM kit for £1300: a private auction of a 1988 503 CX / 80mm T* planar realised the same price.
+So, at best I'm looking for a 501 CM or 503 CW with a 42204 screen; an A12 Type IV back; waist-level viewfinder; and an 80mm Planar, or 250mm Sonnar lens. There is a complete 1998 kit on eBay with the 80mm, boxed, for a buy-it-now price of £2,800 or directly from [the seller](Mifsuds.COM) for £3K. Another 1997 kit with a 2000 back is available with a 6 month warranty for £2K from Cambrian. If I'm more humble about the age of the cameras, there's a 1986 501CM kit for £1300: a private auction of a 1988 503 CX / 80mm T* planar realised the same price.
+
+Things to watch for:
+
+* The components are of similar age
+* Serial numbers of back, roll carrier and dark slide match (last 3 digits)
+
+Some possibles (and maybe eventually, actuals) are listed below
+
+Back | Body | Lens | VF  | Screen | Location | Date | Price | Notes
+---- | ---- | ---- | --- | ------ | -------- | ---- | ----- | ------
+A12 IV | 501CM EU 97 | Planar 80mm New C T*  EU 97 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/str/Flashfix) | 24 Dec 20 | > £1000 | Auction
+A12 IV EE 99|-|-|-|-| [eBay UK](https://www.ebay.co.uk/str/Flashfix) | 20 Dec 20 | £ 370 | buy it now
 
 You do have to take your time and do your homework, I am learning. eBay is almost certainly not the right place to buy anything over £100, because it's full of crims and druggies. Even the reputable-looking places that sell on there, are selling on there for a reason. Check this out, for example:
 
