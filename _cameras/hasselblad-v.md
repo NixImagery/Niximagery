@@ -2,7 +2,7 @@
 title: Hasselblad V
 author: Nick
 layout: post
-published: no
+published: yes
 image: apollo08_earthrise.jpg
 type: Medium format SLR
 ---
@@ -49,23 +49,28 @@ Whilst many reviewers and vloggers have 500 CMs, and I really don't care about f
 The **C** indicates compur-shutter compatible, and **/M** is a *modified* designation. **CX** and **CXi** are TTF/OTF X-sync flash compatible, the **i** meaning *improved*. The SWA super-wide angle bodies are based on the older series one and two cameras (1000 and 1600). F indicates a focal plane shutter with additional letters to indicate compatibility: **FC**, **FCM** and **FCW** are compatible with Compur lenses.
 
 ## Lenses
-There is a lot of detail out there on the range of lenses in the V-system, and again, [Emulsive](https://emulsive.org/reviews/camera-reviews/hasselblad-camera-reviews/the-hasselblad-v-system-master-guide-c-and-c-t-star-lenses) is your starting point for this. Pertinent details are that most of the lenses are Zeiss glass, with the **C T\*** designation indicating better **T** coatings. The "standard" V-series lens is the Zeiss Planar C 80mm f/2.8, being the diameter of the 56mm square image at the film, and being close to "normal" vision. Some initial preferences for a lens are (all Zeiss  C / C**T\***):
+There is a lot of detail out there on the range of lenses in the V-system, and again, [Emulsive](https://emulsive.org/reviews/camera-reviews/hasselblad-camera-reviews/the-hasselblad-v-system-master-guide-c-and-c-t-star-lenses) is your starting point for this. Pertinent details are that most of the lenses are Zeiss glass, with the **C T\*** designation indicating better **T** coatings. The "standard" V-series lens is the Zeiss Planar C 80mm f/2.8, being the diameter of the 56mm square image at the film, and being close to "normal" vision. Some initial preferences for a lens:
 
 Name    | f | Max | Min | Usage | Filter |Shutter
 :-------|----:|:----|:---|:-----|:-------|:------
 Distagon| 50mm|f/4|f/22|Landscape|63 mm|Compur Synchro
-Distagon| 60mm|f/3.5|f/22|Landscape|B60 bayonet|Compur Synchro
-Planar  | 80mm|f/2.8|f/22|General|B50 bayonet|Prontor CF
-Planar  |100mm|f/3.5|f/22|Tele, high resolution|B50 bayonet|Compur Synchro
-Sonnar C|150mm|f/4|f/32|Portrait|B50 bayonet|Compur Synchro
-Sonnar C|250mm|f/5.6|f/45|Portrait|B50 bayonet|Compur Synchro
-Tele-Tessar C|350mm|f/5.6|f/45|Tele|B50 bayonet|Compur Synchro
+Distagon| 60mm|f/3.5|f/22|Landscape|B60|Compur Synchro
+Planar C| 80mm|f/2.8|f/22|General|B60|Compur Syncro
+Planar CF| 80mm|f/2.8|f/22|General|B50|Prontor CF
+Planar  |100mm|f/3.5|f/22|Tele, high resolution|B50|Compur Synchro
+Sonnar C|150mm|f/4|f/32|Portrait|B50|Compur Synchro
+Sonnar C|250mm|f/5.6|f/45|Portrait|B50|Compur Synchro
+Tele-Tessar C|350mm|f/5.6|f/45|Tele|B50|Compur Synchro
+
+**C/CT\*** lenses are earlier, often found in chrome. The have self-timers and an automatic depth of field indicator (two red marks). C lenses can be used on any V system camera that has interchangeable lenses (i.e. all except the SWC). The **T** indicates multicoating. *Note that the 80mm kit C lens sold with the 501C camera is in fact a modified CF lens.* Most C/CT* lenses take B50 bayonet filters.
+
+**CF** lenses are less "pointy" in appearance and have B60 bayonet filters (because the end of the barrel is wider than the C/CT* lenses). The barrel includes hyperfocal distance scales. The **F** indicates that the lens is compatible with focal plane shutter bodies. Prontor CF shutters are more reliable than Compur Synchro.
 
 ## Backs
 Hasselblad have made improvements with each iteration of the film backs: the later type IV backs have a dark slide holder which I imagine will be a very smart thing to have for a system in my hashy hands. If there's a nice safe place to put the dark slide, then I'm less likely to sit on it or drop it in a river. This Hasselblad is going outdoors.
 
 ## The hunt begins
-So, at best I'm looking for a 501 CM or 503 CW with a 42204 screen; an A12 Type IV back; waist-level viewfinder; and an 80mm Planar lens. Things to watch for:
+So, at best I'm looking for a 501 CM or 503 CW with a 42204 screen; an A12 Type IV back; waist-level viewfinder; and *preferably* a late model 80mm C (CF) Planar lens (although a good early one is OK). Things to watch for:
 
 * That the components (back, body, lens) are of similar age
 * Serial numbers of back, roll carrier and dark slide match (last 3 digits)
@@ -74,9 +79,10 @@ Some possibles (and maybe eventually, actuals) are listed below.
 
 Back | Body | Lens | VF  | Screen | Location | Date | Price | Notes
 ---- | ---- | ---- | --- | ------ | -------- | ---- | ----- | ------
-A12 IV EU 97 | 501CM EU 97 | Planar 80mm C T* 1996 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | 24 Dec 20 | > £1000 | Auction
-A12 IV EE 99|-|-|-|-| [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | 20 Dec 20 | £ 370 | buy it now
-A12 IV ER 98 | 503CW ER 98 | 80mm F2.8 CF 84 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/usr/mifsudsphotographic) 99.5% | 20 Dec 20 | £ 2799 | buy it now
+A12 IV EU 97 | 501CM EU 97 | Planar 80mm CF 1996 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | 24 Dec 20 | £2000 | Auction
+A12 IV EE 99 |-|-|-|-| [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | 20 Dec 20 | £ 370 | buy it now
+A12 IV ER 98 | 503CW ER 98 | 80mm F2.8 CF 84 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/usr/mifsudsphotographic) 99.5% | 20 Dec 20 | £ 2799 | buy it now)
+A12 IV SS 00 | 503CW EU 97 | 80mm F2.8 C 67 | WL | Older style | [eBay UK](https://www.ebay.co.uk/usr/cambrianphoto) 98.9% | 20 Dec 20 | £ 1999 | **Old lens**
 
 You do have to take your time and do your homework, I am learning. eBay is almost certainly not the right place to buy anything over £100, because it's full of crims and druggies. Even the reputable-looking places that sell on there, are selling on there for a reason. Check this out, for example:
 
