@@ -77,13 +77,24 @@ So, at best I'm looking for a 501 CM or 503 CW with a 42204 screen; an A12 Type 
 
 Some possibles (and maybe eventually, actuals) are listed below.
 
-Back | Body | Lens | VF  | Screen | Location | Date | Price | Notes
----- | ---- | ---- | --- | ------ | -------- | ---- | ----- | ------
-A12 II RI 84 | 500 CM RI 84 | 80mm CF 84 | WL | Older style | [eBay UK](https://www.ebay.co.uk/usr/the_classic_camera_company) 100% | 22 Dec 20 | £ 1825 | buy it now
-A12 IV EU 97 | 501CM EU 97 | Planar 80mm CF 1996 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | 24 Dec 20 | £2000 | Auction
-A12 IV EE 99 |-|-|-|-| [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | 20 Dec 20 | £ 370 | buy it now
-A12 IV ER 98 | 503CW ER 98 | 80mm F2.8 CF 84 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/usr/mifsudsphotographic) 99.5% | 20 Dec 20 | £ 2799 | buy it now)
-A12 IV SS 00 | 503CW EU 97 | 80mm F2.8 C 67 | WL | Older style | [eBay UK](https://www.ebay.co.uk/usr/cambrianphoto) 98.9% | 20 Dec 20 | £ 1999 | **Old lens**
+Back | Body | Lens | VF  | Screen | Location | Price | Notes
+---- | ---- | ---- | --- | ------ | -------- | ----- | ------
+A12 II RI 84 | 500 CM RI 84 | 80mm CF 84 | WL | Older style | [eBay UK](https://www.ebay.co.uk/usr/the_classic_camera_company) 100% | £ 1825 | buy it now
+3x u/s  | 503Cx  | S-Planar 120mm 81 | WL + Prism | - | [eBay UK](**https://www.ebay.co.uk/usr/cambats**) 100%|  £1599 |
+A12 II RS 80 | 503Cx RE 89 | Distagon 50mm CF 82 | WL | Acute Matte | [eBay UK](https://www.ebay.co.uk/usr/karmacamera) 100% | £1599 | "nr mint" BIN
+A12 IV EU 97 | 501CM EU 97 | Planar 80mm CF 1996 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | £2000 | Auction
+A12 IV SS 00 | 503CW EU 97 | **80mm F2.8 C 67** | WL | Older style | [eBay UK](https://www.ebay.co.uk/usr/cambrianphoto) **98.9%** | £ 1999 | **Old lens**
+A12 IV ER 98 | 503CW ER 98 | 80mm F2.8 CF 84 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/usr/mifsudsphotographic) **99.5%** | £ 2799 | buy it now
+
+Or, I could build a system in bits.
+
+Part | Type ++ | Location | Price | Notes
+---- | ------- | -------- | ----- | ------
+A12 Back | IV EE 99 |[eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | £ 370 | 
+A12 Back | II RC 85 |[eBay UK](https://www.ebay.co.uk/usr/the_classic_camera_company) 100%  | £ 250 | 
+500 CM | UE 79 |[eBay UK](https://www.ebay.co.uk/str/theanalogphotographyshop) 100% | £ 748 | "immaculate", 6 mo warranty, WLF
+Distagon f/4 50 mm T* | CF 79 | [eBay UK](https://www.ebay.co.uk/usr/portyproductstoo) 100% | £529 | "mint"
+This system |||£ 1528 -- 1648
 
 You do have to take your time and do your homework, I am learning. eBay is almost certainly not the right place to buy anything over £100, because it's full of crims and druggies. Even the reputable-looking places that sell on there, are selling on there for a reason. Check this out, for example:
 
