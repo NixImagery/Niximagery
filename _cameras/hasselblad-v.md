@@ -36,13 +36,13 @@ Production | Model | Notes
 1970 -- 1994 | 500 C/M | User-changeable screen
 1988 -- 1994 | 503 C/X | Built-in TTL flash meter, “Palpas” shutter coating, improved Acute Matte screen
 1994 -- 1997 | 501 C   | Complete kit, A12 magazine, 80mm lens 
-1997 -- 2005 | 501 C/M | The best Acute Matte D screen, CW winder
+1997 -- 2005 | 501 C/M | The best Acute Matte D screen, CW winder, better internal coatings
 1996 -- 2013 | 503 C/W | Improved mirror system
 
 ## Bodies
 The 500 series cameras, including the super-wide angle SWx (which have fixed lenses), all have a shutter speed from 1 second to 1/500 s (hence the series name). A leaf shutter is in the lens. Later 2000/200 series bodies revert to a focal plane shutter which can fire at up to 1/2000 s. 
 
-Whilst many reviewers and vloggers have 500 CMs, and I really don't care about flash, the newer models with better mirrors, second shutter coatings and a bright screen seem to be more attractive for a first investment: this, because it is likely to be the only investment I make in a system like this. I might as well do it right, and do it once, if I can.
+Whilst many reviewers and vloggers have 500 CMs, and I really don't care about flash, the newer models with better mirrors, second shutter coatings and a bright screen seem to be more attractive for a first investment: this, because it is likely to be the only investment I make in a system like this. I might as well do it right, and do it once, if I can. The newer mirrors in the 503CW and 501CM only make a difference with long lenses (in the viewfinder, the older ones have more vignetting). 
 
 ### Designations
 {:.no_toc}
@@ -67,7 +67,7 @@ Tele-Tessar C|350mm|f/5.6|f/45|Tele|B50|Compur Synchro
 **CF** lenses are less "pointy" in appearance and have B60 bayonet filters (because the end of the barrel is wider than the C/CT* lenses). The barrel includes hyperfocal distance scales. The **F** indicates that the lens is compatible with focal plane shutter bodies. Prontor CF shutters are more reliable than Compur Synchro.
 
 ## Backs
-Hasselblad have made improvements with each iteration of the film backs: the later type IV backs have a dark slide holder which I imagine will be a very smart thing to have for a system in my hashy hands. If there's a nice safe place to put the dark slide, then I'm less likely to sit on it or drop it in a river. This Hasselblad is going outdoors.
+Hasselblad have made improvements with each iteration of the film backs: the later type IV backs have a dark slide holder which I imagine will be a very smart thing to have for a system in my hashy hands. If there's a nice safe place to put the dark slide, then I'm less likely to sit on it or drop it in a river. This Hasselblad is going outdoors. [Ken Rockwell](https://kenrockwell.com/hasselblad/a12.htm) has a simple guide: there are four generations of A type film magazines ("backs"). There's no functional difference between them.
 
 ## The hunt begins
 So, at best I'm looking for a 501 CM or 503 CW with a 42204 screen; an A12 Type IV back; waist-level viewfinder; and *preferably* a late model 80mm C (CF) Planar lens (although a good early one is OK). Things to watch for:
@@ -79,6 +79,7 @@ Some possibles (and maybe eventually, actuals) are listed below.
 
 Back | Body | Lens | VF  | Screen | Location | Date | Price | Notes
 ---- | ---- | ---- | --- | ------ | -------- | ---- | ----- | ------
+A12 II RI 84 | 500 CM RI 84 | 80mm CF 84 | WL | Older style | [eBay UK](https://www.ebay.co.uk/usr/the_classic_camera_company) 100% | 22 Dec 20 | £ 1825 | buy it now
 A12 IV EU 97 | 501CM EU 97 | Planar 80mm CF 1996 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | 24 Dec 20 | £2000 | Auction
 A12 IV EE 99 |-|-|-|-| [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | 20 Dec 20 | £ 370 | buy it now
 A12 IV ER 98 | 503CW ER 98 | 80mm F2.8 CF 84 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/usr/mifsudsphotographic) 99.5% | 20 Dec 20 | £ 2799 | buy it now)
