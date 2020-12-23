@@ -62,7 +62,7 @@ Sonnar C|150mm|f/4|f/32|Portrait|B50|Compur Synchro
 Sonnar C|250mm|f/5.6|f/45|Portrait|B50|Compur Synchro
 Tele-Tessar C|350mm|f/5.6|f/45|Tele|B50|Compur Synchro
 
-**C/CT\*** lenses are earlier, often found in chrome. The have self-timers and an automatic depth of field indicator (two red marks). C lenses can be used on any V system camera that has interchangeable lenses (i.e. all except the SWC). The **T** indicates multicoating. *Note that the 80mm kit C lens sold with the 501C camera is in fact a modified CF lens.* Most C/CT* lenses take B50 bayonet filters.
+**C/CT\*** lenses are earlier, often found in chrome. They have self-timers and an automatic depth of field indicator (two red marks). C lenses can be used on any V system camera that has interchangeable lenses (i.e. all except the SWC). The **T** indicates multicoating. *Note that the 80mm kit C lens sold with the 501C camera is in fact a modified CF lens.* Most C/CT* lenses take B50 bayonet filters.
 
 **CF** lenses are less "pointy" in appearance and have B60 bayonet filters (because the end of the barrel is wider than the C/CT* lenses). The barrel includes hyperfocal distance scales. The **F** indicates that the lens is compatible with focal plane shutter bodies. Prontor CF shutters are more reliable than Compur Synchro.
 
