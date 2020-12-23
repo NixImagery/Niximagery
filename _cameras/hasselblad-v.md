@@ -79,11 +79,12 @@ Some possibles (and maybe eventually, actuals) are listed below.
 
 Back | Body | Lens | VF  | Screen | Location | Price | Notes
 ---- | ---- | ---- | --- | ------ | -------- | ----- | ------
-A12 II RI 84 | 500 CM RI 84 | 80mm CF 84 | WL | Older style | [eBay UK](https://www.ebay.co.uk/usr/the_classic_camera_company) 100% | £ 1825 | buy it now
-3x u/s  | 503Cx  | S-Planar 120mm 81 | WL + Prism | - | [eBay UK](**https://www.ebay.co.uk/usr/cambats**) 100%|  £1599 |
+A12 II RI 84 | 500 CM RI 84 | 80mm CF 84 | WL | Older style | [eBay UK](https://www.ebay.co.uk/usr/the_classic_camera_company) 100% | £ 1825 | buy it now, scruffy
+A12 IV EH 92 | 500 CM RT 86 | 80mm CF 83 | WL | older | [eBay UK](https://www.ebay.co.uk/usr/sh_yotyo_ltxfhqhm9) 100% | £1500 | BIN, scruffy
+3x u/s  | 503Cx  | S-Planar 120mm 81 | WL + Prism | - | [eBay UK](https://www.ebay.co.uk/usr/cambats) 100%|  £1359 |
 A12 II RS 80 | 503Cx RE 89 | Distagon 50mm CF 82 | WL | Acute Matte | [eBay UK](https://www.ebay.co.uk/usr/karmacamera) 100% | £1599 | "nr mint" BIN
 A12 IV EU 97 | 501CM EU 97 | Planar 80mm CF 1996 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/str/Flashfix) 100% | £2000 | Auction
-A12 IV SS 00 | 503CW EU 97 | **80mm F2.8 C 67** | WL | Older style | [eBay UK](https://www.ebay.co.uk/usr/cambrianphoto) **98.9%** | £ 1999 | **Old lens**
+A12 IV SS 00 | 503CW EU 97 | **80mm F2.8 C 67** | WL | Older style ? | [eBay UK](https://www.ebay.co.uk/usr/cambrianphoto) **98.9%** | £ 1999 | **Old lens** queried 23/12
 A12 IV ER 98 | 503CW ER 98 | 80mm F2.8 CF 84 | WL | Acute Matte D | [eBay UK](https://www.ebay.co.uk/usr/mifsudsphotographic) **99.5%** | £ 2799 | buy it now
 
 Or, I could build a system in bits.
