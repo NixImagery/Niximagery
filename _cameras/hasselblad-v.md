@@ -42,7 +42,7 @@ Production | Model | Notes
 1996 -- 2013 | 503 CW | Improved mirror system
 
 ## Bodies
-The 500 series cameras, including the super-wide angle SWx (which have fixed lenses), all have a shutter speed from 1 second to 1/500 s (hence the series name). A leaf shutter is in the lens. Later 2000/200 series bodies revert to a focal plane shutter which can fire at up to 1/2000 s. Those have proved to be less reliable than that leaf shutters.
+The 500 series cameras, including the super-wide angle SWx (which have fixed lenses), all have a shutter speed from 1 second to 1/500 s (hence the series name). A leaf shutter is in the lens. Later 2000/200 series bodies revert to a focal plane shutter which can fire at up to 1/2000 s. Those have proved to be less reliable than leaf shutters.
 
 Whilst many reviewers and vloggers have 500 CMs, and I really don't care about flash, the newer models with better mirrors, second shutter coatings and a bright screen seem to be more attractive for a first investment. The newer, slightly larger mirrors in the 503CW and 501CM only make a significant difference with long lenses (in the viewfinder, the older ones have more vignetting). 
 
