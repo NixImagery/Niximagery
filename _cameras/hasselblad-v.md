@@ -7,7 +7,7 @@ image: s-l1600.jpg
 type: Medium format SLR
 ---
 
-I bit the bullet on my first Hasselblad (header image, copyright [Cambrian Photo, Colwyn Bay](https://www.ebay.co.uk/usr/cambrianphoto)) on Boxing Day 2020. Experts will immediately notice that it's a bit of a *Frankenblad*, with an incongruous silver 1960's lens on a millennial 503CW body and magazine. There are fans of the older silver lenses, so perhaps it's not so monstrous a combination. Optically, the older lenses [aren't any different](https://kenrockwell.com/hasselblad/80mm-f28-c.htm) to the newer ones, and the multi-coating of the **T\*** lenses was more about marketing than optical performance, according to [Ken Rockwell](https://kenrockwell.com/hasselblad/80mm-f28-c.htm). What I'm hoping to dsicover is that the previous owner knew his Hasselblads and that this is a very good combination indeed.
+I bit the bullet on my first Hasselblad (header image, copyright [Cambrian Photo, Colwyn Bay](https://www.ebay.co.uk/usr/cambrianphoto)) on Boxing Day 2020. Experts will immediately notice that it's a bit of a *Frankenblad*, with an incongruous silver 1960's lens on a millennial 503CW body and magazine. There are fans of the older silver lenses, so perhaps it's not so monstrous a combination. Optically, the older lenses [aren't any different](https://kenrockwell.com/hasselblad/80mm-f28-c.htm) to the newer ones, and the multi-coating of the **T\*** lenses was more about marketing than optical performance, according to [Ken Rockwell](https://kenrockwell.com/hasselblad/80mm-f28-c.htm). What I'm hoping to discover is that the previous owner knew his Hasselblads and that this is a very good combination indeed.
 
 ## Contents
 {:.no_toc}
@@ -18,7 +18,7 @@ I bit the bullet on my first Hasselblad (header image, copyright [Cambrian Photo
 ## Introduction and the cost of Hasselblads
 My wife and I [met a guy](fuji-gw690ii) one frosty morning, out in the countryside with a Hasselblad while his other half was at a car boot sale. He had bought the camera but was unable to tell his wife. I am more fortunate, and my wife is not averse to me owning a Hasselblad but we are  both educators and not that flush, so a little humility and frugality is in order. She has helped me be smart and not so impulsive, and had me talk her through the due diligence and research I have done since that first GAS[^gasv] attack a year ago. That said, I have had encouragement in my desire to own a Hasselblad camera system:
 
-[^gasv]: Gear Aquisition Syndrome. Photographers get it. Guitarists get it. Artists get it. You get it.
+[^gasv]: Gear Acquisition Syndrome. Photographers get it. Guitarists get it. Artists get it. You get it.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">do it ; - )</p>&mdash; Dr David Mitchell (@DSM888) <a href="https://twitter.com/DSM888/status/1334098543984906247?ref_src=twsrc%5Etfw">December 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
