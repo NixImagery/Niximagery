@@ -86,7 +86,7 @@ Back | Body | Lens | VF  | Screen
 ---- | ---- | ---- | --- | ------
 A12 IV SS 00 | 503CW EU 97 | 80mm F2.8 C 67 | WL | Acute Matte
 
-You do have to take your time and do your homework, I am learning. eBay is not usually the right place to buy anything over £100, because it's full of crims and druggies. There are good sellers there, including reputable businesses. [Ken Rockwell](https://www.kenrockwell.com/tech/ebay/index.htm)'s guide is right on the money when it comes to evaluating sellers:
+You do have to take your time and do your homework, I am learning. eBay is not usually the right place to buy anything over £100, because it's full of crims and druggies. There are good sellers there, however, including reputable businesses. [Ken Rockwell](https://www.kenrockwell.com/tech/ebay/index.htm)'s guide is right on the money when it comes to evaluating sellers:
 
 > "The seller's feedback rating is a better predictor of the quality of an item than his description of it."
 
