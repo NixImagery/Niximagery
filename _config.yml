@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Niximagery | Stories and Images
-description: Stories about image making. # this means to ignore newlines until "baseurl:"
+description: Stories about image making.
 url: https://niximagery.com # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
