@@ -1,6 +1,6 @@
 ---
 title: The colours of Portra
-description: Exposures
+description: Slowly getting my head around analogue photography... a roll of 800 in my old Nikon FM. 
 # published: no
 # author: Nick
 layout: post
