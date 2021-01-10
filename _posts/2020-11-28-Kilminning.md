@@ -1,5 +1,5 @@
 ---
-title: Kilminning
+title: Lower Largo
 layout: post
 image: Fujifilm-Neopan-Acros-II-100-20201127_21154833.jpg
 # published: no
@@ -8,7 +8,7 @@ tags:
   - Fuji GW690ii
   - Fuji Acros II
 ---
-We took a weekend run up the coast to Crail and the Kilminning nature reserve, where we played on the beach. I used up my last roll of Acros in my GW690ii rangefinder -- I thought it was polite to put Fuji in Fuji.
+We took a weekend run up the coast to Crail and the Kilminning nature reserve, and we played on the beach at Lower Largo. I used up my last roll of Acros in my GW690ii rangefinder -- I thought it was polite to put Fuji in Fuji.
 
 ![](/img/Fujifilm-Neopan-Acros-II-100-20201127_20404271.jpg)
 **The Forth Estuary** Acros II
