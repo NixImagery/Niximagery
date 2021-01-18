@@ -9,7 +9,7 @@ tags:
   - Agfa Isolette I
   - Rollei Blackbird
 ---
-I'd seen [Fukukawatakashi](https://www.instagram.com/fukukawatakashi/)'s work with his Hassleblad making triptychs and thought I might play around with the idea. First time out, I used a roll of Rollei Blackbird, which is rated at 64 ISO but seems to be quite *laissez-faire* about how you shoot it. I put it in my Agfa Isolette medium-format camera, which also seems to be quite laid back in respect of how long a film you put through it. No frame counters to get in the way of the abuse I was planning. 
+I'd seen [Fukukawatakashi](https://www.instagram.com/fukukawatakashi/)'s work making triptychs and thought I might play around with the idea. First time out, I used a roll of Rollei Blackbird, which is rated at 64 ISO but seems to be quite *laissez-faire* about how you shoot it. I put it in my Agfa Isolette medium-format camera, which also seems to be quite laid back in respect of how long a film you put through it. No frame counters to get in the way of the abuse I was planning. 
 
 A couple of 3D printed plastic adaptors[^eBay] allow you to fit a standard 135 film canister into the supply reel of the camera. I fed it onto the take-up spool and had counted on 2 and one third half-turns to be about enough for a 6cm wide image, which is what the camera is designed for. That only worked at the end of the roll[^idiot]: the early images needed a bit more, and so ended up overlapping:
 
@@ -20,7 +20,7 @@ A couple of 3D printed plastic adaptors[^eBay] allow you to fit a standard 135 f
 ![](/img/Agfa-Kodak-400-TX-20210118_11242766 1.jpg)
 *Frames 11 -- 16*
 
-A crop from that image is in the header. Notice another small problem above, in the second frame from the left. Some of the images show a little crescent-shaped mark. 120 film has backing paper to protect the emulsion from this exposure: 135 does not, and so I spoiled some of the images from where I had (from habit) opened the window in the back of the camera to peek at the exposure counter.
+A crop from this image is in the header. Notice another small problem above, in the second frame from the left. Some of the images show a little crescent-shaped mark. 120 film has backing paper to protect the emulsion from this exposure: 135 does not, and so some of the images were spoiled from where I had (from habit) opened the window in the back of the camera to peek at the exposure counter, or from light leaks there. Next time I try this, maybe I'll duct tape it.
 
 ![](/img/Agfa-Kodak-400-TX-20210118_12264437.jpg)
 *Frames 30 -- 31*
