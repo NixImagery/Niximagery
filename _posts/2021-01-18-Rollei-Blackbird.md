@@ -1,6 +1,7 @@
 ---
 title: Rollei Blackbird
 description: Playing with 35mm film in a Medium-format camera. 
+date: 2021-01-18T16:00
 # published: no
 author: Nick
 layout: post
@@ -26,6 +27,13 @@ A crop from this image is in the header. Notice another small problem above, in 
 *Frames 30 -- 31*
 
 This image (Frames 30 -- 31, above) gave away an issue that I think I've had with some of the images I've developed at home: streaks in the negative that can only have been introduced in the chemical processing. These look clearly to me like marks made by a fluid: the film perforations have been part of a disturbance in the fluid that has caused uneven development in the emulsion. I wonder, also, about the agitation of the film in the tank. This batch was two 135 films in the same tank, and I chose to use an inversion rather than using the swizzle stick in the Paterson tank. I think I need to read more about the whole process in order to understand what's going on (and to do it better).
+
+![](/img/Agfa-Kodak-400-TX-20210118_12132639.jpg)
+
+![](/img/Agfa-Kodak-400-TX-20210118_12132639 1.jpg)
+
+![](/img/Agfa-Kodak-400-TX-20210118_12132639 2.jpg)
+*Three rocks triptych*
 
 Fukukawatakashi need not worry I'm going to steal his thunder any time soon but I'm tahnkful to him (and most of the community of great photographers out there at the moment) for sharing their work and ideas. Through trying this one, I discovered more about what I still have to learn on this journey, and that's a good thing.
 
