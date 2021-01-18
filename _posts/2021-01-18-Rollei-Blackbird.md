@@ -35,7 +35,7 @@ This image (Frames 30 -- 31, above) gave away an issue that I think I've had wit
 ![](/img/Agfa-Kodak-400-TX-20210118_12132639 2.jpg)
 *Three rocks triptych*
 
-Fukukawatakashi need not worry I'm going to steal his thunder any time soon but I'm tahnkful to him (and most of the community of great photographers out there at the moment) for sharing their work and ideas. Through trying this one, I discovered more about what I still have to learn on this journey, and that's a good thing.
+Fukukawatakashi need not worry I'm going to steal his thunder any time soon but I'm thankful to him (and most of the community of great photographers out there at the moment) for sharing their work and ideas. Through trying this one, I discovered more about what I still have to learn on this journey, and that's a good thing.
 
 Brand|Type|ISO|Format|Exposures|Camera|Lens
 :----|:---|:--|:-----|:--------|:-----|:----
