@@ -103,6 +103,12 @@ As well as David Mitchell's piece in Japan Camera Hunter, I am grateful to a num
 
 [^nto]: No, not [that one](https://en.wikipedia.org/wiki/Emmett_Brown). [The other one](https://www.facebook.com/emulsive.overlord). He says that his site is not his "day job" yet so he tends to be professionally coy, using the epithet, "EM".
 
+There are lots of other videos and posts that I've found since first posting this article, but I really like this one by [Sails Chong](https://www.instagram.com/studionextimage/):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KWJSnTLvOow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+"A collection of shiny smile", indeed.
+
 ## Footnotes
 {:.no_toc}
 
