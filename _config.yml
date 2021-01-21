@@ -77,7 +77,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 7
+paginate: 15
 paginate_path: "/page/:num"
 # paginate_path: "/articles/page:num/"
 
