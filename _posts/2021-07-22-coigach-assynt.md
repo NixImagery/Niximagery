@@ -7,14 +7,20 @@ layout: post
 exposures: 2021-07-22-coigach-assynt
 image: DSF8005.jpg
 tags:
-   - Fuji X-T2
-   - Hasselblad 503CW
-   - Nikon FM
-   - Ricoh GRIII
-   - Kodak T-Max 400
-   - Kodak Portra 800
-   - Ilford Pan F Plus 50
-   - Kodak Ektachrome E100
+   - Fuji
+   - X-T2
+   - Hasselblad
+   - 503CW
+   - Nikon
+   - FM
+   - Ricoh
+   - GRIII
+   - Kodak
+   - T-Max 400
+   - Portra 800
+   - Ilford
+   - Pan F Plus 50
+   - Ektachrome E100
    - Scotland
    - Coigach
    - Drumbeg

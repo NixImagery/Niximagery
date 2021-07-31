@@ -6,8 +6,10 @@ description: Exposures
 layout: post
 image: Berlin-400-Afga-20201031_12343959.jpg
 tags:
-   - Agfa Isolette I
-   - Lomography Berlin 400
+   - Agfa
+   - Isolette I
+   - Lomography
+   - Berlin 400
 ---
 
 The first time I tried this film, I wrecked it with a stupid mistake in developing. This time, I sent it to AG photo for processing, not so much because I was afraid to develop it myself, but more because I have been too busy to do my own processing. 

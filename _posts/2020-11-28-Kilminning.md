@@ -5,8 +5,9 @@ image: Fujifilm-Neopan-Acros-II-100-20201127_21154833.jpg
 # published: no
 #exposures: 2020-02-09-faroes
 tags:
-  - Fuji GW690ii
-  - Fuji Acros II
+  - Fuji
+  - GW690ii
+  - Acros II
 ---
 We took a weekend run up the coast to Crail and the Kilminning nature reserve, and we played on the beach at Lower Largo. I used up my last roll of Acros in my GW690ii rangefinder -- I thought it was polite to put Fuji in Fuji.
 

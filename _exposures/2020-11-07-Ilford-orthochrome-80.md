@@ -6,8 +6,10 @@ description: Exposures
 layout: post
 image: Ilford-Ortho-80-20201107_18355660.jpg
 tags:
-  - Nikon FM
-  - Ilford Ortho 80
+  - Nikon
+  - FM
+  - Ilford
+  - Ortho 80
 ---
 Black and white orthochromatic film, cost £12.50 per roll from Analog Wonderland. Loaded 13th July 2020, final frames wasted as I put the camera in for CLA. Used without a filter, which was a stupid mistake. I eventually got the film developed at AG photographic as things got busy and I just couldn't find time to develop this (and other) films myself.
 

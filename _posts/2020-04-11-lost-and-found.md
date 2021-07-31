@@ -8,7 +8,8 @@ exposures: 2020-04-11-Kodak-Verichrome
 image: 20-4-4-Kodak-Verichrome-1.jpg
 tags:
    - Coronet Consul
-   - Kodak Verichrome
+   - Kodak
+   - Verichrome
    - Rodinal R09
 ---
 A few years ago, my wife was given a box of cameras and bits, including an old Coronet Consul box camera. Recently, we dug it out and I had a play around with it. It was absolutely goosed[^fubar], but it did contain a roll of exposed film. Having recently started playing with home development, I binned the camera and processed the roll in Rodinal R09, just to see what we might find. 

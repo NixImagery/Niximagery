@@ -6,8 +6,10 @@ description: Slowly getting my head around analogue photography... a roll of 800
 layout: post
 image: FM-Kodak-Portra-800-20210110_15053096.jpg
 tags:
-  - Nikon FM
-  - Kodak Portra 800
+  - Nikon
+  - FM
+  - Kodak
+  - Portra 800
 ---
 I recently wrote about a trip to [Kilminning](/2020/11/28/Kilminning) up the Fife coast and the images I made with a Fuji GW690ii. Well, I also had with me a Nikon FM 35mm camera with some Kodak Portra 800 in it. This is a colour negative film, which cost £12.50 per roll from Analog Wonderland, and was eventually processed by [AG Photolab](https://www.ag-photolab.co.uk/) once I'd finished it. I'm not processing my own colour film just yet.
 

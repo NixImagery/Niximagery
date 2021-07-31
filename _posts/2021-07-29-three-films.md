@@ -7,10 +7,12 @@ layout: post
 #exposures: 2021-07-22-coigach-assynt
 image: Kodak-Ektachrome-E100-20210729_20494968-1.jpg
 tags:
-   - Hasselblad 503CW
-   - Kodak T-Max 400
-   - Kodak Portra 160
-   - Kodak Ektachrome E100
+   - Hasselblad
+   - 503CW
+   - Kodak
+   - T-Max 400
+   - Portra 160
+   - Ektachrome E100
 ---
 I sort of lost track of photography in the first part of this year, not least film photography. There were 3 120 films kicking about for a while, which I eventually sent to AG on 3rd April 2021 for developing and scanning. The negatives came back all square, with telltale Hasselblad notches that told me they were taken in my 503CW.
 

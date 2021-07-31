@@ -6,8 +6,10 @@ title: Berlin at Dunkeld in October
 layout: post
 image: Berlin-400-Afga-20201031_12343959.jpg
 tags:
-   - Agfa Isolette I
-   - Lomography Berlin 400
+   - Agfa
+   - Isolette I
+   - Lomography
+   - Berlin 400
    - Dunkeld
 exposures: 2020-10-30-Berlin-400-Isolette
 ---

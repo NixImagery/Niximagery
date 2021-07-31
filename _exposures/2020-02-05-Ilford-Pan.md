@@ -6,8 +6,10 @@ description: Exposures
 layout: post
 image: Ilford-Pan-F-Feb-2020.jpg
 tags:
-   - Fuji GW690ii
-   - Ilford Pan F Plus 50
+   - Fuji
+   - GW690ii
+   - Ilford
+   - Pan F Plus 50
 ---
 The first film I put through my Texas Leica, and the first film I processed myself using an Ilford starter kit.
 

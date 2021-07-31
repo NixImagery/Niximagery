@@ -9,11 +9,16 @@ exposures:
  - 2020-03-10-Ilford-Pan
  - 2020-03-14-Ilford-Delta-400
 tags:
+  - Apple
   - iPhone 11
-  - Fuji GW690ii
-  - Ilford Pan F Plus 50
-  - Nikon FM
-  - Ilford Delta 400
+  - Fuji
+  - GW690ii
+  - Ilford
+  - Pan F Plus 50
+  - Nikon
+  - FM
+  - Ilford
+  - Delta 400
   - Fife
 ---
 Sunday 8th March, 2020. 

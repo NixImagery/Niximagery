@@ -6,8 +6,10 @@ description: Exposures
 layout: post
 image: img20200719_08.jpg
 tags:
-   - Fuji GW690ii
-   - Lomography Potsdam 100
+   - Fuji
+   - GW690ii
+   - Lomography
+   - Potsdam 100
 ---
 Lomography Potsdam 100 8 exp £8 per roll in camera with a yellow filter in Fife 7 - 27 Jun 2020. Semi-stand developed in Rodinal. Scanned on an Epson Perfection V600.
 

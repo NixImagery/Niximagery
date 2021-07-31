@@ -6,8 +6,10 @@ title: The final frames
 layout: post
 image: Kodak-GC-400-20201108_09280128.jpg
 tags:
-  - Kodak GC 400
-  - Premier PC-645D
+  - Kodak
+  - GC 400
+  - Premier
+  - PC-645D
 ---
 
 I lost my mum in March this year, just as COVID was descending on the world. As long as I remember, she had always been keen, sometimes too keen, to capture a moment in a photograph. I inherited a rich and wonderful collection of albums and shoe-boxes full of family memories, and of quite a lot of people I don't recognise.

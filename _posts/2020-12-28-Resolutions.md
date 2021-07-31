@@ -8,7 +8,8 @@ layout: post
 image: DSF7687.jpg
 tags:
   - Reflection
-  - Fuji X-T2
+  - Fuji
+  - X-T2
 ---
 December, 2020. After Christmas.
 

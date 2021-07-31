@@ -7,7 +7,8 @@ layout: post
 image: 20-4-4-Kodak-Verichrome-1.jpg
 tags:
    - Coronet Consul
-   - Kodak Verichrome
+   - Kodak
+   - Verichrome
    - Rodinal R09
 ---
 Film found in an old Coronet Consul box camera. Processed in Rodinal R09. More info [here](/2020/04/11/lost-and-found). 

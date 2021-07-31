@@ -8,13 +8,17 @@ image: DSF8099.jpg
 
 tags:
 #   - Fuji X-T2
-   - Hasselblad 503CW
-   - Nikon FM
+   - Hasselblad
+   - 503CW
+   - Nikon
+   - FM
 #   - Ricoh GRIII
-   - Kodak T-Max 400
-   - Kodak Portra 800
-   - Ilford Pan F Plus 50
-   - Kodak Ektachrome E100
+   - Kodak
+   - T-Max 400
+   - Portra 800
+   - Ilford
+   - Pan F Plus 50
+   - Ektachrome E100
    - Scotland
    - Coigach
    - Drumbeg

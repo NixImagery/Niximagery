@@ -6,8 +6,10 @@ description: Exposures
 layout: post
 # image: 20-3-20-Pro50-1.jpg
 tags:
-   - Fuji GW690ii
-   - Lomography Berlin 400
+   - Fuji
+   - GW690ii
+   - Lomography
+   - Berlin 400
 ---
 In the camera from 12th - 14th July, with a yellow filter for the sky. Kino film, £9 per roll from Analog Wonderland.
 

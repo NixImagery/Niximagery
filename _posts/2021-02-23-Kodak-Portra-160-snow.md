@@ -6,9 +6,12 @@ description: 35mm and 120 Portra 160 in winter.
 layout: post
 image: GW690ii-Kodak-Portra-160-20210222_20055951.jpg
 tags:
-  - Fuji GW690ii
-  - Nikon FM
-  - Kodak Portra 160
+  - Fuji
+  - GW690ii
+  - Nikon
+  - FM
+  - Kodak
+  - Portra 160
 ---
 
 ![](/img/GW690ii-Kodak-Portra-160-20210222_19423865.jpg)

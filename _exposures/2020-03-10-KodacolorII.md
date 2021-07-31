@@ -7,7 +7,9 @@ layout: post
 pithyquote: "\"All photographs are memento mori.\" ― Susan Sontag"
 image: 20-3-20-KodacolorII-1.jpg
 tags:
-   - Agfa Isolette I
+   - Agfa
+   - Isolette I
+   - Kodak
    - Kodacolor II
 ---
 This film was in the Agfa Isolette I bought on eBay. Exposed on 14th March 2020, sent to AG for processing at £3.49 plus £1.17 pp ([read more](/2020/03/21/1983-kodacolorII.html)).

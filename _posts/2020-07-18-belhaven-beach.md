@@ -7,12 +7,16 @@ layout: post
 image: DSF7302.jpg
 exposures: 2020-07-13-Ilford-orthochrome-80
 tags:
-  - Nikon FM
-  - Fuji X-T2
-  - Ricoh GRIII
+  - Nikon
+  - FM
+  - Fuji
+  - X-T2
+  - Ricoh
+  - GRIII
+  - Apple
   - iPhone 11
-  - Ilford Ortho Plus 80
-  - East Lothian
+  - Ilford
+  - Ortho Plus 80
 ---
 There's nothing like a walk on a beach, especially when it's one of the long, windy, sea-birdy beaches like you find along the coast near Dunbar. We took ourselves off to Belhaven beach for such a walk, to clear the head, and to reset our fish supper metrics after a bad experience at Ballachulish.
 

@@ -6,8 +6,10 @@ description: Exposures
 layout: post
 image: img20200716_02.jpg
 tags:
-   - Fuji GW690ii
-   - Bergger Panchro 400
+   - Fuji
+   - GW690ii
+   - Bergger
+   - Panchro 400
    - Rodinal R09
    - Development
    - Random

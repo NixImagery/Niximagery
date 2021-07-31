@@ -10,10 +10,15 @@ exposures:
  - 2020-03-10-Ilford-Pan
  - 2020-03-14-Ilford-Delta-400
 tags:
-  - Fuji GW690ii
-  - Ilford Pan F Plus 50
-  - Ricoh GRIII
-  - Agfa Isolette I
+  - Fuji
+  - GW690ii
+  - Ilford
+  - Pan F Plus 50
+  - Ricoh
+  - GRIII
+  - Agfa
+  - Isolette I
+  - Kodak
   - Kodacolor II
   - Fife
 ---

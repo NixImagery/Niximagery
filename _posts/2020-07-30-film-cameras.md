@@ -5,8 +5,10 @@ author: Nick
 layout: post
 image: IMG_8897.jpg
 tags:
-  - Fuji GW690ii
-  - Nikon FM
+  - Fuji
+  - GW690ii
+  - Nikon
+  - FM
 ---
 It's been a few months now, since I started shooting film again. Needless to say, I've had some results I am very pleased with, and a whole series of disappointments and frustrations with myself on the way.
 

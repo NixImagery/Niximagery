@@ -7,8 +7,10 @@ layout: post
 image: img20200518_19184489.jpg
 exposures: 2020-04-07-Kodak-E100
 tags:
-  - Nikon FM
-  - Kodak Ektachrome E100
+  - Nikon
+  - FM
+  - Kodak
+  - Ektachrome E100
   - Pattiesmuir
   - Letchworth
   - Rosyth

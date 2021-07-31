@@ -6,7 +6,8 @@ author: Nick
 layout: post
 image: beach-stories/breakwater.jpg
 tags:
-  - Fuji X-T2
+  - Fuji
+  - X-T2
   - Beach
 ---
 ## Imagined back stories of things found on the beach

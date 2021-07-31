@@ -6,8 +6,10 @@ title: Five frames of Ilford SFX IR Film
 layout: post
 image: Ilford-SFX-200-20201106_18490187.jpg
 tags:
-  - Fuji GW690ii
-  - Ilford SFX 200
+  - Fuji
+  - GW690ii
+  - Ilford
+  - SFX 200
   - Dunkeld
 exposures: 2020-11-06-Ilford-SFX-200
 ---

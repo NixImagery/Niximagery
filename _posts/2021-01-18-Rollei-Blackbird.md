@@ -7,8 +7,10 @@ author: Nick
 layout: post
 image: Agfa-Kodak-400-TX-20210118_11242766.jpg
 tags:
-  - Agfa Isolette I
-  - Rollei Blackbird
+  - Agfa
+  - Isolette I
+  - Rollei
+  - Blackbird
 ---
 I'd seen [Fukukawatakashi](https://www.instagram.com/fukukawatakashi/)'s work making triptychs and thought I might play around with the idea. First time out, I used a roll of Rollei Blackbird, which is rated at 64 ISO but seems to be quite *laissez-faire* about how you shoot it. I put it in my Agfa Isolette medium-format camera, which also seems to be quite laid back in respect of how long a film you put through it. No frame counters to get in the way of the abuse I was planning. 
 

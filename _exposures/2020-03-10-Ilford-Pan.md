@@ -6,8 +6,10 @@ description: Exposures
 layout: post
 image: 20-3-20-Pro50-1.jpg
 tags:
-   - Fuji GW690ii
-   - Ilford Pan F Plus 50
+   - Fuji
+   - GW690ii
+   - Ilford
+   - Pan F Plus 50
 ---
 This one was processed by AG.
 
