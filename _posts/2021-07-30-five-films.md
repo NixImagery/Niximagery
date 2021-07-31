@@ -50,7 +50,7 @@ In this series:
 Brand|Type|ISO|Format|Exposures|Camera|Lens
 :----|:---|:--|:-----|:--------|:-----|:----
 Kodak|Ektachrome E100|100|120|8|Fuji GW690ii|90mm
-Lomography|Metropolis|EI 100|120|12|Hasselblad 503CW|Zeiss 80mm F2.8 C
+Cinestill|800 T|800|35mm|36|Nikon FM|Nikon AI-s 28mm f/2.8 
+Lomography|Metropolis|EI 400|120|12|Hasselblad 503CW|Zeiss 80mm F2.8 C
 Ilford|Delta|3200|35mm|36|Nikon FM|Nikon AI-s 28mm f/2.8 
 Kodak|Portra|160|35mm|36|Nikon FM|Nikon AI-s 28mm f/2.8 
-Cinestill|800 T|800|35mm|36|Nikon FM|Nikon AI-s 28mm f/2.8 
