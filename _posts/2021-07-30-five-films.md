@@ -27,15 +27,17 @@ Continuing the series of films I had lost track of this year, there were another
 
 ## Ektachrome
 
-I am becoming a big fan of Kodak's modern slide film: no big surprise, really, because years ago I favoured Kodachrome and Agfa's transparency film in my Nikon FM. Here, a few frames in the huge Fuji GW690ii 6 x 9 camera taken around Kilconqhuar and St Monans around 9th April. Scanned at 3200 dpi, the digital images are about 80 mega pixels in size, although sharpness doesn't satisfy the pixel-neurotic: it's colours that make these images worth making.
+I am becoming a big fan of Kodak's modern slide film: no big surprise, really, because years ago I favoured Kodachrome and Agfa's transparency film in my Nikon FM. Here, a few frames in the huge Fuji GW690ii 6 x 9 camera taken around Kilconquhar and St Monans around 9th April. Scanned at 3200 dpi, the digital images are about 80 mega pixels in size, although sharpness doesn't satisfy the pixel-neurotic: it's colours that make these images worth making.
 
-![](/img/Kodak-Ektachrome-E100-20210730_20292470.jpg)*Church at Kilconqhuar. Fuji GW690ii, Ektachrome E100*
+![](/img/Kodak-Ektachrome-E100-20210730_20292470.jpg)
+*Church at Kilconquhar. Fuji GW690ii, Ektachrome E100*
 
 The composition here isn't perfect: it was tempting to crop out the part-of-a-treee on the left of this picture but there is something in me that wants to crop and adjust as little as possible.  I can see what I was thinking with the line of the path central to the composition and am pleased that I kept these parallel to the lines of the church tower. There's always a bit of difference between what you see in the rangefinder window and the image on the film so I consider this a successful image.
-![](/img/Kodak-Ektachrome-E100-20210730_20370722.jpg)
-*Kilconqhuar. Fuji GW690ii, Ektachrome E100*
 
-I like the colours in this image taken at the loch, facing in the other direction, a few paces from where I captured the church. The complementary sky and grass tones here work for me. What is most impressive with this film stock is that there is almost no post processing required -- the header sunset image taken in February at Pattiesmuir shows this, I think, as well as these snaps from Kilconqhuar and St. Monans. Sunlight and good skies are a real bonus too.
+![](/img/Kodak-Ektachrome-E100-20210730_20370722.jpg)
+*Kilconquhar. Fuji GW690ii, Ektachrome E100*
+
+I like the colours in this image taken at the loch, facing in the other direction, a few paces from where I captured the church. The complementary sky and grass tones here work for me. What is most impressive with this film stock is that there is almost no post processing required -- the header sunset image taken in February at Pattiesmuir shows this, I think, as well as these snaps from Kilconquhar and St. Monans. Sunlight and good skies are a real bonus too.
 
 ![](/img/Kodak-Ektachrome-E100-20210730_20451049.jpg)
 *St. Monan's harbour. Fuji GW690ii, Ektachrome E100*
