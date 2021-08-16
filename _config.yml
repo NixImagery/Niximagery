@@ -20,6 +20,7 @@ twitter:   https://twitter.com/NixImagery
 instagram: https://www.instagram.com/niximagery
 github:    https://github.com/NixImagery
 flickr:    https://www.flickr.com/photos/mrhood/
+rss:       /feed.xml
 # pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 
@@ -77,6 +78,7 @@ permalink: /:year/:month/:day/:title:output_ext
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 paginate: 7
 paginate_path: "/page/:num"

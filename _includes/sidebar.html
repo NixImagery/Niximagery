@@ -99,6 +99,12 @@
         <a href="{{ site.flickr }}" class="social-profiles-link"><i class="ion ion-logo-flickr"></i></a>
       </li>
       {% else %} {% endif %}
+
+      {% if site.rss %}
+      <li class="social-profiles-item">
+        <a href="{{ site.rss }}" class="social-profiles-link"><i class="ion ion-logo-rss"></i></a>
+      </li>
+      {% else %} {% endif %}
     </ul>
   </div>
 
