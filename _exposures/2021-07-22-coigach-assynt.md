@@ -58,13 +58,13 @@ Frame|Image|Aperture|Shutter|Comment
 2|do. With plough|f/2.8|1/125
 3|do.|f/22|1/2s
 4|Lily Loch in mist|f/16|1/15|21 July Drumbeg House
-5|the lane/ horse chestnut|f/16|1/2s
+5|The lane/ horse chestnut|f/16|1/2s
 6|1907|f/8|1/4s
-7|the arch at Culkein|f/16|1/8
+7|The arch at Culkein|f/16|1/8
 8|do.|f/22|1/4s
-9|cormorants|f/5.6|1/125
+9|Cormorants|f/5.6|1/125
 10|Stoer cliffs|f/22|1/8s
-11|waves|f/11|1/60
+11|Waves|f/11|1/60
 12|Kev the cave|f/22|1/8
 
 ## Nikon FM Portra 800
