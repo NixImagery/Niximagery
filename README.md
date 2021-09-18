@@ -7,6 +7,6 @@ My Photography blog which gives the name to this GitHub account is hosted at git
 
 Other public sites here are related to [my family tales](https://cullaloe.com/family), interdisciplinary learning at the [Natural Partners Project](https://naturalpartnersproject.org/), the 2020 [Data Ethics MOOC](https://cullaloe.com/DataEthicsMOOC/) run by the University of Edinburgh, and the remnants of the old Scottish Physics Teachers' Resources site [SPTR](https://sptr.net/).
 
-I am a Senior Teaching Fellow at Edinburgh University and maintain an interest in programming and artificial intelligence. You can find my current cv [here](http://cullaloe.com/cv.pdf) (pdf, 100kB).
+I am a Lecturer and PhD student at Edinburgh University. I maintain an interest in programming, artificial intelligence and pedagogy. You can find my current cv [here](http://cullaloe.com/cv.pdf) (pdf, 100kB).
 
 Nick Hood
