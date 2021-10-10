@@ -1,8 +1,8 @@
 ---
 title: Coigach and Assynt
 description: A few days in the North West
-published: no
-date: 12 September 2021
+published: yes
+date: 10 October 2021
 # author: Nick
 layout: post
 exposures: 2021-07-22-coigach-assynt
@@ -24,6 +24,7 @@ tags:
    - Ektachrome E100
    - Scotland
    - Coigach
+   - Assynt
    - Drumbeg
 ---
 
@@ -58,6 +59,14 @@ We went along the coast to explore the peninsula of Culkein and Stoer, where the
 ![](/img/Kodak-TMY-400-20210912_20371219.jpg)
 *A cave at Stoer. Hasselblad 503CW, Kodak TMY 400*
 
+Kylesku is a wonderful place and we visited, travelling home past the Sàil Gharb and Sàil Ghórm corbetts. 
+
+![](/img/Kodak-Portra-800-20211010_12151225.jpg)
+*Sàil Gharb and Sàil Ghórm. Nikon FM, Kodak Portra 800*
+
+The roads were pretty much deserted around here, even in the post-COVID mad summer of 2021 when all of England discovered Scotland.
+![](/img/Kodak-Portra-800-20211010_12192098.jpg)
+*Passing place. Nikon FM, Kodak Portra 800, f/11 1/250s*
 ## Notes
 
 Image|Camera|Lens|ISO|Format|Aperture|Shutter|Comment
@@ -68,5 +77,7 @@ Young stag|Fuji X-T2|XF100-400mmF4.5-5.6 R LM OIS WR|ISO 1600|Digital|f/10|1/500
 Shed|Hasselblad 503CW|Zeiss 80mm f/2.8|400|120|f/11|1/8s
 1907|Hasselblad 503CW|Zeiss 80mm f/2.8|400|120|f/8|1/4s|Cropped
 Caves|Hasselblad 503CW|Zeiss 80mm f/2.8|400|120|f/22|1/8s
+Sàil Gharb and Sàil Ghórm|Nikon FM|Nikon AI-s 28mm f/2.8|800|135|f/11|1/250s
+Passing place|Nikon FM|Nikon AI-s 28mm f/2.8|800|135|f/11|1/250s
 
 

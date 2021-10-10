@@ -69,6 +69,8 @@ Frame|Image|Aperture|Shutter|Comment
 
 ## Nikon FM Portra 800
 
+Frames 32-36 scanned 10 Oct 21
+
 Frame|Image|Aperture|Shutter|Comment
 ----:|:----|:----:|:----:|:-----
 1|from the pod|f/11|1/125|Coigach and Assynt 17 July 21 ff
@@ -96,13 +98,15 @@ Frame|Image|Aperture|Shutter|Comment
 29|beach waves|f/16|1/1000
 30|Lily Loch|f/16|1/500|20 July Drumbeg
 31|Kylescue slipway|f/11|1/250
-32|Kylescue water do.
-33|Sàil Gharb and Sàil Ghórm do.
-34|do.
+32|Kylescue water|f/11|1/250
+33|Sàil Gharb and Sàil Ghórm|f/11|1/250
+34|Sàil Gharb and Sàil Ghórm|f/11|1/250
 35|Passing place|f/11|1/250
 36|north coast|f/16|1/500
 
 ## Hasselblad 503CW Kodak Ektachrome E100
+
+Waiting for processing (10 October 2021)
 
 Frame|Image|Aperture|Shutter|Comment
 ----:|:----|:----:|:----:|:-----
@@ -118,6 +122,8 @@ Frame|Image|Aperture|Shutter|Comment
 12|Bass Rock|f/16|1/60s 
 
 ## Nikon FM Kodak Ektachrome E100
+
+Waiting for processing (10 October 2021)
 
 Frame|Image|Aperture|Shutter|Comment
 ----:|:----|:----:|:----:|:-----
@@ -147,7 +153,12 @@ Frame|Image|Aperture|Shutter|Comment
 28|St M the pend|f/8|1/60 
 29|St M Harbour from the Plerick gdns|f/8|1/60 
 30|Kirk again |f/5.6|1/125 |portrait
-
+31|Willowherb|f/4|1/500s|Dunning 18 Sep 
+32|River Devon|f/5.6|1/60s 
+33|River Devon|f/8|1/60
+34|River Devon|f/11|1/30
+35|Bridge over Devon|f/11|1/15|
+36|Under Bridge over Devon|f/11|1/15 
 
 
 ## Notes

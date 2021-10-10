@@ -24,6 +24,8 @@ I took the Hasselblad 503CW with a roll of Kodak Tri-X, and the Ricoh in my pock
 Kodak|Tri-X|400|120|12|Hasselblad 503CW|Zeiss 80mm F2.8 C
 -->
 
+Waiting for scanning Oct 21
+
 Frame|Image|Aperture|Shutter|Comment
 ----:|:----|:----:|:----:|:-----
 1|Bark|f/2.8|1/2s|Cally car park
