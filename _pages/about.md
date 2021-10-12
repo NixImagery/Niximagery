@@ -11,4 +11,4 @@ My name is Nick Hood. Jack of All, Master of None and perpetually frustrated by 
 ### Photography
 There are sometimes stories to go with pictures I make. I wanted to try to make a space where I can, if I can find the time, tell the stories of the images. Or maybe post the images of the stories. Whatever. This is one of those places, although I am increasingly eschewing the digital spaces I have (over)inhabited. Anyway, I hope you enjoy it - thanks for stopping by - and please post comments or questions.
 
-The header photo? That was taken by my wife. She is [a better photographer than I am](https://karamudie.co.uk/).
+The header photo? That was taken by my wife. She is [a better photographer than I am](https://wildaye.co.uk/).
