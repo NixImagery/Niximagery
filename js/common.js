@@ -83,7 +83,7 @@ $(function() {
 
           if (el_top < win_bottom) {
             $(this)
-              .delay(i * 100)
+              .delay(i * 80)
               .queue(function() {
                 $(this).addClass("reveal-in");
               });
@@ -92,34 +92,6 @@ $(function() {
       );
     }).scroll();
   }
-
-
-  /* =======================
-  // Responsive Videos
-  ======================= */
-  $(".post-content, .page-content").fitVids({
-    customSelector: ['iframe[src*="ted.com"]']
-  });
-  
-
-  /* =======================
-  // Instagram Feed
-  ======================= */
-  // userId and accessToken from Matthew Elsom (https://codepen.io/matthewelsom/pen/zrrrLN) for example, for which he thanks a lot!
-  var instagramFeed = new Instafeed({
-    get: 'user',
-    limit: 6,
-    resolution: 'standard_resolution',
-    userId: '27907724359',
-    accessToken: '27907724359.924f677.8555ecbd52584f41b9b22ec1a16dafb9',
-    template:
-      '<li class="instagram-item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></li>'
-  });
-
-  if ($('#instafeed').length) {
-    instagramFeed.run();
-  }
-
 
   /* =======================
   // Scroll Top Button
