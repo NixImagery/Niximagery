@@ -6,7 +6,7 @@ date: 18 October 2021
 # author: Nick
 layout: post
 exposures: 2021-10-18-400TX-Portra
-image: DSF8124.jpg
+image: DSF8178.jpg
 tags:
    - Hasselblad
 #   - 503CW
@@ -19,9 +19,10 @@ tags:
 #   - Tri-X 400
 #   - Portra 160
    - Scotland
-   - Ardnamurchan
    - Ard Daraich
+   - Ardnamurchan
 #   - Rodinal R09
+
 ---
 
 We took a trip to the Ardnamurchan peninsula for our anniversary and enjoyed the pleasures of that with some photography. The sun shone on the first day, and took a jigsaw puzzle day on the second, giving us time for proper rest and relaxation. We stayed at Ard Daraich, home of the artist [Anna Raven](https://arddaraich.co.uk/anna-raven-artist/) and her husband, film-maker [Norrie MacLaren](https://ardgour-selfcatering.co.uk/norrie-maclaren/). The house and gardens are [well known](https://www.countrylife.co.uk/gardens/country-gardens-and-gardening-tips/ard-daraich-was-the-holiday-home-of-constance-spry-155070) as the former home of [Constance Spry](https://en.wikipedia.org/wiki/Constance_Spry), famed as the creator of Coronation Chicken for the Queen. Our accommodation was the [Garden Studio](https://ardgour-selfcatering.co.uk/accommodation/the-garden-studio/), former garage to the larger house and nestled between the house and Anna's studio which houses a substantial printing press which she uses to create some of her work. 
@@ -43,7 +44,7 @@ Our too-short sojourn at Ard Daraich was surely a rehearsal for a return to Ardg
 
 Image|Camera|Lens|ISO|Format|Aperture|Shutter|Comment
 :----|:-----|:---|:---|:----|:------:|:----:|:------
-Header|Fuji X-T2|XF100-400mmF4.5-5.6 R LM OIS WR|800|Digital|f/8|1/1000s|at 400mm
+Header (Sanna Bay, the small isles)|Fuji X-T2|XF16mmF1.4 R WR|800|Digital|f/16|1/125s|
 Reflections|Fuji X-T2|XF100-400mmF4.5-5.6 R LM OIS WR|3200|Digital|f/8|1/1000s|at 400mm
 Beach Salad|Ricoh GR-III|Ricoh 18.3mm|200|Digital|f/5.6|1/50s
 
