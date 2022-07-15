@@ -1,6 +1,6 @@
 ---
-title: The Outer Hebrides 3
-description: A Summer Trip, continued
+title: "Hebridean trip part 4: Au Revoir"
+description: A Summer Trip, concluded
 published: no
 date: 14 July 2022
 # author: Nick
@@ -23,7 +23,6 @@ tags:
 #   - Rodinal R09
 
 ---
-
 
 The header image will give you a sense of what we had hoped for. That image is actually a stitch of 8 images taken with the X-T2 and 35mm f/2 lens. Each image was exposed at f/8, 1/125s at ISO 200 and assembled into a panorama in Capture One. It should make a nice print about 50 inches x 20 inches if I ever get around to that.
 
