@@ -1,5 +1,5 @@
 # NixImagery
-This is a collection of repositories which contain websites, data and documentation assoicated with various strands of my work and business. Some are private, others not so.
+This is a collection of repositories which contain websites, data and documentation associated with various strands of my work and business. Some are private, others not so.
 
 My Technical blog is located at https://cullaloe.com/ and contains posts on coding, technical matters, education and research. The site is built with code from the [Galada](https://jekyll-themes.com/galada/) Jekyll theme.
 
