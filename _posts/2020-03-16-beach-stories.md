@@ -11,7 +11,7 @@ tags:
   - Beach
 ---
 ## Imagined back stories of things found on the beach
-Most of these images were made in November 2019 at Clashnessie, in the Assynt. There is an album on [Flickr](https://www.flickr.com/gp/mrhood/4Q9mx9) where you can see higher resolution versions of these images and a few more. The stories may have been extended a little.
+Most of these images were made in November 2019 at Clashnessie, in the Assynt.
 
 ## The backwards aerial with half twist
 ![](/img/beach-stories/the-backwards-aerial-with-half-twist.jpg)
