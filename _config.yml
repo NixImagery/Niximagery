@@ -16,10 +16,11 @@ author-avatar: NRH-avatar.png
 #-------------------------------
 # Contact links
 # facebook:  https://facebook.com/NixImagery <- hacked off with FB Pages
-twitter:   https://twitter.com/NixImagery
+# twitter:   https://twitter.com/NixImagery
 instagram: https://www.instagram.com/niximagery
 github:    https://github.com/NixImagery
 flickr:    https://www.flickr.com/photos/niximagery/
+500px:     https://500px.com/p/niximagery
 rss:       /feed.xml
 # pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
@@ -74,7 +75,7 @@ google-analytics: UA-29333042-11 # Add your identifier. For example UA-99631805-
 markdown: kramdown
 
 # permalink: ':title/'
-permalink: /:year/:month/:day/:title:output_ext
+permalink: "/:year/:month/:day/:title"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

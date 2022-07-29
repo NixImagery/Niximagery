@@ -100,6 +100,12 @@
       </li>
       {% else %} {% endif %}
 
+      {% if site.500px %}
+      <li class="social-profiles-item">
+        <a href="{{ site.500px }}" class="social-profiles-link"><span class="iconify" data-icon="bxl:500px"></span></a>
+      </li>
+      {% else %} {% endif %}
+
       {% if site.rss %}
       <li class="social-profiles-item">
         <a href="{{ site.rss }}" class="social-profiles-link"><i class="ion ion-logo-rss"></i></a>
