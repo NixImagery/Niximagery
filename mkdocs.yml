@@ -1,0 +1,76 @@
+site_name: Niximagery
+site_description: Stories and images
+site_url: https://niximagery.com
+site_author: Nick Hood
+docs_dir: source
+site_dir: docs
+repo_url: https://github.com/NixImagery
+repo_name: NixImagery
+# edit_uri: ""
+copyright: Copyright &copy; 1976 - 2022 Nick Hood
+
+theme:
+  name: material
+  favicon: img/favicon.ico
+  logo: img/IMG_9378.png
+  features:
+    - navigation.instant
+    # - navigation.tabs
+    # - navigation.sections
+    # - toc.integrate
+
+  palette:
+    primary: white
+    accent: indigo
+
+nav:
+  - 'index.md'
+  - The stories and images: Stories/
+  - Cameras: Cameras/
+  - Exposure logs: Exposures/
+  - Index: 'tags.md'
+
+plugins: 
+  - search
+  - glightbox
+  - literate-nav
+  - tags:
+      tags_file: tags.md
+  # - git-revision-date-localized
+  - bibtex:
+      bib_file: "/Users/v1nhood/Dropbox/Bibliographies/library.bib"
+      csl_file: "/Users/v1nhood/Dropbox/styles/chicago-author-date-16th-edition.csl"
+      cite_inline: true
+  - print-site # this needs to be the last plugin
+
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - footnotes
+  - admonition
+  - meta
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/NixImagery
+      name: The NixImagery Repository at GitHub
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/niximagery/
+      name: NixImagery on Instagram
+    - icon: fontawesome/brands/flickr
+      link: https://www.flickr.com/photos/niximagery/
+      name: NixImagery on Flickr
+    - icon: fontawesome/brands/500px
+      link: https://500px.com/p/niximagery
+      name: NixImagery on 500px
+
+  analytics:
+    provider: google
+    property: UA-29333042-11
+
+  disqus: 'Niximagery'
