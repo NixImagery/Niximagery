@@ -152,7 +152,7 @@ Frame|Image|Aperture|Shutter|Comment
 ![](/img/Fuji-Acros-II-2.2-sm.jpg)
 My wife, photographer [Kara Mudie](https://wildaye.co.uk/), at work at the Bøsdalafossur falls. Acros
 
-### Trøllkonufingur
+### Bøsdalafossur
 We went out for sunrise at the Witch's Finger (Trøllkonufingur) which was unspectacular due to clouds obstructing the sun but still fun. After breakfast, we headed out to find the lake above the sea. We did, but not before shelling out 200 Króna each for the privilege of access to the footways. A nicely spoken local girl was manning the barricade and promising tea and coffee when we returned from our hike. 
 
 ![](/img/DSF7255.jpg)
