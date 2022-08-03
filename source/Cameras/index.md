@@ -1,4 +1,4 @@
-# Camera pages
+# Cameras
 
 ![](/img/IMG_8897.jpg)
 **Sisters** These were the film cameras I was using at the start of 2020.

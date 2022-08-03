@@ -150,15 +150,13 @@ Frame|Image|Aperture|Shutter|Comment
 <!-- Sunday morning, the 9th February.  -->
 
 ![](/img/Fuji-Acros-II-2.2-sm.jpg)
-My wife, photographer [Kara Mudie](http://karamudie.co.uk/), at work at the Bøsdalafossur falls. Acros
+My wife, photographer [Kara Mudie](https://wildaye.co.uk/), at work at the Bøsdalafossur falls. Acros
 
 ### Trøllkonufingur
 We went out for sunrise at the Witch's Finger (Trøllkonufingur) which was unspectacular due to clouds obstructing the sun but still fun. After breakfast, we headed out to find the lake above the sea. We did, but not before shelling out 200 Króna each for the privilege of access to the footways. A nicely spoken local girl was manning the barricade and promising tea and coffee when we returned from our hike. 
 
-### Gasadalur 
-
 ![](/img/DSF7255.jpg)
-**Gasadalur** Fuji X-T2 XF16mm ISO 200 f/16 1/50s, some post processing in Capture One Pro 20
+**Bøsdalafossur** Fuji X-T2 XF16mm ISO 200 f/16 1/50s, some post processing in Capture One Pro 20
 
 Of course, she wasn't there when we returned after sunset. We didn't care much, having had around 10km and 120m of elevation to stretch our muscles on. Leitisvatn / Sørvágsvatn lake ("the lake above the sea") pours over the Bøsdalafossur waterfall 30 metres into the sea below, which crashes dramatically against the cliff edges as if it were trying to get back up into the peaceful waters of the lake, where people were kayaking when we were there.
 
@@ -199,7 +197,7 @@ Frame|Image|Aperture|Shutter|Comment
 ----:|:----|:----:|:----:|:-----
 1.|Sea stacks|f/32|1/4s|Portrait
 2.|Sea stacks|f/32|1/4s|Landscape
-3.|Bøsdalafossur falls ([day 4 header](/Stories/2020-02-09-faroes-day-4))|f/32|1/4s|My wife, photographer [Kara Mudie](http://karamudie.co.uk/), at work.
+3.|Bøsdalafossur falls|f/32|1/4s|
 4-8.|Bøsdalafossur falls|f/32|1/2s|
 
 ### Ilford Ortho Plus 80

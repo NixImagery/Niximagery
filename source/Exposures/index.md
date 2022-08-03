@@ -1,4 +1,4 @@
-# Film exposure list
+# Exposure logs
 
 These pages contain listings of the exposures taken in each roll of film, with details of the camera and exposure settings for each frame, where I noted it at the time. It's really just my reference. Not all of these were scanned, and most of them aren't on this site. Ask if you're particularly interested.
 
