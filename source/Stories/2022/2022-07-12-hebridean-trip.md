@@ -5,6 +5,7 @@ tags:
    - Ricoh GRIII
    # - Scotland
    # - Hebrides
+image: /img/DSF9206_Panorama.jpg
 ---
 # A Summer Hebridean trip
 ![](/img/DSF9085.jpg)
