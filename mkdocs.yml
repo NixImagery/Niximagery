@@ -11,6 +11,7 @@ copyright: Copyright &copy; 1976 - 2022 Nick Hood
 
 theme:
   name: material
+  custom_dir: overrides
   favicon: img/favicon.ico
   logo: img/IMG_9378.png
   features:
