@@ -1,12 +1,12 @@
 ---
 tags:
    - Agfa Isolette
-   - Kodacolour II
+   - Kodak Kodacolor
 ---
 # Kodacolour II
 ![](/img/20-3-20-KodacolorII-1.jpg)
 
-This film was in the Agfa Isolette I bought on eBay. Exposed on 14th March 2020, sent to AG for processing at £3.49 plus £1.17 pp ([read more](/Stories/2020/03/21/1983-kodacolorII)).
+This film was in the Agfa Isolette I bought on eBay. Exposed on 14th March 2020, sent to AG for processing at £3.49 plus £1.17 pp ([read more](/Stories/2020/2020-03-21-1983-kodacolorII)).
 
 !!! quote "Susan Sontag"
     All photographs are memento mori.

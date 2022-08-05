@@ -20,6 +20,10 @@ theme:
     # - navigation.sections
     # - toc.integrate
 
+  icon:
+    admonition:
+      example: fontawesome/brands/flickr # abusing the admonition type
+
   palette:
     primary: white
     accent: indigo
@@ -29,7 +33,7 @@ nav:
   - Stories and images: 
     - Stories/index.md
     - 2022: Stories/2022/
-    # - Stories/2021-*.md
+    - 2021: Stories/2021/
     - 2020: Stories/2020/
   - Cameras: Cameras/
   - Exposure logs: 
@@ -46,7 +50,7 @@ plugins:
   - literate-nav
   - tags:
       tags_file: tags.md
-  # - git-revision-date-localized
+  - git-revision-date-localized
   - bibtex:
       bib_file: "/Users/v1nhood/Dropbox/Bibliographies/library.bib"
       csl_file: "/Users/v1nhood/Dropbox/styles/chicago-author-date-16th-edition.csl"
