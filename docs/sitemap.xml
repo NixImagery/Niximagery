@@ -91,27 +91,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://niximagery.com/Exposures/2020/2020-10-30-Berlin-400-Isolette/</loc>
-         <lastmod>2022-08-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://niximagery.com/Exposures/2020/2020-10-30-Fuji-Pro-400H/</loc>
          <lastmod>2022-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://niximagery.com/Exposures/2020/2020-11-06-Ilford-SFX-200/</loc>
-         <lastmod>2022-08-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://niximagery.com/Exposures/2020/2020-11-07-Ilford-orthochrome-80/</loc>
-         <lastmod>2022-08-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://niximagery.com/Exposures/2020/2020-11-08-Kosmo-100/</loc>
          <lastmod>2022-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -236,7 +221,52 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://niximagery.com/Stories/2020/2020-10-04-E100-gw690/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://niximagery.com/Stories/2020/2020-10-04-E100-isolette/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-10-30-Berlin-400-Isolette/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-11-06-Five-frames-SFX/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-11-07-Last-frames/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-11-08-Kosmo-100/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-11-09-Kodak-Portra-800/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-11-27-Ilford-Delta-3200/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-11-28-Kilminning/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-12-28-Resolutions/</loc>
          <lastmod>2022-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>

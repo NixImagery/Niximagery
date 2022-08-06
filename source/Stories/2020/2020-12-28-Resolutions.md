@@ -1,17 +1,14 @@
 ---
-title: Resolutions, some photographic
-description: Some thoughts at the end of an interesting year.
-date: 2020-12-28T11:54:00+00:00
-published: yes
-author: Nick
-layout: post
-image: DSF7687.jpg
+date: 28 December 2020
 tags:
-  - Reflection
-  - Fuji
-  - X-T2
+  # - Reflection
+  - Fuji X
 ---
-December, 2020. After Christmas.
+# Resolutions, some photographic
+December, 2020. After Christmas. Some thoughts at the end of an interesting year.
+
+![](/img/DSF7687.jpg)
+**Glenquey reservoir**
 
 Like many people, I don't see the point of making resolutions at the end of the year, only to break them within a few days of returning to normal life, its pressures and temptations. This year, the (first?) year of pandemic restrictions, has given us all opportunities to reflect a little: the reflection necessarily includes looking at oneself. Here is where we see ourselves more objectively -- in the moments of noticing just how we change as we get older. Perhaps also, we observe how we have *not changed* when we ought to have.
 
