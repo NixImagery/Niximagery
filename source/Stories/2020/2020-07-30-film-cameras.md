@@ -1,15 +1,12 @@
 ---
-title: Learning about the CLA
-#date: 2020-01-30 08:00
-author: Nick
-layout: post
-image: IMG_8897.jpg
 tags:
-  - Fuji
-  - GW690ii
-  - Nikon
-  - FM
+  - Fuji GW690ii
+  - Nikon FM
 ---
+# Learning about the CLA
+![](/img/IMG_8897.jpg)
+**Dirty little sisters**
+
 It's been a few months now, since I started shooting film again. Needless to say, I've had some results I am very pleased with, and a whole series of disappointments and frustrations with myself on the way.
 
 ## Focusing the Fuji
@@ -20,18 +17,18 @@ My monster medium-format Fuji GW690ii (above, centre) is a rangefinder on steroi
 None of those words, I have learned, describe the camera. I had been disappointed with some of the photos taken with it. This, for example, taken on Kinghorn Beach, I hoped would be much clearer:
 
 ![](/img/20-3-20-Pro50-8.jpg)
-**Parasurfers, Kinghorn Beach**
+**Parasurfers, Kinghorn Beach** Fuji GW690ii, Ilford Pan F Plus 50, f/11 at 1/60s
 
 Sometimes sharpness doesn't matter too much. This image, taken on a trip to the Faroes before the COVID lockdown, still looks pretty nice to me, not least because the Portra film I was using is just wonderful if you catch the light right:
 
 ![](/img/Portra-160-2.4-Feb-13-2020-1-sm.jpg)
-**Huts near Vágar**
+**Huts near Vágar Airport** Fuji GW690ii, Kodak Portra 160, f/11 at 1/60s
 
 ## Two Nikon FMs
 My old Nikon FM, which went everywhere I did as I travelled with the military and then work from 1977 to the turn of the century, had been condemned by [Lehmans](https://www.hlehmann.co.uk/) as being beyond repair, specifically, the shutter mechanism, for which no spares are available. Its "FULLY TESTED *EXCELLENT*" replacement I had bought from [SE Cameras](https://www.ebay.co.uk/str/secameras) (eBay) has never been right, showing light leaks and odd exposure variations. Here's an example:
 
 ![](/img/20-3-22-Delta-400-34.jpg)
-**Kinghorn, Nikon FM**
+**Parasurfers at Kinghorn, Nikon FM**, Nikon AI-s 28mm f/2.8, Ilford Delta 400, f/16 at 1/125s. Yellow filter.
 
 The light leaks were particularly bad in a recent film - 20 of the 36 exposures were spoiled - and this is what triggered me to finally take action and get professional help.
 
@@ -53,11 +50,3 @@ I buy (too much) film from [Analogue Wonderland](https://analoguewonderland.co.u
 
 [Cameratiks](https://www.cameratiks.co.uk/) in Edinburgh is staffed by calm, competent and polite people who know what they are doing. They are not cheap, nor are they expensive: you can buy quality digital and film gear there, and have them offer decent advice on the basis that you will go back there next time you need anything. That's my kind of business.
 
-### Notes
-
-Image|Camera|Lens|Film/ISO|Aperture|Shutter|Comment
------|------|----|--------|--------|-------|-------
-Header|iPhone|4.25mm|ISO 500|f/1.8|1/40s|
-Kinghorn beach|Fuji GW690ii|90mm|Ilford Pan F Plus 50|f/11|1/60s
-Huts|Fuji GW690ii|90mm|Kodak Portra 160|f/11|1/60s|near Vágar Airport
-Kinghorn|Nikon FM|Nikon AI-s 28mm f/2.8|Delta 400|f/16|1/125s|Parasurfers. Yellow filter.

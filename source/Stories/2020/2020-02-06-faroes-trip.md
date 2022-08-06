@@ -1,5 +1,5 @@
 ---
-date: 2020-02-06 13:40
+date: 6 February 2020
 tags:
   - Apple iPhone
   # - Faroes

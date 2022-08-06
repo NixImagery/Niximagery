@@ -71,17 +71,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://niximagery.com/Exposures/2020/2020-03-14-Ilford-Delta-400/</loc>
-         <lastmod>2022-08-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://niximagery.com/Exposures/2020/2020-04-07-Kodak-E100/</loc>
-         <lastmod>2022-08-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://niximagery.com/Exposures/2020/2020-04-11-Kodak-Verichrome/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Exposures/2020/2020-06-07-Lomography-Potsdam-100/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Exposures/2020/2020-07-12-Bergger-Panchro-400/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Exposures/2020/2020-07-13-Lomography-Berlin-400/</loc>
          <lastmod>2022-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -181,7 +186,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://niximagery.com/Stories/2020/2020-03-16-beach-stories/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://niximagery.com/Stories/2020/2020-03-21-1983-kodacolorII/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-03-22-delta-400/</loc>
          <lastmod>2022-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -191,7 +206,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://niximagery.com/Stories/2020/2020-04-11-lost-and-found/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://niximagery.com/Stories/2020/2020-04-30-pattiesmuir/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-05-18-sunshine-walks/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-07-14-assynt/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-07-18-belhaven-beach/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2020/2020-07-30-film-cameras/</loc>
          <lastmod>2022-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>

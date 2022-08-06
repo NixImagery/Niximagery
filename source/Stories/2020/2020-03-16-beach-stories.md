@@ -1,17 +1,16 @@
 ---
-title: Beach Stories
 date: 2020-03-16T20:00:00+00:00
-# published: no
-author: Nick
-layout: post
-image: beach-stories/breakwater.jpg
 tags:
-  - Fuji
-  - X-T2
-  - Beach
+  - Fuji X
+  # - Beach
 ---
-## Imagined back stories of things found on the beach
-Most of these images were made in November 2019 at Clashnessie, in the Assynt.
+# Beach Stories
+Imagined back stories of things found on the beach
+
+![](/img/beach-stories/breakwater.jpg)
+*The famous breakwater at St. Monans, Fife.* 
+
+Most of these images were made in November 2019 at Clashnessie, in the Assynt, and all of them were made with the Fuji  X-T2 camera and the Fujinon XF16mm F1.4 R WR lens at ISO 200.
 
 ## The backwards aerial with half twist
 ![](/img/beach-stories/the-backwards-aerial-with-half-twist.jpg)
@@ -29,11 +28,11 @@ Carlos and Eva seemed to defy the laws of gravity as they danced their contragir
 ![](/img/beach-stories/kestrel.jpg)
 He glides, and hovers on the imperceptible breeze, scanning for little violet trickles and traces that betray the poor vole, scurrying, hopping, scampering along, cursing his evolutionary luck.
 
-### Notes
+## Notes
 
 Image|Camera|Lens|Film/ISO|Aperture|Shutter|Comment
 :----|:-----|:---|:---|:------:|:----:|:------
-Header image|Fuji X-T2|Fujinon XF16mm F1.4 R WR|ISO 200|f/11|1/60s|Not the Assynt: the famous breakwater at St. Monans, Fife.
+St. Monans breakwater|Fuji X-T2|Fujinon XF16mm F1.4 R WR|ISO 200|f/11|1/60s
 The backwards aerial|Fuji X-T2|Fujinon XF16mm F1.4 R WR|ISO 200|f/5.6|1/200s
 Epsilon|Fuji X-T2|Fujinon XF16mm F1.4 R WR|ISO 200|f/5.6|1/125s
 The Argentine Tango|Fuji X-T2|Fujinon XF16mm F1.4 R WR|ISO 200|f/4|1/320s

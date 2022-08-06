@@ -6,13 +6,13 @@ docs_dir: source
 site_dir: docs
 repo_url: https://github.com/NixImagery
 repo_name: NixImagery
-# edit_uri: ""
+edit_uri: ""
 copyright: Copyright &copy; 1976 - 2022 Nick Hood
 
 theme:
   name: material
   custom_dir: overrides
-  favicon: img/favicon.ico
+  favicon: img/NRH-avatar.png
   logo: img/IMG_9378.png
   features:
     - navigation.instant
@@ -55,14 +55,14 @@ plugins:
       tags_file: tags.md
   - git-revision-date-localized
   - rss:
-      abstract_chars_count: 160  # -1 for full content
+      abstract_chars_count: -1 #160  # -1 for full content
       categories:
         - tags
       comments_path: "#__comments"
       date_from_meta:
         as_creation: "date"
         as_update: false
-        datetime_format: "%Y-%m-%d %H:%M"
+        datetime_format: "%d %B %Y"
       enabled: true
       feed_ttl: 1440
       image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png

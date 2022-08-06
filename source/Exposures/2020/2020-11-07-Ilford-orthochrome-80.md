@@ -13,7 +13,7 @@ All of the frames in this roll were affected by light leaks but also showed up r
 ![](/img/Ilford-Ortho-80-20201107_18194742.jpg)
 **Salmon Cottage**
 
-Perhaps the best images on this film were the ones I ran off of the car in the street: they were much contrastier but showed focus problems beyond about 5 metres. One I didn't touch in post-processing is in the header.
+Perhaps the best images on this film were the ones I ran off of the car in the street: they were much contrastier but showed focus problems beyond about 5 metres. One I didn't touch in post-processing is at the top of this post.
 
 ![](/img/Ilford-Ortho-80-20201107_18104233.jpg)
 **Buachaille Etive Mór**

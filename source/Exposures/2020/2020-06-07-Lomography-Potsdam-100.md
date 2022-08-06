@@ -1,17 +1,12 @@
 ---
-title: Potsdam in an Isolette 120
-description: Exposures
-# published: no
-# author: Nick
-layout: post
-image: 2020-04-17-Kodak-TMY-12.jpg
 tags:
-   - Agfa
-   - Isolette I
-   - Lomography
-   - Potsdam 100
-   - Rodinal R09
+   - Agfa Isolette
+   - Lomo Potsdam
+   # - Rodinal R09
 ---
+# Potsdam in an Isolette 120
+![](/img/2020-04-17-Kodak-TMY-12.jpg)
+
 Black and white negative film, cost £8.00 per roll from Analog Wonderland. Exposed between 4 - 7 Jun 2020 in and around Barkway, Hertfordshire. 
 
 I processed this film at home, intending to semi-stand develop in Rodinal R09 one shot, which would have worked out at something like 75p per shot. However, I made a stupid mistake, and reached for the stop solution instead of the developer, resulting in completely blank (transparent) carrier at the end (not even the manufacturer's film markings along the side).

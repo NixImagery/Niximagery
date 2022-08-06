@@ -1,16 +1,10 @@
 ---
-title: Lomography Berlin 400 120
-description: Exposures
-# published: no
-# author: Nick
-layout: post
-# image: 20-3-20-Pro50-1.jpg
 tags:
-   - Fuji
-   - GW690ii
-   - Lomography
-   - Berlin 400
+   - Fuji GW690ii
+   - Lomo Berlin
 ---
+# Lomography Berlin 400 120
+
 In the camera from 12th - 14th July, with a yellow filter for the sky. Kino film, £9 per roll from Analog Wonderland.
 
 I destroyed this film in development. I tried to "stand develop" it using Ilfosol 3 developer: this is a quick ("hot") developer, I later discovered, and thus the over-development that resulted (very faded images on the carrier) was not really a surprise in retrospect.

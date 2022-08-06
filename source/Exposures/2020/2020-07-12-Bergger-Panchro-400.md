@@ -1,19 +1,14 @@
 ---
-title: Bergger Panchro 400 120
-description: Exposures
-# published: no
-# author: Nick
-layout: post
-image: img20200716_02.jpg
 tags:
-   - Fuji
-   - GW690ii
-   - Bergger
-   - Panchro 400
-   - Rodinal R09
-   - Development
-   - Random
+   - Fuji GW690ii
+   - Bergger Panchro
+   # - Rodinal R09
+   # - Development
 ---
+# Bergger Panchro 400
+![](/img/img20200716_02.jpg)
+**Achmevlich beach** The figure in the grass is Kara. Fuji GW690ii f/11 at 1/30s. Toning in Capture One
+
 In the camera from 11th-12th July 2020. £5.50 from Analog Wonderland.
 
 Brand|Type|ISO|Format|Exposures|Camera|Lens
