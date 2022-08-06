@@ -29,22 +29,22 @@ theme:
     primary: white
     accent: indigo
 
-nav: # There's a bug in the nav handling that makes it case sensitive
+nav: 
   - Home: index.md
   - Stories and images: 
-    - stories/index.md
-    - 2022: stories/2022/
-    - 2021: stories/2021/
-    - 2020: stories/2020/
+    - Stories/index.md
+    - 2022: Stories/2022/
+    - 2021: Stories/2021/
+    - 2020: Stories/2020/
   - Cameras: 
-    - cameras/index.md
-    - cameras/*
+    - Cameras/index.md
+    - Cameras/*
   - Exposure logs: 
-    - exposures/index.md
-    - 2022: exposures/2022/
-    - 2021: exposures/2021/
-    - 2020: exposures/2020/
-    - 2019: exposures/2019/
+    - Exposures/index.md
+    - 2022: Exposures/2022/
+    - 2021: Exposures/2021/
+    - 2020: Exposures/2020/
+    - 2019: Exposures/2019/
   - Index: 'tags.md'
 
 plugins: 
