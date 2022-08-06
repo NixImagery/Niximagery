@@ -1,22 +1,21 @@
 ---
-title: Polney Loch 9/11/21
-description: Remembering 9/11 20 years on
-published: yes
 date: 10 October 2021
-# author: Nick
-layout: post
-exposures: 2021-09-11-polney-loch
-image: R0001067.jpg
+# exposures: 2021-09-11-polney-loch
 tags:
-   - Hasselblad
-   - 503CW
+   - Hasselblad V
    - Ricoh GRIII
-   - Kodak
-   - Tri-X 400
-   - Scotland
-   - Dunkeld
-   - Rodinal R09
+   - Kodak Tri-X
+   # - Scotland
+   # - Dunkeld
+   # - Rodinal R09
 ---
+# Polney Loch 9/11/21
+
+Remembering 9/11 20 years on
+
+![](/img/R0001067.jpg)
+*Above Polney Loch*, Ricoh GRIII
+
 We needed an escape from the madness and so jumped in the car and headed North to Tiso, the M&S Foodstore and on to Dunkeld by way of the new road which is very nice, I have to say. The motive was almost a visceral need to be in the woods, and this time of year is when that experience is at its best as the colours are changing as fast as the air does: from the mouthfuls of balmy summer warmth to shorter bites of soupy vapour returned to the atmosphere as evanescent clouds. Mushroom time.
 
 ![](/img/Kodak-Tri-X-400-20211010_15283019.jpg)
@@ -24,11 +23,13 @@ We needed an escape from the madness and so jumped in the car and headed North t
 
 I took a Hasselblad 503CW with a roll of Kodak Tri-X, and a Ricoh GRIII in my pocket for the more immediate gratification of having something to show on the day for our efforts. On this day, without explicitly talking about it, we remembered the events of 20 years ago with humility and gratitude, within one of Nature's Cathedrals.
 
-![](/img/Kodak-Tri-X-400-20211010_14291790.jpg)*Bark on various trees. f/2.8 1/2s*
+![](/img/Kodak-Tri-X-400-20211010_14291790.jpg)
+*Bark on various trees. f/2.8 1/2s*
 
 In the peace and reflection of our walk, I noticed the bark patterns on the aged trees, like the scars of experience, each different from the others, each with their own stories to tell. These patterns became as faces of old men and women, taciturn yet expressive of triumph and loss, of lessons learned and not, of survival and the remembrance of those who did not.
 
-![](/img/Kodak-Tri-X-400-20211010_14325659.jpg)*Bark on various trees. f/2.8 1/4s*
+![](/img/Kodak-Tri-X-400-20211010_14325659.jpg)
+*Bark on various trees. f/2.8 1/4s*
 
 These were taken quite near the Cally car park where we began our stroll and I recall the steps, the birdsong and the additional aroma of the sawmill below the path, as I write this in October. A month from now is another great remembrance when I celebrate getting older, living vicariously for those who have been denied.
 
@@ -42,7 +43,8 @@ The leaves on the birch trees on the far bank were turning a light golden yellow
 
 At the end of the loch stands this wooden lodge -- a fisherman's howff, perhaps -- that looks like it is from another age. It isn't that old by the looks of it but we might easily be convinced that we stepped through a portal back there.
 
-![](/img/Kodak-Tri-X-400-20211010_15072703.jpg)*House at the end of the Loch*
+![](/img/Kodak-Tri-X-400-20211010_15072703.jpg)
+*House at the end of the Loch*
 
 A detail of a hatch or door to the lodge reveals some old-time traditional craftsmanship, like you'd find on any great country estate. And ferns.
 
@@ -63,3 +65,30 @@ Mushroom|Hasselblad 503CW|Zeiss 80mm F2.8 C|400|120|f/2.8|1/2 sec
 Polney Loch|Hasselblad 503CW|Zeiss 80mm F2.8 C|400|120|f/22|1/3 s
 House|Hasselblad 503CW|Zeiss 80mm F2.8 C|400|120|f/18|1 sec
 Door|Hasselblad 503CW|Zeiss 80mm F2.8 C|400|120|f/10|1/8 s
+Below|Hasselblad 503CW|Zeiss 80mm F2.8 C|400|120|f/16|1/4s
+
+## Kodak Tri-X Exposure notes
+
+![](/img/Kodak-Tri-X-400-20211010_14532281.jpg)
+*Polney Loch*
+
+Brand|Type|ISO|Format|Exposures|Camera|Lens
+:----|:---|:--|:-----|:--------|:-----|:----
+Kodak|Tri-X|400|120|12|Hasselblad 503CW|Zeiss 80mm F2.8 C
+
+Scanned 10 October 2021
+
+Frame|Image|Aperture|Shutter|Comment
+----:|:----|:----:|:----:|:-----
+1|Bark|f/2.8|1/2s|Cally car park
+2|Bark 2|f/2.8|1/4s
+3|Bark 3|f/2.8|1/30s
+4|Bark 4|f/2.8|1/125s
+5|Polney Loch|f/16|1/4s
+6|ditto
+7|House at the end of the Loch|f/18|1 sec
+8|House 2|f/22|1/2 sec
+9|Door|f/10|1/8s
+10|Loch|f/22|1/3s
+11|Mushrooms|f/2.8|1/2s
+12|Mushroom|f/8|1/2s

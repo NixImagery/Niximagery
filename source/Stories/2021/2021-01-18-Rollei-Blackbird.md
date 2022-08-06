@@ -1,17 +1,13 @@
 ---
-title: Rollei Blackbird
-description: Playing with 35mm film in a Medium-format camera. 
-date: 2021-01-18T16:00
-# published: no
-author: Nick
-layout: post
-image: Agfa-Kodak-400-TX-20210118_11242766.jpg
+date: 18 January 2021
 tags:
-  - Agfa
-  - Isolette I
-  - Rollei
-  - Blackbird
+  - Agfa Isolette
+  - Rollei Blackbird
 ---
+# Rollei Blackbird
+Playing with 35mm film in a Medium-format camera. 
+![](/img/Agfa-Kodak-400-TX-20210118_11242766.jpg)
+
 I'd seen [Fukukawatakashi](https://www.instagram.com/fukukawatakashi/)'s work making triptychs and thought I might play around with the idea. First time out, I used a roll of Rollei Blackbird, which is rated at 64 ISO but seems to be quite *laissez-faire* about how you shoot it. I put it in my Agfa Isolette medium-format camera, which also seems to be quite laid back in respect of how long a film you put through it. No frame counters to get in the way of the abuse I was planning. 
 
 A couple of 3D printed plastic adaptors[^eBay] allow you to fit a standard 135 film canister into the supply reel of the camera. I fed it onto the take-up spool and had counted on 2 and one third half-turns to be about enough for a 6cm wide image, which is what the camera is designed for. That only worked at the end of the roll[^idiot]: the early images needed a bit more, and so ended up overlapping:

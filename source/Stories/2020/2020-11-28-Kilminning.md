@@ -1,7 +1,7 @@
 ---
 tags:
   - Fuji GW690ii
-  - Fuji Acros II
+  - Fujifilm Acros II
 ---
 # Lower Largo
 ![](/img/Fujifilm-Neopan-Acros-II-100-20201127_21154833.jpg)

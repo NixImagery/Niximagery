@@ -1,32 +1,24 @@
 ---
-title: Coigach and Assynt
-description: A few days in the North West
-published: yes
 date: 10 October 2021
-# author: Nick
-layout: post
-exposures: 2021-07-22-coigach-assynt
-image: DSF8005.jpg
 tags:
-   - Fuji
-   - X-T2
-   - Hasselblad
-   - 503CW
-   - Nikon
-   - FM
-   - Ricoh
-   - GRIII
-   - Kodak
-   - T-Max 400
-   - Portra 800
-   - Ilford
-   - Pan F Plus 50
-   - Ektachrome E100
-   - Scotland
-   - Coigach
-   - Assynt
-   - Drumbeg
+   - Hasselblad V
+   - Nikon FM
+   - Kodak T-Max
+   - Kodak Portra
+   - Ilford PanF Plus
+   - Kodak E100
+   - Fuji X
+   # - Scotland
+   # - Coigach
+   # - Assynt
+   # - Drumbeg
 ---
+# Coigach and Assynt
+
+A few days in the North West
+
+![](/img/DSF8005.jpg)
+*Thistles. Fuji X-T2*
 
 For our summer trip North this year, I took the Hasselblad 503CW and my Nikon FM with digital backup from a Ricoh GRIII and my Fuji X-T2. The Agfa stayed in the bag and the GW690ii stayed at home. There's only so much gear one can carry.
 
@@ -51,7 +43,8 @@ We were treated to a close encounter with one of these stags, at the point we we
 *Keeper's shed. Hasselblad 503CW, Kodak TMY 400*
 
 The old house has been renovated, we think under new ownership, perhaps to return to its former glory as an exclusive dining experience for those who do that kind of thing. Traces of a more private small estate are still seen in the grounds.
-![](/img/Kodak-TMY-400-20210912_19434344.jpg)
+
+![](/img/Kodak-TMY-400-20210912_19434344.jpg)
 *1907. Hasselblad 503CW, Kodak TMY 400*
 
 We went along the coast to explore the peninsula of Culkein and Stoer, where there are wild rocks and waves from the Northern Minch, and hidden caves.
@@ -65,13 +58,17 @@ Kylesku is a wonderful place and we visited, travelling home past the Sàil Ghar
 *Sàil Gharb and Sàil Ghórm. Nikon FM, Kodak Portra 800*
 
 The roads were pretty much deserted around here, even in the post-COVID mad summer of 2021 when all of England discovered Scotland.
-![](/img/Kodak-Portra-800-20211010_12192098.jpg)
+
+![](/img/Kodak-Portra-800-20211010_12192098.jpg)
 *Passing place. Nikon FM, Kodak Portra 800, f/11 1/250s*
+
 ## Notes
+
+Detailed exposure logs for this post are [here](/Exposures/2021/2021-07-22-coigach-assynt/).
 
 Image|Camera|Lens|ISO|Format|Aperture|Shutter|Comment
 :----|:-----|:---|:---|:----|:------:|:----:|:------
-Header|Fuji X-T2|XF35mm F2 R WR|ISO 800|Digital|f/8|1/250s|Adjusted in Capture One.
+Thistles|Fuji X-T2|XF35mm F2 R WR|ISO 800|Digital|f/8|1/250s|Adjusted in Capture One.
 Tractor|Fuji X-T2|XF90mm F2 R LM WR|ISO 800|Digital|f/11|1/500s|Cropped & adjusted in Capture One.
 Young stag|Fuji X-T2|XF100-400mmF4.5-5.6 R LM OIS WR|ISO 1600|Digital|f/10|1/500s|Cropped & adjusted in Capture One.
 Shed|Hasselblad 503CW|Zeiss 80mm f/2.8|400|120|f/11|1/8s

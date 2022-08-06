@@ -1,19 +1,15 @@
 ---
-title: Three 120 films
-description: Figuring it out
-published: yes
-# author: Nick
-layout: post
-#exposures: 2021-07-22-coigach-assynt
-image: Kodak-Ektachrome-E100-20210729_20494968-1.jpg
 tags:
-   - Hasselblad
-   - 503CW
-   - Kodak
-   - T-Max 400
-   - Portra 160
-   - Ektachrome E100
+   - Hasselblad V
+   - Kodak T-Max
+   - Kodak Portra
+   - Kodak E100
 ---
+# Three 120 films
+
+![](/img/Kodak-Ektachrome-E100-20210729_20494968-1.jpg)
+*Kinghorn beach, Fife* Hasselblad, E100
+
 I sort of lost track of photography in the first part of this year, not least film photography. There were 3 120 films kicking about for a while, which I eventually sent to AG on 3rd April 2021 for developing and scanning. The negatives came back all square, with telltale Hasselblad notches that told me they were taken in my 503CW.
 
 Brand|Type|ISO|Format|Exposures|Camera|Lens

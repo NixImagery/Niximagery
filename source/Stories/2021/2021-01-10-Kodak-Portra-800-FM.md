@@ -1,17 +1,15 @@
 ---
-title: The colours of Portra
-description: Slowly getting my head around analogue photography... a roll of 800 in my old Nikon FM. 
-# published: no
-# author: Nick
-layout: post
-image: FM-Kodak-Portra-800-20210110_15053096.jpg
 tags:
-  - Nikon
-  - FM
-  - Kodak
-  - Portra 800
+  - Nikon FM
+  - Kodak Portra
 ---
-I recently wrote about a trip to [Kilminning](/2020/11/28/Kilminning) up the Fife coast and the images I made with a Fuji GW690ii. Well, I also had with me a Nikon FM 35mm camera with some Kodak Portra 800 in it. This is a colour negative film, which cost £12.50 per roll from Analog Wonderland, and was eventually processed by [AG Photolab](https://www.ag-photolab.co.uk/) once I'd finished it. I'm not processing my own colour film just yet.
+# The colours of Portra
+Slowly getting my head around analogue photography... a roll of 800 in my old Nikon FM. 
+
+![](/img/FM-Kodak-Portra-800-20210110_15053096.jpg)
+**Trees at Glendevon in the snow**
+
+I recently wrote about a trip to [Kilminning](/Stories/2020/2020-11-28-Kilminning/) up the Fife coast and the images I made with a Fuji GW690ii. Well, I also had with me a Nikon FM 35mm camera with some Kodak Portra 800 in it. This is a colour negative film, which cost £12.50 per roll from Analog Wonderland, and was eventually processed by [AG Photolab](https://www.ag-photolab.co.uk/) once I'd finished it. I'm not processing my own colour film just yet.
 
 ![](/img/FM-Kodak-Portra-800-20210110_14310009.jpg)
 **Sunset at Lower Largo**. Obviously right down at f/22 and 1/1000s of a second, but still produced a flare at the top of the image (which I cropped out). Who points a camera at the sun?
@@ -26,7 +24,7 @@ Accurate metering still evades me, but I feel I am getting a clearer understandi
 ![](/img/FM-Kodak-Portra-800-20210110_15155136.jpg)
 **Castle Hill reservoir**
 
-The Portra emulsions have a characteristic colour palette that I like. It's almost pastel: I think it's probably more suited to brighter light than I have exposed it in this roll, which are mostly wintery scenes, most recently taken on a walk out at Glenquey reservoir. The header image, of trees at Glendevon in the snow, gains very little from the colours of Portra, for example.
+The Portra emulsions have a characteristic colour palette that I like. It's almost pastel: I think it's probably more suited to brighter light than I have exposed it in this roll, which are mostly wintery scenes, most recently taken on a walk out at Glenquey reservoir. The top image, of trees at Glendevon in the snow, gains very little from the colours of Portra, for example.
 
 ![](/img/FM-Kodak-Portra-800-20210110_15195895.jpg)
 **Bridge at Glendevon**. White balance adjusted from the scanner's default in Capture One. A bit more Portra-like, in my view.
