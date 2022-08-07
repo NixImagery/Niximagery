@@ -5,7 +5,7 @@ tags:
    - Kodak T-Max
    - Kodak Portra
    - Ilford PanF Plus
-   - Kodak E100
+   # - Kodak E100
    # - Scotland
    # - Coigach
    # - Drumbeg
@@ -24,7 +24,7 @@ Kodak|Portra|800|35mm|36|Nikon FM|Nikon AI-s 28mm f/2.8
 Kodak|Ektachrome E100|100|120|12|Hasselblad 503CW|Zeiss 80mm F2.8 C
 Kodak|Ektachrome E100|100|35mm|36|Nikon FM|Nikon AI-s 28mm f/2.8 
 
-The first three films were sent to AG Labs 28 August 21 for processing.
+The first three films were sent to AG Labs 28 August 21 for processing. The E100 was sent for processing in October 2021 and eventually scanned in [August 2022](/Exposures/2022/2022-08-08-ektachrome-100/).
 
 ## Hasselblad 503CW Ilford Pan F plus 50
 
@@ -94,62 +94,6 @@ Frame|Image|Aperture|Shutter|Comment
 34|Sàil Gharb and Sàil Ghórm|f/11|1/250
 35|Passing place|f/11|1/250
 36|north coast|f/16|1/500
-
-## Hasselblad 503CW Kodak Ektachrome E100
-
-Waiting for processing (10 October 2021)
-
-Frame|Image|Aperture|Shutter|Comment
-----:|:----|:----:|:----:|:-----
-1|Clachtoll beach|f/22|1/15s|22 July 21
-2|do.|f/16|1/30s
-3|Suilven etc|f/18|1/60s
-4-6|Loch Assynt|f/22|1/15
-7|Sunflowers|1/16|f/30|4 Sep Ardross Farm, Fife
-8|Willowherb|1/16|f/30s
-9|Sunflowers|f/22|1/30s
-10|do.|1/11|f/125s
-11|do.|f/8|1/500s
-12|Bass Rock|f/16|1/60s 
-
-## Nikon FM Kodak Ektachrome E100
-
-Waiting for processing (10 October 2021)
-
-Frame|Image|Aperture|Shutter|Comment
-----:|:----|:----:|:----:|:-----
-1|The Cairn|f/5.6|1/60s|20 July Drumbeg House 
-2|Hut n ram|f/11|1/125|21 July by Clashmore
-3|Hut|f/8|1/125
-4|Merc n huts|f/11|1/125
-5|Coastal scene inc Clachtoll|f/11|1/125
-6|Doorway|f/11|1/250
-7|Stoer Lighthouse|f/11|1/250
-8|Cliffs|f/4|1/500
-9-10|Lighthouse|f/11|1/250
-11-12|Clachtoll beach|f/11|1/250
-13-14|Split rock, Clachtoll|f/11|1/125
-15|Sailor’s bothy Clachtoll|f/11|1/125
-16|Drumbeg, Lily Loch|f/11|1/125
-17|Suilven etc|f/16|1/125|22 July cf Hasselblad
-18|Loch Assynt|f/16|1/125
-19|Sunflowers at Ardross Farm|f/2.8|1/500|4 Sep, Ardross Farm, Fife
-20|Willow herb| f/8|1/60
-21||f/5.6|1/250 
-22-23||f/16|1/60
-24|Field lanes|f/16|1/30 
-25|Doocote|f/16|1/30 
-26|St Monans Kirk|f/11|1/30 
-27||f/11|1/30
-28|St M the pend|f/8|1/60 
-29|St M Harbour from the Plerick gdns|f/8|1/60 
-30|Kirk again |f/5.6|1/125 |portrait
-31|Willowherb|f/4|1/500s|Dunning 18 Sep 
-32|River Devon|f/5.6|1/60s 
-33|River Devon|f/8|1/60
-34|River Devon|f/11|1/30
-35|Bridge over Devon|f/11|1/15|
-36|Under Bridge over Devon|f/11|1/15 
 
 
 ## Notes
