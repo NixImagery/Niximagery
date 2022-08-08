@@ -1,4 +1,22 @@
-# Niximagery
+# Niximagery, stories and images
+
+Honestly, I don't know how people find the time. Life is full of challenges and yet others seem to manage it. I am too busy: working, with daily stuff to do, a PhD project under way, keeping up with my reading, music, sketching and helping my wife with her garden projects.
+
+I have been prompted to pay more attention to this photo/stories/sketches website by a need to express ideas. I don't know what they psychology of it is, but as I get older, I feel the creative itch more than ever.
+
+Not wanting to do it the easy way (any fool can snap an image on a phone nowadays), I have in the past couple of years been playing with film cameras and a bit of home processing. So has everyone else, apparently, and so prices have rocketed.
+
+Anyway, I have managed to renew the photo mojo a bit in the late summer of 2022 and so have managed several things.
+
+* I've found all of the exposed film laying about and either developed it myself, or sent the colour rolls to AG Photographic. There are several films to scan now, but I'll do that in the coming weeks.
+* The website is now migrated from the Jekyll site, which was nice but too slow-loading for my liking, to one built on  the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) Python framework. I took the opportunity to edit some of that content.
+* A new story published this week about [a day trip up the East neuk](/Stories/2022/2022-08-07-east-neuk/)
+
+So, thanks for reading so far. I hope to try to keep this place a little more dynamic, so please pop back, comment or subscribe [^how]. 
+
+[^how]: Paste the web address in your favourite RSS reader.
+
+## Niximagery
 
 ![](/img/Dunbar.jpg)
 
