@@ -9,15 +9,17 @@ I have been prompted to pay more attention to this photo/stories/sketches websit
 
 Not wanting to do it the easy way (any fool can snap an image on a phone nowadays), I have in the past couple of years been playing with film cameras and a bit of home processing. So has everyone else, apparently, and so prices have rocketed.
 
-Anyway, I have managed to renew the photo mojo a bit in the late summer of 2022 and so have managed several things.
+Anyway, I have renewed the photo mojo a bit in the late summer of 2022 and so have managed several things.
 
 * I've found all of the exposed film laying about and either developed it myself, or sent the colour rolls to AG Photographic. There are several films to scan now, but I'll do that in the coming weeks.
+* Archived my Flickr collection of over 10,000 images and reset the space to be more useful.
+* Refreshed my 500px account and posted new content there
 * The website is now migrated from the Jekyll site, which was nice but too slow-loading for my liking, to one built on  the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) Python framework. I took the opportunity to edit some of that content.
-* A new story published this week about [a day trip up the East neuk](/Stories/2022/2022-08-07-east-neuk/)
+* A new story published this week about [a day trip up the East neuk](/Stories/2022/2022-08-07-east-neuk/) in which I just ran with the digital Fuji X-T2.
 
 So, thanks for reading so far. I hope to try to keep this place a little more dynamic, so please pop back, comment or subscribe [^how]. 
 
-[^how]: Paste the web address in your favourite RSS reader.
+[^how]: Paste the web address in your favourite RSS reader. The actual feed is [here](https://niximagery.com/feed_rss_created.xml).
 
 ## Niximagery
 
