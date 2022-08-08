@@ -52,4 +52,6 @@ Thanks for stopping by.
 Nick Hood  
 Fife
 
+![](/img/rps-members-logo-2022.png)
+
 p.s. the bridge photo? That was taken by my wife. She is [a better photographer than I am](https://wildaye.co.uk/).
