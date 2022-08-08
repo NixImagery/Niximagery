@@ -2,7 +2,10 @@
 
 Honestly, I don't know how people find the time. Life is full of challenges and yet others seem to manage it. I am too busy: working, with daily stuff to do, a PhD project under way, keeping up with my reading, music, sketching and helping my wife with her garden projects.
 
-I have been prompted to pay more attention to this photo/stories/sketches website by a need to express ideas. I don't know what they psychology of it is, but as I get older, I feel the creative itch more than ever.
+![](/img/DSCF2858.jpg)
+**Time and tide wait for no man**
+
+I have been prompted to pay more attention to this photo/stories/sketches website by a need to express ideas. I don't know what the psychology of it is, but as I get older, I feel the creative itch more than ever.
 
 Not wanting to do it the easy way (any fool can snap an image on a phone nowadays), I have in the past couple of years been playing with film cameras and a bit of home processing. So has everyone else, apparently, and so prices have rocketed.
 
