@@ -1,4 +1,5 @@
 ---
+title: A Summer Hebridean trip
 date: 12 July 2022
 tags:
    - Fuji X
