@@ -1,5 +1,8 @@
 # Niximagery, stories and images
 
+!!! abstract "New scans, 14th August 22"
+    I have scanned a few images from film recently developed and some not so recently, including the sunflowers from last year's trip to Ardross Farm and their [Field of Hope](https://www.facebook.com/fieldofhopesunflowermaze/). You can see the first of the scans from that roll [here](/Exposures/2022/2022-08-08-ektachrome-100/) and some images taken with the same camera on Lomography's Potsdam B&W film [here](/Exposures/2021/2021-11-01-Potsdam-100-503CW/). AG returned the scans of our trip to Split Rock Croft in February, captured on [35mm Portra 160 film](/Exposures/2022/2022-04-12-Portra-160-FM73/) this week, too. More in a couple of weeks, hopefully.
+
 Honestly, I don't know how people find the time. Life is full of challenges and yet others seem to manage it. I am too busy: working, with daily stuff to do, a PhD project under way, keeping up with my reading, music, sketching and helping my wife with her garden projects.
 
 ![](/img/DSCF2858.jpg)
