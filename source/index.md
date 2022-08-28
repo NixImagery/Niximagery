@@ -1,28 +1,9 @@
 # Niximagery, stories and images
 
-!!! abstract "New scans, 14th August 22"
-    I have scanned a few images from film recently developed and some not so recently, including the sunflowers from last year's trip to Ardross Farm and their [Field of Hope](https://www.facebook.com/fieldofhopesunflowermaze/). You can see the first of the scans from that roll [here](/Exposures/2022/2022-08-08-ektachrome-100/) and some images taken with the same camera on Lomography's Potsdam B&W film [here](/Exposures/2021/2021-11-01-Potsdam-100-503CW/). AG returned the scans of our trip to Split Rock Croft in February, captured on [35mm Portra 160 film](/Exposures/2022/2022-04-12-Portra-160-FM73/) this week, too. More in a couple of weeks, hopefully.
+I've posted a new story of a simple afternoon out at [Loch Leven and Stronachie](/Stories/2022/2022-08-27-stronachie.md). We got oxygen and exercise in the forest, and ice cream too. No, not ice cream in the forest.
 
-Honestly, I don't know how people find the time. Life is full of challenges and yet others seem to manage it. I am too busy: working, with daily stuff to do, a PhD project under way, keeping up with my reading, music, sketching and helping my wife with her garden projects.
-
-![](/img/DSCF2858.jpg)
-**Time and tide wait for no man**
-
-I have been prompted to pay more attention to this photo/stories/sketches website by a need to express ideas. I don't know what the psychology of it is, but as I get older, I feel the creative itch more than ever.
-
-Not wanting to do it the easy way (any fool can snap an image on a phone nowadays), I have in the past couple of years been playing with film cameras and a bit of home processing. So has everyone else, apparently, and so prices have rocketed.
-
-Anyway, I have renewed the photo mojo a bit in the late summer of 2022 and so have managed several things.
-
-* I've found all of the exposed film laying about and either developed it myself, or sent the colour rolls to AG Photographic. There are several films to scan now, but I'll do that in the coming weeks.
-* Archived my Flickr collection of over 10,000 images and reset the space to be more useful.
-* Refreshed my 500px account and posted new content there
-* The website is now migrated from the Jekyll site, which was nice but too slow-loading for my liking, to one built on  the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) Python framework. I took the opportunity to edit some of that content.
-* A new story published this week about [a day trip up the East neuk](/Stories/2022/2022-08-07-east-neuk/) in which I just ran with the digital Fuji X-T2.
-
-So, thanks for reading so far. I hope to try to keep this place a little more dynamic, so please pop back, comment or subscribe [^how]. 
-
-[^how]: Paste the web address in your favourite RSS reader. The actual feed is [here](https://niximagery.com/feed_rss_created.xml).
+![](/img/_DSF9479.jpg)
+**Stronachie Forest**
 
 ## Niximagery
 
@@ -33,9 +14,16 @@ So, thanks for reading so far. I hope to try to keep this place a little more dy
 
 ## This place
 
+Honestly, I don't know how people find the time. Life is full of challenges and yet others seem to manage it. I am too busy: working, with daily stuff to do, a PhD project under way, keeping up with my reading, music, sketching and helping my wife with her garden projects.
+
+![](/img/DSCF2858.jpg)
+**Time and tide wait for no man**
+
 There are sometimes stories to go with pictures I make. I wanted to try to make a space where I can, if I can find the time, tell the stories of the images. Or maybe post the images of the stories. Whatever. This is one of those places, although I am increasingly eschewing the digital spaces I have (over)inhabited. Anyway, I hope you enjoy it. 
 
 Getting around is easy: click on pictures to see a gallery of the images on any page. On a desktop browser, click the `>` and `<` keys to navigate forward and backwards.
+
+The website is built on  the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) Python framework.
 
 ## Other places
 
