@@ -1,8 +1,8 @@
 # Niximagery, stories and images
 
-I've posted a new story of a simple afternoon out at [Loch Leven and Stronachie](/Stories/2022/2022-08-27-stronachie.md). We got oxygen and exercise in the forest, and ice cream too. No, not ice cream in the forest.
+I've posted a new story of a simple afternoon out at [Loch Leven and Stronachie](/Stories/2022/2022-08-27-stronachie/). We got oxygen and exercise in the forest, and ice cream too. No, not ice cream in the forest.
 
-![](/img/_DSF9479.jpg)
+![](/img/DSF9479.jpg)
 **Stronachie Forest**
 
 ## Niximagery
