@@ -1,9 +1,9 @@
 # Niximagery, stories and images
 
-I've posted a new story of a simple afternoon out at [Loch Leven and Stronachie](/Stories/2022/2022-08-27-stronachie/). We got oxygen and exercise in the forest, and ice cream too. No, not ice cream in the forest.
+On the day of the King's proclamation, and in need of some sea air, we took a run up the coast to [Lower Largo](/Stories/2022/2022-09-10-lower-largo/). No ice cream today: it didn't feel much like an ice cream kind of day. We bought wine, though.
 
-![](/img/DSF9479.jpg)
-**Stronachie Forest**
+![](/img/DSF9654.jpg)
+**Teasels** at Lower Largo
 
 ## Niximagery
 
