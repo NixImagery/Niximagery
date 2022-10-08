@@ -6,13 +6,14 @@
     Your first 10,000 photographs are your worst. 
 
 <!-- 
+    I’ve learned that home isn’t a place, it’s a feeling. — Cecelia Ahern #  in Love, Rosie
+    A photograph is a secret about a secret. The more it tells you the less you know. — Diane Arbus
+    Make visible, what without you, might perhaps never have been seen. ― Robert Bresson
+
     There are always two people in every picture: the photographer and the viewer. — Ansel Adams
     Bracketing is a sign of insecurity. — Ansel Adams
     You don't take a photograph, you make it. — Ansel Adams
-    I’ve learned that home isn’t a place, it’s a feeling. — Cecelia Ahern #  in Love, Rosie
-    A photograph is a secret about a secret. The more it tells you the less you know. — Diane Arbus
     What the Photograph reproduces to infinity has occurred only once - Roland Barthes
-    Make visible, what without you, might perhaps never have been seen. ― Robert Bresson
     Photography is an immediate reaction, drawing is a meditation. ― Henri Cartier-Bresson
     Sharpness is a bourgeois concept. ― Henri Cartier-Bresson
     Your first 10,000 photographs are your worst. ― Henri Cartier-Bresson

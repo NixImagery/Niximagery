@@ -1,9 +1,9 @@
 # Niximagery, stories and images
 
-On the day of the King's proclamation, and in need of some sea air, we took a run up the coast to [Lower Largo](/Stories/2022/2022-09-10-lower-largo/). No ice cream today: it didn't feel much like an ice cream kind of day. We bought wine, though.
+Speaking of Kings, we [went for a walk in Pittencrieff Park](../Stories/2022/2022-10-08-the-glen/) (known locally as "The Glen"). We were hunting for autumn leaves for an artsy project, specifically Oak. A walk in a park is never a bad idea in my book, and it gave me a chance to re-introduce myself to the big Fuji XF100-400mm zoom lens that I got back from service and repair this week. After lunch, we had an errand to run in the Lang Toun which gave us an excuse to take another walk, this time [around the harbour at Dysart](../Stories/2022/2022-10-08b-dysart/).
 
-![](/img/DSF9654.jpg)
-**Teasels** at Lower Largo
+![](/img/DSF9730.jpg)
+**Dunfermline Abbey**
 
 ## Niximagery
 

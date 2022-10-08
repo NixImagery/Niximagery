@@ -2,357 +2,372 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://niximagery.com/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/film/</loc>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/tags/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Cameras/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Cameras/afga-isolette/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Cameras/fuji-gw690ii/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Cameras/fuji-x-t2/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Cameras/hasselblad-v/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Cameras/nikon-fm/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Cameras/ricoh-gr-iii/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2019/2019-12-31-Fuji-400/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2020/2020-01-10-Fuji-400/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2020/2020-02-05-Ilford-Pan/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2020/2020-03-10-Ilford-Pan/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2020/2020-04-11-Kodak-Verichrome/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2020/2020-06-07-Lomography-Potsdam-100/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2020/2020-06-27-Lomography-Potsdam-100/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2020/2020-07-12-Bergger-Panchro-400/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2020/2020-07-13-Lomography-Berlin-400/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2020/2020-10-30-Fuji-Pro-400H/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2020/2020-11-07-Ilford-orthochrome-80/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2021/2021-01-10-Fuji-Pro400H-GW690ii/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2021/2021-07-22-coigach-assynt/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2021/2021-11-01-Potsdam-100-503CW/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2022/2022-01-22-FM-Kodak-400TX/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2022/2022-04-12-Babylon-13-FM21/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2022/2022-04-12-Portra-160-FM73/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2022/2022-05-01-Babylon-13-FM21/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Exposures/2022/2022-08-08-ektachrome-100/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-02-06-faroes-trip/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-02-06-lrps/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-03-08-the-east-neuk/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-03-14-kinghorn-beach/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-03-16-beach-stories/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-03-21-1983-kodacolorII/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-03-22-delta-400/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-04-04-self-isoletting-with-Kodak-T-Max-400/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-04-11-lost-and-found/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-04-30-pattiesmuir/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-05-18-sunshine-walks/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-07-14-assynt/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-07-18-belhaven-beach/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-07-30-film-cameras/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-10-04-E100-gw690/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-10-04-E100-isolette/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-10-30-Berlin-400-Isolette/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-11-06-Five-frames-SFX/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-11-07-Last-frames/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-11-08-Kosmo-100/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-11-09-Kodak-Portra-800/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-11-27-Ilford-Delta-3200/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-11-28-Kilminning/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2020/2020-12-28-Resolutions/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-01-04-503cw-first-roll/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-01-10-Kodak-Portra-800-FM/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-01-18-Kodak-400TX/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-01-18-Rollei-Blackbird/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-01-24-Kosmo-Foto-100/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-02-23-Kodak-Portra-160-snow/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-03-21-fuji-xt2/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-07-22-coigach-assynt/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-07-29-three-films/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-07-30-five-films/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-09-11-polney-loch/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2021/2021-10-18-ard-daraich/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2022/2022-07-12-hebridean-trip/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2022/2022-08-07-east-neuk/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2022/2022-08-27-stronachie/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/Stories/2022/2022-09-10-lower-largo/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2022/2022-10-08-the-glen/</loc>
+         <lastmod>2022-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niximagery.com/Stories/2022/2022-10-08b-dysart/</loc>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niximagery.com/tags/</loc>
-         <lastmod>2022-09-10</lastmod>
+         <lastmod>2022-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
