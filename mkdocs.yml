@@ -36,6 +36,9 @@ nav:
     - 2022: Stories/2022/
     - 2021: Stories/2021/
     - 2020: Stories/2020/
+  - Moments: 
+    - Moments/index.md
+    - Moments/*
   - Cameras: 
     - Cameras/index.md
     - Cameras/*

@@ -1,23 +1,11 @@
-# Niximagery, stories and images
+# Niximagery
 
-Speaking of Kings, we [went for a walk in Pittencrieff Park](../Stories/2022/2022-10-08-the-glen/) (known locally as "The Glen"). We were hunting for autumn leaves for an artsy project, specifically Oak. A walk in a park is never a bad idea in my book, and it gave me a chance to re-introduce myself to the big Fuji XF100-400mm zoom lens that I got back from service and repair this week. After lunch, we had an errand to run in the Lang Toun which gave us an excuse to take another walk, this time [around the harbour at Dysart](../Stories/2022/2022-10-08b-dysart/).
-
-![](/img/DSF9730.jpg)
-**Dunfermline Abbey**
-
-## Niximagery
+## About this place
 
 ![](/img/Dunbar.jpg)
 
 !!! quote "Ibarionex Perello"
     We look at things all the time, but we do not really see them.
-
-## This place
-
-Honestly, I don't know how people find the time. Life is full of challenges and yet others seem to manage it. I am too busy: working, with daily stuff to do, a PhD project under way, keeping up with my reading, music, sketching and helping my wife with her garden projects.
-
-![](/img/DSCF2858.jpg)
-**Time and tide wait for no man**
 
 There are sometimes stories to go with pictures I make. I wanted to try to make a space where I can, if I can find the time, tell the stories of the images. Or maybe post the images of the stories. Whatever. This is one of those places, although I am increasingly eschewing the digital spaces I have (over)inhabited. Anyway, I hope you enjoy it. 
 
