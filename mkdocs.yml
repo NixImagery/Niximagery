@@ -77,8 +77,8 @@ plugins:
         utm_medium: "RSS"
         utm_campaign: "feed-syndication"
   - bibtex:
-      bib_file: "/Users/v1nhood/Dropbox/Bibliographies/library.bib"
-      csl_file: "/Users/v1nhood/Dropbox/styles/chicago-author-date-16th-edition.csl"
+      bib_file: "/Users/v1nhood/Library/CloudStorage/Dropbox/Bibliographies/library.bib"
+      csl_file: "/Users/v1nhood/Library/CloudStorage/Dropbox/styles/chicago-author-date-16th-edition.csl"
       cite_inline: true
   - print-site # this needs to be the last plugin
 

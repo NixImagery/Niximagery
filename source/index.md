@@ -1,5 +1,9 @@
 # Niximagery
 
+![](/img/DSF0070.jpg)
+
+We took a reflective weekend recently at Chisholme House, or at least, the Summer House within the grounds. Read about it [here](../Stories/2022/2022-10-16-summer-house/).
+
 ## About this place
 
 ![](/img/Dunbar.jpg)
