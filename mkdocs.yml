@@ -80,8 +80,6 @@ plugins:
       bib_file: "/Users/v1nhood/Library/CloudStorage/Dropbox/Bibliographies/library.bib"
       csl_file: "/Users/v1nhood/Library/CloudStorage/Dropbox/styles/chicago-author-date-16th-edition.csl"
       cite_inline: true
-  - print-site # this needs to be the last plugin
-
 
 markdown_extensions:
   - def_list
