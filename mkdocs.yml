@@ -101,6 +101,12 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/niximagery/
       name: NixImagery on Instagram
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.scot/@niximagery
+      name: NixImagery on Mastodon
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/NixImagery
+      name: NixImagery on Twitter
     - icon: fontawesome/brands/flickr
       link: https://www.flickr.com/photos/niximagery/
       name: NixImagery on Flickr
