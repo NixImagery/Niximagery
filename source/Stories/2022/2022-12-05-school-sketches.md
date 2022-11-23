@@ -29,4 +29,9 @@ We continue to invest in building new schools to replace older, more out of date
 
 I taught Physics and Mathematics at Kirkcaldy High School for a number of years before replacing my own tutor at Moray House. I'm not going to reminisce about this old place but it was nice to see friends and former colleagues again. I was reminded that cultures are slow to change and that whilst rolling stones may gather no moss, they do gather experience you don't get standing still.
 
+![](/img/sketches/22-11-23-PrestonLodge.jpeg)
+*Preston Lodge High School*
+
+Bunsen burners, magnesium strips and good dialogic pedagogy made my job easy today. All the nicer to see old friends, too. Education is a village, and once you've been at it a while, it can feel like going home when you meet again, people who have shared different parts of your journey. Conversations pick up where they left off, friendship hugs shock the pupils, and mutual respect is grown and shared from stories of careers unfolding. I love it when new teachers see that: they are enculturated into their vocation through the modelled behaviours of those that go before them, and shape them. There's more to this than Vygotksy, or Bruner, or the latest educational fad.
+
 More will follow.
