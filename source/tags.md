@@ -22,6 +22,7 @@
     We learn by shooting to see better without a camera. ― Ernst Hass
     The thing is, anybody can be happy and cosy. Nothing good happens in the world by being happy and cosy. — Alex Honnold
     We look at things all the time, but we do not really see them. ― Ibarionex Perello
+    If something's that easy that you nail it first time, what's the fucking point? - Simon Riddell (LFPP #62 Nov 22)
     All photographs are memento mori. ― Susan Sontag
     Photographs are as much an interpretation of the world as paintings and drawings are. ― Susan Sontag
     The painter constructs, the photographer discloses. ― Susan Sontag
