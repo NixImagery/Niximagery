@@ -46,9 +46,9 @@ Preston Lodge and Portobello sketches are not the best likeness to the *real thi
 
 !!! info inline end ""
     ![](/img/sketches/22-11-28-LeithAc.jpeg)
-    *The lorry at Leith*
+    *The lorry at Leith, with a fast rat*
 
-Leith Academy has a nice front façade but you can't see it from where I parked, and the back of the building is ugly, so I sketched the random lorry in the car park instead. I did not find out what the vehicle does, or why it's there, but it looks arty to me, even if seems past its best service days. Leith has always felt like an arty school: it has interesting shaped science labs which are full of scope and character, even if some of the electrical infrastructure also seems past its best service days. The teachers are anything but, of course, nor the businesslike head teacher who introduced himself as I was preparing to leave for my next appointment. It's great that there are school like Leith who put the effort and investment into new teachers, for the wider good of Scottish education. 
+Leith Academy has a nice front façade but you can't see it from where I parked, and the back of the building is ugly, so I sketched the random lorry in the car park instead. I did not find out what the vehicle does, or why it's there, but it looks arty to me, even if seems past its best service days. Leith has always felt like an arty school: it has interesting shaped science labs which are full of scope and character, even if some of the electrical infrastructure also seems past its best service days. The teachers are anything but, of course, nor the businesslike head teacher who introduced himself as I was preparing to leave for my next appointment. It's great that there are schools like Leith who put the effort and investment into new teachers, for the wider good of Scottish education. 
 
 !!! info inline ""
     ![](/img/sketches/22-11-28-MusselburghGS.jpeg)
