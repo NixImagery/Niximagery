@@ -56,8 +56,26 @@ Leith Academy has a nice front façade but you can't see it from where I parked,
 
 There is a *quid pro quo*, of course, in the benefit that mentors and other colleagues get from watching rookies make naïve mistakes and offering guidance and advice from experience, at the same time tapping in to new ideas and reconnecting to the principles of pedagogy that are fresh in the student teachers' thinking. This was articulated in both schools I visited today by the supporting teachers who played their important part in bringing about fair and just evaluation of how their charges have progressed.
 
+!!! info inline end ""
+    ![](/img/sketches/22-11-29-QueensferryHS.jpg)
+    *Queensferry CHS, in the fog*
+
+There was a thick fog for my journey across the Forth to Queensferry and I almost bottled doing the sketch because I don't know how to draw fog. I had a word with myself and thought, "just put the pen marks where it's dark, and don't put them where it's light". Easier said than, done, I think, so I diverted myself by trying to capture a couple of figures approaching the pool of light from the lamp. I remember a sketcher artist I follow said that figures add interest to a sketch. I think they are right, but I prefer the Leith rat, if I'm honest.
+
+!!! info inline ""
+    ![](/img/sketches/22-11-29-DeansCHS.jpg)
+    *Deans CHS again*
+
+Back to Deans again and a view from a different part of the car park. It's interesting how varied these buildings can look, depending on where you look from. My wife calls my style "Roobarb", for the unsteady hand that wiggles the lines. I did get an 'O' level many years ago in technical drawing, so I do know how to use a ruler but when I'm trying to work quickly -- none of these sketches took more than 10 minutes -- the look is more one of impression than technical accuracy. I was conscious that I was cold sitting in the car at Deans and so the lines were more Roobarb than usual, perhaps. More figure suggestions, though, and they seem to be growing on me. I'm quite pleased with the silver birch, too, given that I'm not giving myself time to make 10,000 strokes for the leaves.
+
+!!! info inline end ""
+    ![](/img/sketches/22-11-30-DingwallAc.jpg)
+    *Dingwall*
+
+A long but pleasant drive up beyond Inverness took me to new territory, and once more found me shaking hands with colleagues who had passed through my tutorials at Moray House. It's lovely to see the products of my labour thriving and making their mark on young people across the country. I am taking all the credit, of course, as I will for the superb teacher whose lesson on nuclear fission was one of the best I have ever seen. It's not all me, of course: a lot of work goes in to becoming a teacher, especially a good one, and you have to bring a lot of things, too. Attitude, aptitude, wit, intelligence, humour, resilience, just to mention a few. Those who bring all of that with them perhaps don't need much from me to succeed, but I do like to tell myself that I help them excel.
+
  <!-- against the high standards of the General Teaching Council for Scotland. I am thankful that we have those -- both the standards and the Teaching Council. -->
 
 <!-- I am learning that I see better when I look for the feeling. -->
 
-More to come later this week.
+Two to go in this round.
