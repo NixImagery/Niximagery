@@ -12,7 +12,7 @@ hide:
 
 # School sketches
 
-During late November and early December, my job has required me to make visits to schools. The schedule can be challenging so I always try to arrive around 20 minutes early so as to check any messages, and enter the school with grace and dignity. On this cycle of visits, I thought I'd use the extra time to practice some sketching.
+During late November and early December, my job has required me to make visits to schools. The schedule can be challenging so I always try to arrive around 20 minutes early so as to check any messages, and enter the school with grace and dignity. On this cycle of visits, I thought I'd use the extra time to also practice some sketching.
 
 !!! info inline ""
     ![](/img/sketches/22-11-15-Linlithgow.JPG)
@@ -74,8 +74,10 @@ Back to Deans again and a view from a different part of the car park. It's inter
 
 A long but pleasant drive up beyond Inverness took me to new territory, and once more found me shaking hands with colleagues who had passed through my tutorials at Moray House. It's lovely to see the products of my labour thriving and making their mark on young people across the country. I am taking all the credit, of course, as I will for the superb teacher whose lesson on nuclear fission was one of the best I have ever seen. It's not all me, of course: a lot of work goes in to becoming a teacher, especially a good one, and you have to bring a lot of things, too. Attitude, aptitude, wit, intelligence, humour, resilience, just to mention a few. Those who bring all of that with them perhaps don't need much from me to succeed, but I do like to tell myself that I help them excel.
 
- <!-- against the high standards of the General Teaching Council for Scotland. I am thankful that we have those -- both the standards and the Teaching Council. -->
+!!! info inline ""
+    ![](/img/sketches/22-12-01-BroxburnAc.jpg)
+    *Broxburn Academy*
 
-<!-- I am learning that I see better when I look for the feeling. -->
+As the weeks of touring schools come to an end for this session at least, I feel that I have been inspired by students, colleagues and the young people in schools. The student teachers have a steep learning curve, especially on their first school placement. Workload can be an issue, and both schools and the university urge the students to try to find a good, healthy, sustainable balance. I asked some of them what their "secret" is for managing this. All said that the balance is crucial to survival, and that part of that is remaining physically active through sport or exercise. Some of them run; others swim or play a sport. This advice I took myself today by going for a run in the early morning darkness. 
 
-Two to go in this round.
+Last one tomorrow, perhaps.
