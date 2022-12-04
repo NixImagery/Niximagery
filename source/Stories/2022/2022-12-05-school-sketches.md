@@ -17,13 +17,13 @@ During late November and early December, my job has required me to make visits t
 ![](/img/sketches/22-11-15-Linlithgow.JPG)
 *Linlithgow Academy*
 
-There is a rationale for this habit. Sketching is a deliberate, mindful process, even when done quickly. I helps you see what is there, and the looking doesn't stop when the sketchbook is closed. At Linlithgow, I found myself studying wall displays, people, the dynamic of school reception spaces, looking at shapes and patterns as much as inscriptions. I even got the chance to assist some not-yet-detective material police officers in their hunt for the reception desk, being able to indicate the huge sign that my fine-tuned sketcher's observational skills had spotted in the lobby.
+There is a rationale for this habit. Sketching is a deliberate, mindful process, even when done quickly. It helps you see what is there, and the looking doesn't stop when the sketchbook is closed. At Linlithgow, I found myself studying wall displays, people, the dynamic of school reception spaces, looking at shapes and patterns as much as inscriptions. I even got the chance to assist some not-yet-detective material police officers in their hunt for the reception desk, being able to indicate the huge sign that my fine-tuned sketcher's observational skills had spotted in the lobby.
 
 !!! info inline ""
     ![](/img/sketches/22-11-08-DeansCHS.JPG)
     *Deans Community High School*
 
-We continue to invest in building new schools to replace older, more out of date infrastructure. This is a good thing for many reasons including sending a message to the country that education is important and valuable to us all. Whilst every school is different, design features and material choices appear in as many of the recent builds, perhaps dating them. This is not to say they look the same -- they do, in some respects, but each has its own features according to the perceived needs of the community they serve.
+We continue to invest in building new schools to replace older, more out of date infrastructure. This is a good thing for many reasons including sending a message to the country that education is important and valuable to us all. Whilst every school is different, certain design features and material choices appear in many of the recent builds, perhaps dating them. This is not to say they look the same -- they do, in some respects, but each has its own features according to the perceived needs of the community they serve.
 
 !!! info inline end ""
     ![](/img/sketches/22-11-16-KirkcaldyHS.jpeg)
@@ -46,7 +46,7 @@ Preston Lodge and Portobello sketches are not the best likeness to the *real thi
 ![](/img/sketches/22-11-28-LeithAc.jpeg)
 *The lorry at Leith, with a fast rat*
 
-Leith Academy has a nice front façade but you can't see it from where I parked, and the back of the building is ugly, so I sketched the random lorry in the car park instead. I did not find out what the vehicle does, or why it's there, but it looks arty to me, even if seems past its best service days. Leith has always felt like an arty school: it has interesting shaped science labs which are full of scope and character, even if some of the electrical infrastructure also seems past its best service days. The teachers are anything but, of course, nor the businesslike head teacher who introduced himself as I was preparing to leave for my next appointment. It's great that there are schools like Leith who put the effort and investment into new teachers, for the wider good of Scottish education. 
+Leith Academy has a nice front façade but you can't see it from where I parked, and the back of the building is ugly, so I sketched the random lorry in the car park instead. I did not find out what the vehicle does, or why it's there, but it looks arty to me, even if it seems past its best service days. Leith has always felt like an arty school: it has interesting shaped science labs which are full of scope and character, even if some of the electrical infrastructure also seems past its best service days. The teachers are anything but, of course, nor the businesslike head teacher who introduced himself as I was preparing to leave for my next appointment. It's great that there are schools like Leith who put the effort and investment into new teachers, for the wider good of Scottish education. 
 
 !!! info inline ""
     ![](/img/sketches/22-11-28-MusselburghGS.jpeg)
@@ -64,7 +64,7 @@ There was a thick fog for my journey across the Forth to Queensferry and I almos
     ![](/img/sketches/22-11-29-DeansCHS.jpg)
     *Deans CHS again*
 
-Back to Deans again and a view from a different part of the car park. It's interesting how varied these buildings can look, depending on where you look from. My wife calls my style "Roobarb", for the unsteady hand that wiggles the lines. I did get an 'O' level many years ago in technical drawing, so I do know how to use a ruler but when I'm trying to work quickly -- none of these sketches took more than 10 minutes -- the look is more one of impression than technical accuracy. I was conscious that I was cold sitting in the car at Deans and so the lines were more Roobarb than usual, perhaps. More figure suggestions, though, and they seem to be growing on me. I'm quite pleased with the silver birch, too, given that I'm not giving myself time to make 10,000 strokes for the leaves.
+Back to Deans again and a view from a different part of the car park. It's interesting how varied these buildings can look, depending on where you look from. My wife calls my style "Roobarb", for the unsteady hand that wiggles the lines. I did get an 'O' level many years ago in technical drawing, so I do know how to use a ruler but when I'm trying to work quickly -- none of these sketches took more than about 10 minutes -- the look is more one of impression than technical accuracy. I was conscious that I was cold sitting in the car at Deans and so the lines were more Roobarb than usual, perhaps. More figure suggestions, though, and they seem to be growing on me. I'm quite pleased with the silver birch, too, given that I'm not giving myself time to make 10,000 strokes for the leaves.
 
 ![](/img/sketches/22-11-30-DingwallAc.jpg)
 *Dingwall*
