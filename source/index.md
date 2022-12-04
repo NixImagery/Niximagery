@@ -1,8 +1,10 @@
 # Niximagery
 
-![](/img/DSF0070.jpg)
 
-We took a reflective weekend recently at Chisholme House, or at least, the Summer House within the grounds. Read about it [here](../Stories/2022/2022-10-16-summer-house/).
+!!! info inline end ""
+    ![](/img/sketches/22-11-15-Linlithgow.JPG)
+
+During late November and early December, my job has required me to make visits to schools. The schedule can be challenging so I always try to arrive around 20 minutes early so as to check any messages, and enter the school with grace and dignity. On this cycle of visits, I thought I'd use the extra time to also practice some sketching. See those sketches and read the story [here](../Stories/2022/2022-12-05-school-sketches/).
 
 ## About this place
 
