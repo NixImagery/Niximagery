@@ -1,5 +1,7 @@
 ---
 # date: 2020-03-08T20:00:00+00:00
+hide:
+  - tags
 tags:
   - Apple iPhone
   - Fuji GW690ii

@@ -6,7 +6,7 @@ image: /img/sketches/22-11-15-Linlithgow2.JPG
 title: School Sketches
 hide:
   - toc
-#    - tags
+  - tags
 #    - navigation
 ---
 
