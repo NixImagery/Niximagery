@@ -2,6 +2,8 @@
 tags:
    - Coronet Consul
    - Kodak Verichrome 
+hide:
+  - tags
 ---
 # Kodak Verichrome 
 ![](/img/20-4-4-Kodak-Verichrome-1.jpg)

@@ -2,12 +2,13 @@
 date: 3 November 2022
 tags:
    - Fuji X
+   - Glendevon
 image: /img/DSF8829.jpg
 # Meta extension options
 title: The Frandy Tree
 hide:
   - toc
-#    - tags
+  - tags
 #    - navigation
 ---
 

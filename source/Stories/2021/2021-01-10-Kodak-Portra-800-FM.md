@@ -2,6 +2,8 @@
 tags:
   - Nikon FM
   - Kodak Portra
+hide:
+  - tags
 ---
 # The colours of Portra
 Slowly getting my head around analogue photography... a roll of 800 in my old Nikon FM. 

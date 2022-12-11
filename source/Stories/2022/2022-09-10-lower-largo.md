@@ -8,7 +8,7 @@ title: Lower Largo
 # description: A holiday hurl up the coast
 hide:
    - toc
-#    - tags
+   - tags
 #    - navigation
 ---
 

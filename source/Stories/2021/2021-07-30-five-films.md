@@ -8,6 +8,8 @@ tags:
    - Kodak Portra
    - Hasselblad V
    - Lomo Metropolis
+hide:
+  - tags
 ---
 # Five films
 More random rolls from the COVID era

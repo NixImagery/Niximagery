@@ -3,6 +3,8 @@ date: 28 December 2020
 tags:
   # - Reflection
   - Fuji X
+hide:
+  - tags
 ---
 # Resolutions, some photographic
 December, 2020. After Christmas. Some thoughts at the end of an interesting year.

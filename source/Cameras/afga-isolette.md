@@ -1,6 +1,9 @@
 ---
 tags: 
   - Agfa Isolette
+hide:
+  # - toc
+  - tags
 ---
 
 # Agfa Isolette

@@ -10,6 +10,8 @@ hide:
    - toc
 #    - tags
 #    - navigation
+hide:
+  - tags
 ---
 # An afternoon at Stronachie and Loch Leven
 

@@ -2,6 +2,8 @@
 tags:
    - Fuji GW690ii
    - Lomo Potsdam
+hide:
+  - tags
 ---
 # Potsdam in a GW690ii
 

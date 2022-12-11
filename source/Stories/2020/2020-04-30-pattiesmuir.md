@@ -4,6 +4,8 @@ tags:
   - Ricoh GRIII
   - Kodak Portra
   # - Pattiesmuir
+hide:
+  - tags
 ---
 # Pattiesmuir and Portra
 

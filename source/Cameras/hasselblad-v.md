@@ -1,6 +1,9 @@
 ---
 tags: 
-  - Hasselblad V
+  - Hasselblad 503CW
+hide:
+  # - toc
+  - tags
 ---
 
 # Hasselblad V
@@ -10,7 +13,7 @@ Image copyright © 2020 [Cambrian Photo, Colwyn Bay](https://www.ebay.co.uk/usr/
 I bit the bullet on my first Hasselblad on Boxing Day 2020. Experts will immediately notice that it's a bit of a *Frankenblad*, with an incongruous silver 1960's lens on a millennial 503CW body and magazine. There are fans of the older silver lenses, so perhaps it's not so monstrous a combination. Optically, the older lenses [aren't any different](https://kenrockwell.com/hasselblad/80mm-f28-c.htm) to the newer ones, and the multi-coating of the **T\*** lenses was more about marketing than optical performance, according to [Ken Rockwell](https://kenrockwell.com/hasselblad/80mm-f28-c.htm). What I have discovered is that the previous owner knew his Hasselblads and that this is a very good combination indeed.
 
 ## Introduction and the cost of Hasselblads
-My wife and I [met a guy](fuji-gw690ii) one frosty morning, out in the countryside with a Hasselblad while his other half was at a car boot sale. He had bought the camera but was unable to tell his wife. I am more fortunate, and my wife is not averse to me owning a Hasselblad but we are  both educators and not that flush, so a little humility and frugality is in order. She has helped me be smart and not so impulsive, and had me talk her through the due diligence and research I have done since that first GAS[^gasv] attack a year ago. That said, I have had encouragement in my desire to own a Hasselblad camera system:
+My wife and I [met a guy](../Cameras/fuji-gw690ii) one frosty morning, out in the countryside with a Hasselblad while his other half was at a car boot sale. He had bought the camera but was unable to tell his wife. I am more fortunate, and my wife is not averse to me owning a Hasselblad but we are  both educators and not that flush, so a little humility and frugality is in order. She has helped me be smart and not so impulsive, and had me talk her through the due diligence and research I have done since that first GAS[^gasv] attack a year ago. That said, I have had encouragement in my desire to own a Hasselblad camera system:
 
 [^gasv]: Gear Acquisition Syndrome. Photographers get it. Guitarists get it. Artists get it. You get it.
 

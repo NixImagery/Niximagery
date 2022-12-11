@@ -9,6 +9,8 @@ tags:
    # - Scotland
    # - Coigach
    # - Drumbeg
+hide:
+  - tags
 ---
 
 # Coigach and Assynt Summer

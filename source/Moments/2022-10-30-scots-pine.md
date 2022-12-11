@@ -7,7 +7,7 @@ image: /img/DSF0430.jpg
 title: In the Scots Pine
 hide:
   - toc
-#    - tags
+  - tags
 #    - navigation
 ---
 

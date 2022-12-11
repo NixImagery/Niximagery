@@ -2,6 +2,8 @@
 tags:
   - Nikon FM
   - Ilford Ortho
+hide:
+  - tags
 ---
 # Ilford Ortho 80
 ![](/img/Ilford-Ortho-80-20201107_18355660.jpg)

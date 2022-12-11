@@ -4,6 +4,8 @@ tags:
   - Ilford SFX
   # - Dunkeld
 # exposures: 2020-11-06-Ilford-SFX-200
+hide:
+  - tags
 ---
 # Five frames of Ilford SFX IR Film
 

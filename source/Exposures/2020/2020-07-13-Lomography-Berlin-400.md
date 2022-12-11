@@ -2,6 +2,8 @@
 tags:
    - Fuji GW690ii
    - Lomo Berlin
+hide:
+  - tags
 ---
 # Lomography Berlin 400 120
 

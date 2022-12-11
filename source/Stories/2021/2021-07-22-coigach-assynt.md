@@ -8,10 +8,13 @@ tags:
    - Ilford PanF Plus
    - Kodak E100
    - Fuji X
+   - Sketch
    # - Scotland
    # - Coigach
    # - Assynt
    # - Drumbeg
+hide:
+  - tags
 ---
 # Coigach and Assynt
 

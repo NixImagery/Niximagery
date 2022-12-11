@@ -4,6 +4,8 @@ tags:
    - Kodak T-Max
    - Kodak Portra
    - Kodak E100
+hide:
+  - tags
 ---
 # Three 120 films
 

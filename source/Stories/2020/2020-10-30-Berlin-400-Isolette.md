@@ -4,6 +4,8 @@ tags:
    - Lomo Berlin
    # - Dunkeld
 exposures: 2020-10-30-Berlin-400-Isolette
+hide:
+  - tags
 ---
 # Berlin at Dunkeld in October
 ![](/img/Berlin-400-Afga-20201031_12343959.jpg)

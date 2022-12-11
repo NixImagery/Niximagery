@@ -2,6 +2,8 @@
 tags:
   - Fuji GW690ii
   - Nikon FM
+hide:
+  - tags
 ---
 # Learning about the CLA
 ![](/img/IMG_8897.jpg)

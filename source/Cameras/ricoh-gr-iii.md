@@ -1,6 +1,9 @@
 ---
 tags: 
   - Ricoh GRIII
+hide:
+  # - toc
+  - tags
 ---
 
 # Ricoh GRIII

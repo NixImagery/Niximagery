@@ -2,7 +2,9 @@
 tags:
    - Fuji GW690ii
    - Ilford PanF Plus
----
+-hide:
+  - tags
+--
 # Ilford PanF Plus 
 
 ![](/img/20-3-20-Pro50-1.jpg)

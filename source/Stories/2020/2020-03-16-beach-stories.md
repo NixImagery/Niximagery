@@ -1,5 +1,7 @@
 ---
 date: 2020-03-16T20:00:00+00:00
+hide:
+  - tags
 tags:
   - Fuji X
   # - Beach

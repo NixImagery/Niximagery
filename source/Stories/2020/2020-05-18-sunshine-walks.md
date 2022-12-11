@@ -6,6 +6,8 @@ tags:
   # - Pattiesmuir
   # - Letchworth
   # - Rosyth
+hide:
+  - tags
 ---
 # Sunshine walks with E100
 Being in the sunshine with Kodak Ektachrome E100

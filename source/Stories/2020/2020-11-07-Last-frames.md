@@ -2,6 +2,8 @@
 tags:
   - Kodak GC
   - Premier PC-645D
+hide:
+  - tags
 ---
 # The final frames
 

@@ -4,6 +4,8 @@ tags:
    - Coronet Consul
    - Kodak Verichrome 
    # - Rodinal R09
+hide:
+  - tags
 ---
 # Lost and found: Images recovered from found film
 

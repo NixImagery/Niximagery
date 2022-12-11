@@ -6,6 +6,8 @@ tags:
   - Ricoh GRIII
   - Apple iPhone
   - Ilford Ortho
+hide:
+  - tags
 ---
 # Belhaven Beach
 More local exercise

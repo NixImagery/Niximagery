@@ -3,6 +3,8 @@ tags:
    - Agfa Isolette
    - Lomo Potsdam
    # - Rodinal R09
+hide:
+  - tags
 ---
 # Potsdam in an Isolette 120
 ![](/img/2020-04-17-Kodak-TMY-12.jpg)

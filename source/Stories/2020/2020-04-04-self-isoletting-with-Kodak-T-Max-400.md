@@ -3,6 +3,8 @@ tags:
    - Agfa Isolette
    - Kodak T-Max
 #   - Fife
+hide:
+  - tags
 ---
 
 # Self Isoletting with Kodak T-Max 400

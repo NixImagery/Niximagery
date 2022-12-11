@@ -1,4 +1,6 @@
 ---
+hide:
+  - tags
 tags:
   - Fuji GW690ii
   - Ilford PanF Plus

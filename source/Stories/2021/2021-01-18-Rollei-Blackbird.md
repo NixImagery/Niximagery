@@ -3,6 +3,8 @@ date: 18 January 2021
 tags:
   - Agfa Isolette
   - Rollei Blackbird
+hide:
+  - tags
 ---
 # Rollei Blackbird
 Playing with 35mm film in a Medium-format camera. 

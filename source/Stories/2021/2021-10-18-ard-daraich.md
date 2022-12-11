@@ -9,7 +9,8 @@ tags:
    # - Scotland
    # - Ard Daraich
    # - Ardnamurchan
-
+hide:
+  - tags
 ---
 # Ard Daraich Anniversary trip
 ![](/img/DSF8178.jpg)

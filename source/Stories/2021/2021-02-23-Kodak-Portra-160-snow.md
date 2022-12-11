@@ -3,6 +3,8 @@ tags:
   - Fuji GW690ii
   - Nikon FM
   - Kodak Portra
+hide:
+  - tags
 ---
 # Portra 160 in the snow
 35mm and 120 Portra 160 in winter. 

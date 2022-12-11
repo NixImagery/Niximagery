@@ -4,9 +4,9 @@ tags:
    - Fuji X
 image: /img/DSF0022.jpg
 title: The Summer House
-#hide:
+hide:
+   - tags
 #  - toc
-#    - tags
 #    - navigation
 ---
 
