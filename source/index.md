@@ -2,9 +2,9 @@
 
 
 !!! info inline end ""
-    ![](/img/sketches/22-11-15-Linlithgow.JPG)
+    ![](/img/DSF0693.jpg)
 
-During late November and early December, my job has required me to make visits to schools. The schedule can be challenging so I always try to arrive around 20 minutes early so as to check any messages, and enter the school with grace and dignity. On this cycle of visits, I thought I'd use the extra time to also practice some sketching. See those sketches and read the story [here](../Stories/2022/2022-12-05-school-sketches/).
+Just before Christmas, we booked ourselves a night away at a favourite Perthsire haunt, as much for our corporeal health as our spiritual peace. It was the perfect escape from the crass commercialisation and social expectations of the season, not that we don't fully participate in those, of course. It was like drawing breath before leaping into the annual family ritual. Photographs and more of the story are [here](../Stories/2022/2022-12-24-dunkeld/).
 
 ## About this place
 
