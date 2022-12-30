@@ -7,7 +7,7 @@ tags:
    - Kodak Portra
    - Ilford PanF Plus
    - Kodak E100
-   - Fuji X
+   - Fuji X-T2
    - Sketch
    # - Scotland
    # - Coigach

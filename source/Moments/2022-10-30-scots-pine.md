@@ -1,7 +1,7 @@
 ---
 date: 30 October 2022
 tags:
-   - Fuji X
+   - Fuji X-T2
 image: /img/DSF0430.jpg
 # Meta extension options
 title: In the Scots Pine

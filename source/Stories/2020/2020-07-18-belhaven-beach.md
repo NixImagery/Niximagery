@@ -2,7 +2,7 @@
 # exposures: 2020-07-13-Ilford-orthochrome-80
 tags:
   - Nikon FM
-  - Fuji X
+  - Fuji X-T2
   - Ricoh GRIII
   - Apple iPhone
   - Ilford Ortho

@@ -4,7 +4,7 @@ date: 18 October 2021
 tags:
    - Hasselblad V
    - Agfa Isolette
-   - Fuji X
+   - Fuji X-T2
    - Ricoh GRIII
    # - Scotland
    # - Ard Daraich

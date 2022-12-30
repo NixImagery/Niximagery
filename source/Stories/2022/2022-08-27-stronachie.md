@@ -1,7 +1,7 @@
 ---
 date: 27 August 2022
 tags:
-   - Fuji X
+  - Fuji X-T2
 image: /img/DSF9458_Panorama.jpg
 # Meta extension options
 title: An afternoon at Stronachie and Loch Leven

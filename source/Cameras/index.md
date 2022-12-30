@@ -2,6 +2,11 @@
 hide:
   # - toc
   - tags
+tags:
+  - Nikon FM
+  - Fuji X-E2
+  - Fuji X-T2
+  - Fuji X-T5
 ---
 
 # Cameras
@@ -59,5 +64,10 @@ Digital is the way to go for me, although I am unlikely to part with my original
 **The Queensferry Crossing** Ricoh GRIII
 
 There is one camera that has been a quiet companion to all of this photographic adventure in recent years, which travels in the car or pretty much everywhere, and that is the incredible [Ricoh GRIII](../Cameras/ricoh-gr-iii.md). It's a powerhouse of performance in a little package that has yielded some superb images, way beyond expectation for such a little machine. Click through to the [Ricoh GRIII](../Cameras/ricoh-gr-iii.md) page and you'll see what I mean. I'd happily ditch all of the other cameras in a lake if I could only keep one.
+
+## Well, not quite
+
+Late in 2022, I bought a new X-T5 body, not quite on a whim, more a promise. I was conscious that I have several very nice film cameras that are simply not being used. I spoke to several potential places and decided to sell the Hasselblad, the big Fuji GW690ii and one of my Nikon FM cameras. The sale fo those liberated these wonderful machines into the hands of those who might get better use from them, and liberated enough funds for the new digital camera. More information on the [X-T5 will be posted here](../Cameras/fuji-x-t5.md) as I start to use it.
+
 
 [^3]: GAS = Gear Acquisition Syndrome. Photographers get it. Guitarists get it too.

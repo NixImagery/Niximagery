@@ -1,7 +1,7 @@
 ---
 date: 3 November 2022
 tags:
-   - Fuji X
+   - Fuji X-T2
    - Glendevon
 image: /img/DSF8829.jpg
 # Meta extension options

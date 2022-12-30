@@ -2,7 +2,7 @@
 date: 28 December 2020
 tags:
   # - Reflection
-  - Fuji X
+  - Fuji X-T2
 hide:
   - tags
 ---

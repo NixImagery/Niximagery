@@ -1,7 +1,7 @@
 ---
 date: 16 October 2022
 tags:
-   - Fuji X
+  - Fuji X-T2
 image: /img/DSF0022.jpg
 title: The Summer House
 hide:

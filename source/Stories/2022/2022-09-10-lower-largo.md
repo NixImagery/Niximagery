@@ -1,7 +1,7 @@
 ---
 date: 10 September 2022
 tags:
-   - Fuji X
+  - Fuji X-T2
 image: /img/DSF9654.jpg
 # Meta extension options
 title: Lower Largo
