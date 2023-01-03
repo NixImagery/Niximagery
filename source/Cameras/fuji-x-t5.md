@@ -23,7 +23,7 @@ I bought the camera from the disinterested crew at Jessop's on Sauchiehall Stree
 We stopped on the way up, at a favourite beach on Loch Lubnaig to capture this view looking to the North. All of the images on this page were taken with the Fuji XF 16mm f/1.4 R WR lens. For depth of field, I stopped down to f/16 to keep the foreground grass reasonably sharp. At ISO400 this meant a shutter speed of 1/30s, something I would not have tried hand-held were it not for the in-built image stabilisation in this camera. I pushed my luck with that idea in the next photo of the waterfall.
 
 ![](/img/_DSF0045.jpg)
-*Cropped, hand-held at 1/15s, f/16 at ISO800. Focus is on the berries. *
+*Cropped, hand-held at 1/15s, f/16 at ISO800. Focus is on the berries.*
 
 I should have changed lens for this image but it was very icy and I was twitchy enough about falling. Gravity and I have a history when it comes to lenses, and so I didn't want to risk dropping my new camera by fiddling about whilst concentrating on remaining vertical. Multitasking is a myth.
 
