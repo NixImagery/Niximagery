@@ -4,7 +4,9 @@
 !!! info inline end ""
     ![](/img/DSF0693.jpg)
 
-Just before Christmas, we booked ourselves a night away at a favourite Perthsire haunt, as much for our corporeal health as our spiritual peace. It was the perfect escape from the crass commercialisation and social expectations of the season, not that we don't fully participate in those, of course. It was like drawing breath before leaping into the annual family ritual. Photographs and more of the story are [here](../Stories/2022/2022-12-24-dunkeld/).
+Just before Christmas, we booked ourselves a night away at a favourite Perthshire haunt, as much for our corporeal health as our spiritual peace. It was the perfect escape from the crass commercialisation and social expectations of the season, not that we don't fully participate in those, of course. It was like drawing breath before leaping into the annual family ritual. Photographs and more of the story are [here](../Stories/2022/2022-12-24-dunkeld/).
+
+You can read about my new Fuji X-T5 [here](../Cameras/fuji-x-t5.md).
 
 ## About this place
 
