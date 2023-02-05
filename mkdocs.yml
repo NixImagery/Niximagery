@@ -33,6 +33,7 @@ nav:
   - Home: index.md
   - Stories and images: 
     - Stories/index.md
+    - 2023: Stories/2023/
     - 2022: Stories/2022/
     - 2021: Stories/2021/
     - 2020: Stories/2020/

@@ -4,9 +4,7 @@
 !!! info inline end ""
     ![](/img/DSF0693.jpg)
 
-Just before Christmas, we booked ourselves a night away at a favourite Perthshire haunt, as much for our corporeal health as our spiritual peace. It was the perfect escape from the crass commercialisation and social expectations of the season, not that we don't fully participate in those, of course. It was like drawing breath before leaping into the annual family ritual. Photographs and more of the story are [here](../Stories/2022/2022-12-24-dunkeld/).
-
-You can read about my new Fuji X-T5 [here](../Cameras/fuji-x-t5/).
+In the doldrums of January, I eventually boxed up three of my underused cameras and packed them off to [Ffordes Photographic](https://www.ffordes.com/) in Inverness who are selling them for me.
 
 ## About this place
 
@@ -39,6 +37,6 @@ Thanks for stopping by.
 Nick Hood  
 Fife
 
-![](/img/rps-members-logo-2022.png)
+![](/img/rps-members-logo-rgb-2023.png)
 
 p.s. the bridge photo? That was taken by my wife. She is [a better photographer than I am](https://wildaye.co.uk/).
