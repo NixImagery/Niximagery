@@ -2,9 +2,9 @@
 
 
 !!! info inline end ""
-    ![](/img/DSF0693.jpg)
+    ![](/img/DSF0700 1.jpg)
 
-In the doldrums of January, I eventually boxed up three of my underused cameras and packed them off to [Ffordes Photographic](https://www.ffordes.com/) in Inverness who are selling them for me.
+In the doldrums of January, I eventually boxed up three of my underused cameras and packed them off to [Ffordes Photographic](https://www.ffordes.com/) in Inverness who are selling them for me. Never mind, eh? Life is good -- and with a camera as an excuse, and the benefit of being perambulant, the world is a delight to be alive in. Read about our [winter walks here](./Stories/2023/2023-02-05-winter-walking.md).
 
 ## About this place
 
