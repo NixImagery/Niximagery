@@ -76,14 +76,18 @@ We had planned the trip, sort of, by identifying some of the interesting places 
 ![](/img/2023-02/DSF0812.jpg)
 The Duke of Portland's Boathouse *Fuji X-T5, XF16mm f/1.4 R WR*
 
-We delayed the journey home after check-out time in order to enjoy a little serendipity. Driving up the Kirkstone Pass, I misunderstood the navigator and instead of turning into a car park at the top of the pass, headed down the road called "the Struggle" that leads to Ambleside and Lake Windermere. I pulled off the road to give us time to decide how far we would go down that road -- we were not keen on visiting the denser touristy places, even at this time of year. When we checked the view, we decided it was a good place to eat the lunch we had bought in Glendinning.
+We delayed the journey home after check-out time in order to enjoy a little serendipity. Driving up the Kirkstone Pass, I misunderstood the navigator and instead of turning into a car park at the top of the pass, headed down the road called "the Struggle" that leads to Ambleside and Lake Windermere. I pulled off the road to give us time to decide how far we would go down that road -- we were not keen on visiting the denser touristy places, even at this time of year. When we checked the view, we decided it was a good place to eat the lunch we had bought in Glenridding.
 
 ![](/img/2023-02/DSF0830 1.jpg)
 The Struggle *Fuji X-T5, XF16mm f/1.4 R WR*
 
+We continued further to explore, finding a couple of interesting old pines at the side of the road. This is beautifully circular, as we had been staying in a place called, "[Wordsworth Barn](https://www.wordsworthbarn-ullswater.co.uk/)", so named for the poet who onced owned the barn that is now a holiday rental. 
+
 ![](/img/2023-02/DSF0834 1.jpg)
 
-We continued further to explore, finding a couple of interesting old pines at the side of the road. This is beautifully circular, as we had been staying in a place called, "[Wordsworth Barn](https://www.wordsworthbarn-ullswater.co.uk/)", so named for the poet who onced owned the barn that is now a holiday rental. Wordsworth was well known for his love of trees [@Dale2022] and "wished to be remembered as a tree hugger" [@Yen2022]. It seems appropriate to end this post with something by Wordsworth whilst in the area, that seems to connect some of our experiences over the past few days:
+Wordsworth Barn was quite wonderful, although, at 6'4", I enjoyed a close personal relationship with the old beams. That aside, the host, Joan, had thought cleverly about what her guests need to know and have when staying here. We had booked for our basic needs -- wood-burning stove, self-contained, superb location and ease of access to the things we wanted to see -- and Joan had taken care of all of the things we didn't think to specify, like every kind of glass we might use; dressing gowns; a bath *and* a shower; a personal welcome; thoughtful use of space; fresh milk and a bottle of fizz. None of the usual irritations, either: fuel for the log burner is included, recycling is easy and intelligently organised, everything works (although a builder's knack is required to unlock the front door). We will be back.
+
+Wordsworth was well known for his love of trees [@Dale2022] and "wished to be remembered as a tree hugger" [@Yen2022]. It seems appropriate to end this post with something written by Wordsworth whilst in the area, that seems to connect some of our experiences over the past few days:
 
 !!! info "Written in March"
 
