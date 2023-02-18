@@ -67,7 +67,7 @@ There is one camera that has been a quiet companion to all of this photographic 
 
 ## Well, not quite
 
-Late in 2022, I bought a new X-T5 body, not quite on a whim, more a promise. I was conscious that I have several very nice film cameras that are simply not being used. I spoke to several potential places and decided to sell the Hasselblad, the big Fuji GW690ii and one of my Nikon FM cameras. The sale liberates these wonderful machines into the hands of those who might get better use from them, and liberates enough funds for the new digital camera. More information on the [X-T5 here](../Cameras/fuji-x-t5.md).
+Late in 2022, I bought a new X-T5 body, not quite on a whim, more a promise. I was conscious that I have several very nice film cameras that are simply not being used. I spoke to several potential places and in the doldrums of January 2023, eventually boxed up three of my underused cameras (the Hasselblad, the big Fuji GW690ii and one of my Nikon FM cameras) and packed them off to [Ffordes Photographic](https://www.ffordes.com/) in Inverness who are selling them for me. The sale liberates these wonderful machines into the hands of those who might get better use from them, and liberates enough funds for the new digital camera. More information on the [X-T5 here](../Cameras/fuji-x-t5.md).
 
 
 [^3]: GAS = Gear Acquisition Syndrome. Photographers get it. Guitarists get it too.

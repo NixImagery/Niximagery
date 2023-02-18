@@ -77,10 +77,10 @@ plugins:
         utm_source: "documentation"
         utm_medium: "RSS"
         utm_campaign: "feed-syndication"
-  # - bibtex:
-      # bib_file: "/Users/v1nhood/Library/CloudStorage/Dropbox/Bibliographies/NixImagery.bib"
-      # csl_file: "/Users/v1nhood/Library/CloudStorage/Dropbox/styles/chicago-author-date-16th-edition.csl"
-      # cite_inline: true
+  - bibtex:
+      bib_file: "/Users/v1nhood/Library/CloudStorage/Dropbox/Bibliographies/NixImagery.bib"
+      csl_file: "/Users/v1nhood/Library/CloudStorage/Dropbox/styles/sodertorns-hogskola-harvard-ibid.csl"
+      cite_inline: true
 
 markdown_extensions:
   - def_list
