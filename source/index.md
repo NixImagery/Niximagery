@@ -1,10 +1,10 @@
 # Niximagery
 
 
-![](/img/2023-02/DSF0766.jpg)
-Braving Pasture Beck *Fuji X-T2, XF100-400mm*
+![](/img/DJI_0030.JPG)
+**Quite the selfie** DJI, automatic jpg capture over the beach at Loch Shiel
 
-In the doldrums of January, I eventually boxed up three of my underused cameras and packed them off to [Ffordes Photographic](https://www.ffordes.com/) in Inverness who are selling them for me. Never mind, eh? Life is good -- and with a camera as an excuse, and the benefit of being perambulant, the world is a delight to be alive in. Read about our [winter walks](./Stories/2023/2023-02-05-winter-walking.md), and [a trip to the Lake District](./Stories/2023/2023-02-18-patterdale.md) in February.
+This term has been quite a slog, and this week in particular has brought challenges both predictable and unexpected, and equally unwelcome. Very welcome, then, is a few days of retreat in one of our favourite places on this amazing planet of ours, by the Ardnamurchan peninsular. Read about it [here](./Stories/2023/2023-04-08-ardnamurchan.md).
 
 ## About this place
 
