@@ -85,7 +85,7 @@ The castle is reached by walking across the sand bar at Doirlinn. It is green on
 
 Back to the shores of Loch Shiel for a walk before breakfast and a bit of drone activity. We're still learning how to use this amazing little machine but even the practice sequences are pretty impressive: the bird's eye view is something mankind has sought since Icarus.
 
-![](/img/DJI_0035.JPG)
+![](/img/DJI_0035.jpg)
 **The Singing Sands** DJI, DNG adjusted in Capture One
 
 We pushed the advantage of our aerial platform and went on the long round trip walk to the Singing Sands at Gortenfearn to capture it. The sand doesn't actually sing, by the way -- it's more of a squeak when you walk on dry stretches of it. From the car park by Arivegaig, the walk took us past the southern edge of Kentra Bay and through forestry and down to the beach. By the time we got there, all had left but a couple of wild campers who gave us a cheery wave from their lookout above the beach. They must have had a better handle on the weather, which turned to gusty rain for the 6km walk back to the car. 
