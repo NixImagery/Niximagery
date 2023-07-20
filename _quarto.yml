@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 7200
+bibliography: /Users/v1nhood/Library/CloudStorage/Dropbox/Bibliographies/NixImagery.bib
+csl: /Users/v1nhood/Library/CloudStorage/Dropbox/styles/chicago-author-date-with-ibid.csl
+
+website:
+  title: "Niximagery"
+  image: images/IMG_9378.png
+  page-navigation: true
+  site-url: https://niximagery.com
+  favicon: img/favicon.ico
+  navbar:
+    right:
+      - text: About
+        href: about.qmd
+      - text: Stories
+        href: Stories
+      - text: Moments
+        href: Moments
+      - text: Cameras
+        href: Cameras
+      - text: Exposures
+        href: Exposures
+      - icon: github
+        href: https://github.com/NixImagery
+      - icon: twitter
+        href: https://twitter.com/NixImagery
+      - icon: instagram
+        href: https://instagram.com/NixImagery
+  google-analytics: UA-29333042-11
+  page-footer:
+    background: light
+    right:
+      - icon: github
+        href: https://github.com/NixImagery
+        # text: The NixImagery Repository at GitHub
+      - icon: instagram
+        href: https://www.instagram.com/niximagery/
+        # text: NixImagery on Instagram
+      - icon: mastodon
+        href: https://mastodon.scot/@niximagery
+        # text: NixImagery on Mastodon
+      - icon: twitter
+        href: https://twitter.com/NixImagery
+        # text: NixImagery on Twitter
+      - icon: flickr
+        href: https://www.flickr.com/photos/niximagery/
+        text: flickr
+      - icon: 500px
+        href: https://500px.com/p/niximagery
+        text: 500px
+
+format:
+  html:
+    theme: 
+      - sandstone
+      - niximagery.scss
+    # page-layout: full
+    date-format: "Do MMM YYYY"

@@ -1,0 +1,25 @@
+---
+title: "Niximagery"
+listing:
+  contents: 
+    - Stories
+    - Moments
+  exclude:
+    filename: index.*
+  sort: "date desc"
+  type: grid
+  max-items: 9
+  feed: true
+  # categories: false
+  # sort-ui: false
+  # filter-ui: false
+date: today
+---
+::: {layout-ncol=2}
+
+There is new machinery behind the Niximagery website, based on the [Quarto](https://quarto.org/) web publishing system I am using for other technical sites. I'm really liking that it just works. Head back for an update soon -- I have actually been taking photographs again and will post some over the holidays.
+
+![**Quite the selfie.** DJI, automatic jpg capture over the beach at Loch Shiel.](img/DJI_0030.JPG)
+
+:::
+

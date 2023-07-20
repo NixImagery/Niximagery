@@ -1,6 +1,0 @@
-# Stories and images
-
-![](/img/IMG_9378.jpg)
-**Achnahaird beach**, sketch *en plein air*, Mont Blanc fountain pen
-
-Storytelling is one of man's oldest cultural habits, and the evidence we have for this is in the images our ancestors left behind. From the earliest cave paintings to the *insta* trophy, we record from imagination and experience the world around us. Photography is the ubiquitous manifestation of this in much of the contemporary world we inhabit, so much so that the art of capturing images might seem trivial. In these pages are some of my own images, with perhaps some thoughts or stories to go with them using my powerful ally, words. Here I have the advantage over the cave painter: I can express or explain context to help the observer make sense of the image on the screen. You are at liberty to make your own mind up, of course, and you should critically engage.
