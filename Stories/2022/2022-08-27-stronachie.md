@@ -10,7 +10,6 @@ hide:
   - toc
   - tags
 ---
-# An afternoon at Stronachie and Loch Leven
 
 On Saturday afternoon, for no good reason and many, we jumped in the car with some snacks and went hunting for fresh air and ice cream. We went for a stroll down at Loch Leven. Walking out on the jetty, we saw the light was perfect and a heron was posing nicely along the shore. Of course, by the time we walked back to the car for our cameras, he was gone.  The ice cream was easy, Giacopazzi's in Kinross providing a very nice solution. Cookies and Cream for him, Peach Melba for her. 
 

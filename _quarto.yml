@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+      - "*.mp3"
   preview:
     port: 7200
 bibliography: /Users/v1nhood/Library/CloudStorage/Dropbox/Bibliographies/NixImagery.bib
@@ -58,5 +60,4 @@ format:
     theme: 
       - sandstone
       - niximagery.scss
-    # page-layout: full
     date-format: "Do MMM YYYY"

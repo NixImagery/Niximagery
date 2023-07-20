@@ -10,8 +10,6 @@ hide:
 #    - navigation
 ---
 
-# The Summer House
-
 ![](/img/DSF0360_Panorama.jpg)
 **The Summer House towards the lake**
 
@@ -29,8 +27,11 @@ This place has been fairly recently renovated and is cosy, warm and spacious eno
 
 We did not go for (or know about) the retreats offered by the school at Chisholme but were intrigued and perhaps focused a little by the environment. From [their website](https://www.chisholme.org/):
 
-!!! quote "Dedicated to the art of self discovery"
-    Chisholme offers an education for those who are convinced of our potential as human beings for goodness and positive effect on this earth, and who wish to be of service to it, to love and to learn.
+::: {.callout-note icon=false}}
+## Dedicated to the art of self discovery
+
+Chisholme offers an education for those who are convinced of our potential as human beings for goodness and positive effect on this earth, and who wish to be of service to it, to love and to learn.
+:::
 
 ## A sense of Sufism
 

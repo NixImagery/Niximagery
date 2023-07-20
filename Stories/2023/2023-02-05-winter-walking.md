@@ -10,8 +10,6 @@ hide:
 #    - navigation
 ---
 
-# Winter walks
-
 Winter has its attractions, even if it isn't all frosty and picturesque by the time we're up and about. The camera is often the excuse to get up off the couch and out of the house, side benefits being clearing of the head and lungs, stretching of muscle and tendon and general wellbeing. This is true even if the photographs don't turn out well. Or even if no photographs are taken at all, and the cameras effectively become ballast. Professional, I am not.
 
 ![](/img/DSF0457.jpg)

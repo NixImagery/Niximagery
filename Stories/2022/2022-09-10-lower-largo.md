@@ -12,8 +12,6 @@ hide:
 #    - navigation
 ---
 
-# Lower Largo
-
 On the day of the King's proclamation, and in need of some sea air, we took a run up the coast to Lower Largo. It's been a challenging week for us in one way and another, not least for the depth of emotion we felt at the death of the Queen. There have been other losses, of course, but this one seems to have brought home Joni Mitchell's statement of the obvious: *you don't know what you've got 'til it's gone*.
 
 ![](/img/DSF9639Panorama.jpg)

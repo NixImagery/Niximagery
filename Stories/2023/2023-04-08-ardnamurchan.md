@@ -79,7 +79,6 @@ The castle is reached by walking across the sand bar at Doirlinn. It is green on
 
 ## Tuesday
 
-<!-- !!! info inline end "" -->
 ![](/img/DJI_0030.JPG)
 **Quite the selfie** DJI, automatic jpg capture over the beach at Loch Shiel
 

@@ -19,8 +19,7 @@ Her final pictures were typical. This one, evidence of a mystery. A bungee strap
 
 The second is of three visitors to her little house in Letchworth, Michelle, Marilyn and Tracey, cousins on the Brennan side (my grandmother's). Mum often had visitors; Michelle wrote of this visit:
 
-!!! quote " "
-    I lost her phone number and we just went unannounced, but she still made us welcome. I'm so grateful we decided to go anyway as this was to be the last time we saw her. Letchworth captured my heart, and from the first time I went with my mum to re-unite with the cousins Audreys, I absolutely adored your mum, such a beautiful and fascinating lady. I will never forget all her advice, she taught me so much that I didn't know about our family on the Brennan side, especially the ones that emigrated to Canada.
+> I lost her phone number and we just went unannounced, but she still made us welcome. I'm so grateful we decided to go anyway as this was to be the last time we saw her. Letchworth captured my heart, and from the first time I went with my mum to re-unite with the cousins Audreys, I absolutely adored your mum, such a beautiful and fascinating lady. I will never forget all her advice, she taught me so much that I didn't know about our family on the Brennan side, especially the ones that emigrated to Canada.
 
 ![](/img/Kodak-GC-400-20201108_09232103.jpg)
 **Three visitors**

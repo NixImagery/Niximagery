@@ -10,7 +10,7 @@ image: /img/DSF9206_Panorama.jpg
 hide:
   - tags
 ---
-# A Summer Hebridean trip
+
 ![](/img/DSF9085.jpg)
 **The Cuillins**, X-T2, Nikon 85mm
 

@@ -1,5 +1,6 @@
 ---
 title: "Niximagery"
+page-layout: full
 listing:
   contents: 
     - Stories
@@ -8,7 +9,9 @@ listing:
     filename: index.*
   sort: "date desc"
   type: grid
-  max-items: 9
+  # max-items: 9
+  grid-columns: 4
+  page-size: 20
   feed: true
   # categories: false
   # sort-ui: false

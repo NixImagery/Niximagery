@@ -3,6 +3,8 @@ date: 19 July 2023
 listing: 
     type: grid
     page-size: 24
+    grid-columns: 4
+page-layout: full
 ---
 
 # Exposure logs

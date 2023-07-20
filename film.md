@@ -2,6 +2,7 @@
 title: Film
 date: 1 October 2022
 description: Film stock records
+page-layout: full
 hide:
 #   - toc
 #    - tags

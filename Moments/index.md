@@ -1,8 +1,9 @@
 ---
-# date: 19 July 2023
+date: 19 July 2023
 listing: 
-    type: table
+    type: default
     # grid-columns: 2
+page-layout: full
 ---
 
 # Moments

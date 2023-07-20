@@ -18,6 +18,7 @@ listing:
       - fuji-x-t2.md
       - fuji-x-t5.md
     type: grid
+page-layout: full
 tags:
   - Nikon FM
   - Fuji X-E2
