@@ -18,11 +18,22 @@ listing:
   # filter-ui: false
 date: today
 ---
-::: {layout-ncol=2}
+::: {.columns}
 
-There is new machinery behind the Niximagery website, based on the [Quarto](https://quarto.org/) web publishing system I am using for other technical sites. I'm really liking that it just works. Head back for an update soon -- I have actually been taking photographs again and will post some over the holidays.
+::: {.column width=70%}
+There is new machinery behind the Niximagery website, based on the [Quarto](https://quarto.org/) web publishing system I am using for other technical sites. I'm really liking that it just works. 
+ 
+We took a little trip around the bypass yesterday to spend some time on a beach. What is it about the sound of the shoreline that touches us so deeply? Is it our marine ancestors, or something closer to home in our cultural resonances? This picture is from drone footage at Loch Shiel earlier this year and captures new perspective, yet old knowing as if from a dream or astral journey. Why are such visions so familiar to us?
 
+Read more about the latest beach trip [here](Stories/2023/2023-07-20-yellowcraig.md). There's more on Loch Shiel [here](Stories/2023/2023-04-08-ardnamurchan.md#tuesday).
+
+:::
+
+::: {.column width=5%}
+:::
+
+::: {.column width=25%}
 ![**Quite the selfie.** DJI, automatic jpg capture over the beach at Loch Shiel.](img/DJI_0030.JPG)
-
+:::
 :::
 

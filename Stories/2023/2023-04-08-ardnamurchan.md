@@ -4,14 +4,12 @@ tags:
   - Fuji X-T2
   - Fuji X-T5
   - DJI Mini Pro 3
-title: Ardnamurchan
+title: Ardnamurchan and Moidart
 hide:
   - toc
   - tags
 #    - navigation
 ---
-
-# Ardnamurchan and Moidart
 
 This term has been quite a slog, and this week in particular has brought challenges both predictable and unexpected, and equally unwelcome. Very welcome, then, is a few days of retreat in one of our favourite places on this amazing planet of ours, by the Ardnamurchan peninsular.
 
