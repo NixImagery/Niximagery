@@ -25,7 +25,7 @@ There is new machinery behind the Niximagery website, based on the [Quarto](http
  
 We took a little trip around the bypass yesterday to spend some time on a beach. What is it about the sound of the shoreline that touches us so deeply? Is it our marine ancestors, or something closer to home in our cultural resonances? This picture is from drone footage at Loch Shiel earlier this year and captures new perspective, yet old knowing as if from a dream or astral journey. Why are such visions so familiar to us?
 
-Read more about the latest beach trip [here](Stories/2023/2023-07-20-yellowcraig.md). There's more on Loch Shiel [here](Stories/2023/2023-04-08-ardnamurchan.md#tuesday).
+Read more about the latest beach trip [here](Stories/2023/2023-07-20-yellowcraig.md). There's more on Loch Shiel [here](Stories/2023/2023-04-08-ardnamurchan.md#tuesday). And holiday pictures from Corfu [here](Stories/2023/2023-07-13-corfu.qmd). 
 
 :::
 

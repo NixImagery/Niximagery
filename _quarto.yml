@@ -32,7 +32,11 @@ website:
         href: https://twitter.com/NixImagery
       - icon: instagram
         href: https://instagram.com/NixImagery
+      - icon: rss
+        href: index.xml
   google-analytics: UA-29333042-11
+  twitter-card: true
+  open-graph: true
   page-footer:
     background: light
     right:
