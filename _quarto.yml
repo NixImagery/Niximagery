@@ -7,7 +7,9 @@ project:
     port: 7200
 bibliography: /Users/v1nhood/Library/CloudStorage/Dropbox/Bibliographies/NixImagery.bib
 csl: /Users/v1nhood/Library/CloudStorage/Dropbox/styles/chicago-author-date-with-ibid.csl
-
+execute:
+  freeze: auto  # re-render only when source changes
+  
 website:
   title: "Niximagery"
   image: images/IMG_9378.png

@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/Moments/2023-07-23-conker.html",
       "/Stories/2023/2023-07-20-yellowcraig.html",
       "/Stories/2023/2023-07-14-hermitage.html",
       "/Stories/2023/2023-07-13-corfu.html",
@@ -62,9 +63,10 @@
   {
     "listing": "/Moments/index.html",
     "items": [
-      "/Moments/2022-10-15-autumn.html",
-      "/Moments/2022-10-30-scots-pine.html",
+      "/Moments/2023-07-23-conker.html",
       "/Moments/2022-11-02-frandy-tree.html",
+      "/Moments/2022-10-30-scots-pine.html",
+      "/Moments/2022-10-15-autumn.html",
       "/Moments/2022-08-28-rose.html"
     ]
   },
