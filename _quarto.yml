@@ -41,6 +41,7 @@ website:
   open-graph: true
   page-footer:
     background: light
+    left: "&copy; Nick Hood. Made with [Quarto](https://quarto.org/)."
     right:
       - icon: github
         href: https://github.com/NixImagery

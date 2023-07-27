@@ -1,7 +1,54 @@
 [
   {
+    "listing": "/Cameras/index.html",
+    "items": [
+      "/Cameras/nikon-fm.html",
+      "/Cameras/afga-isolette.html",
+      "/Cameras/fuji-gw690ii.html",
+      "/Cameras/hasselblad-v.html",
+      "/Cameras/fuji-x-t2.html",
+      "/Cameras/fuji-x-t5.html",
+      "/Cameras/ricoh-gr-iii.html"
+    ]
+  },
+  {
+    "listing": "/Exposures/index.html",
+    "items": [
+      "/Exposures/2020/2020-07-12-Bergger-Panchro-400.html",
+      "/Exposures/2021/2021-07-22-coigach-assynt.html",
+      "/Exposures/2022/2022-08-08-ektachrome-100.html",
+      "/Exposures/2021/2021-01-10-Fuji-Pro400H-GW690ii.html",
+      "/Exposures/2020/2020-10-30-Fuji-Pro-400H.html",
+      "/Exposures/2019/2019-12-31-Fuji-400.html",
+      "/Exposures/2020/2020-01-10-Fuji-400.html",
+      "/Exposures/2020/2020-11-07-Ilford-orthochrome-80.html",
+      "/Exposures/2020/2020-02-05-Ilford-Pan.html",
+      "/Exposures/2020/2020-03-10-Ilford-Pan.html",
+      "/Exposures/2022/2022-04-12-Portra-160-FM73.html",
+      "/Exposures/2020/2020-04-11-Kodak-Verichrome.html",
+      "/Exposures/2022/2022-05-01-Babylon-13-FM21.html",
+      "/Exposures/2022/2022-04-12-Babylon-13-FM21.html",
+      "/Exposures/2020/2020-07-13-Lomography-Berlin-400.html",
+      "/Exposures/2022/2022-01-22-FM-Kodak-400TX.html",
+      "/Exposures/2020/2020-06-27-Lomography-Potsdam-100.html",
+      "/Exposures/2020/2020-06-07-Lomography-Potsdam-100.html",
+      "/Exposures/2021/2021-11-01-Potsdam-100-503CW.html"
+    ]
+  },
+  {
+    "listing": "/Moments/index.html",
+    "items": [
+      "/Moments/2023-07-23-conker.html",
+      "/Moments/2022-11-02-frandy-tree.html",
+      "/Moments/2022-10-30-scots-pine.html",
+      "/Moments/2022-10-15-autumn.html",
+      "/Moments/2022-08-28-rose.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/Stories/2023/2023-07-24-dumbarnie.html",
       "/Moments/2023-07-23-conker.html",
       "/Stories/2023/2023-07-20-yellowcraig.html",
       "/Stories/2023/2023-07-14-hermitage.html",
@@ -61,54 +108,9 @@
     ]
   },
   {
-    "listing": "/Moments/index.html",
-    "items": [
-      "/Moments/2023-07-23-conker.html",
-      "/Moments/2022-11-02-frandy-tree.html",
-      "/Moments/2022-10-30-scots-pine.html",
-      "/Moments/2022-10-15-autumn.html",
-      "/Moments/2022-08-28-rose.html"
-    ]
-  },
-  {
-    "listing": "/Exposures/index.html",
-    "items": [
-      "/Exposures/2020/2020-07-12-Bergger-Panchro-400.html",
-      "/Exposures/2021/2021-07-22-coigach-assynt.html",
-      "/Exposures/2022/2022-08-08-ektachrome-100.html",
-      "/Exposures/2021/2021-01-10-Fuji-Pro400H-GW690ii.html",
-      "/Exposures/2020/2020-10-30-Fuji-Pro-400H.html",
-      "/Exposures/2019/2019-12-31-Fuji-400.html",
-      "/Exposures/2020/2020-01-10-Fuji-400.html",
-      "/Exposures/2020/2020-11-07-Ilford-orthochrome-80.html",
-      "/Exposures/2020/2020-02-05-Ilford-Pan.html",
-      "/Exposures/2020/2020-03-10-Ilford-Pan.html",
-      "/Exposures/2022/2022-04-12-Portra-160-FM73.html",
-      "/Exposures/2020/2020-04-11-Kodak-Verichrome.html",
-      "/Exposures/2022/2022-05-01-Babylon-13-FM21.html",
-      "/Exposures/2022/2022-04-12-Babylon-13-FM21.html",
-      "/Exposures/2020/2020-07-13-Lomography-Berlin-400.html",
-      "/Exposures/2022/2022-01-22-FM-Kodak-400TX.html",
-      "/Exposures/2020/2020-06-27-Lomography-Potsdam-100.html",
-      "/Exposures/2020/2020-06-07-Lomography-Potsdam-100.html",
-      "/Exposures/2021/2021-11-01-Potsdam-100-503CW.html"
-    ]
-  },
-  {
-    "listing": "/Cameras/index.html",
-    "items": [
-      "/Cameras/nikon-fm.html",
-      "/Cameras/afga-isolette.html",
-      "/Cameras/fuji-gw690ii.html",
-      "/Cameras/hasselblad-v.html",
-      "/Cameras/fuji-x-t2.html",
-      "/Cameras/fuji-x-t5.html",
-      "/Cameras/ricoh-gr-iii.html"
-    ]
-  },
-  {
     "listing": "/Stories/index.html",
     "items": [
+      "/Stories/2023/2023-07-24-dumbarnie.html",
       "/Stories/2023/2023-07-20-yellowcraig.html",
       "/Stories/2023/2023-07-14-hermitage.html",
       "/Stories/2023/2023-07-13-corfu.html",

@@ -1,6 +1,7 @@
 ---
 title: "Niximagery"
 page-layout: full
+author: Nick Hood
 listing:
   contents: 
     - Stories
@@ -20,20 +21,23 @@ date: today
 ---
 ::: {.columns}
 
-::: {.column width=70%}
-There is new machinery behind the Niximagery website, based on the [Quarto](https://quarto.org/) web publishing system I am using for other technical sites. I'm really liking that it just works. 
- 
-We took a little trip around the bypass yesterday to spend some time on a beach. What is it about the sound of the shoreline that touches us so deeply? Is it our marine ancestors, or something closer to home in our cultural resonances? This picture is from drone footage at Loch Shiel earlier this year and captures new perspective, yet old knowing as if from a dream or astral journey. Why are such visions so familiar to us?
+::: {.column width=50%}
 
-Read more about the latest beach trip [here](Stories/2023/2023-07-20-yellowcraig.md). There's more on Loch Shiel [here](Stories/2023/2023-04-08-ardnamurchan.md#tuesday). And holiday pictures from Corfu [here](Stories/2023/2023-07-13-corfu.qmd). 
+Over the summer, I have changed the machinery behind the Niximagery website and added a [Niximagery Substack](https://nximagery.substack.com). The substack is another website with a facility for you to sign up for new posts via email, if you want to.
+
+Also over the summer, we took [a week in Corfu](/Stories/2023/2023-07-13-corfu.qmd) but we took no proper cameras with us. Nowadays, of course, like the mythological London rat, you're never more than six feet from a camera in your phone, so we did capture some memories to share. Once we got back, the stories of wildfires across Greece and the islands of course, made us sad. We hope the wonderful people we met there are all OK in the wrath of a changing climate.
+
+Back home, and good habits are restored, including [walking in the Perthshire woods](/Stories/2023/2023-07-14-hermitage.qmd) and some runs up the [East Neuk of Fife](/Stories/2023/2023-07-24-dumbarnie.qmd) and across the bridge to [Yellowcraig Beach](/Stories/2023/2023-07-20-yellowcraig.md). I hope you enjoy the words and images.
 
 :::
 
 ::: {.column width=5%}
 :::
 
-::: {.column width=25%}
-![**Quite the selfie.** DJI, automatic jpg capture over the beach at Loch Shiel.](img/DJI_0030.JPG)
+::: {.column width=45%}
+
+![A sketch, Corfu Town. Waiting for the bus. Faber Castell 9000 6B pencil in a Paperblanks notebook.](/img/IMG_0118.jpg)
+
 :::
 :::
 
