@@ -14,7 +14,7 @@
 <title>Niximagery</title>
 <link>https://niximagery.com/index.html</link>
 </image>
-<generator>quarto-1.3.427</generator>
+<generator>quarto-1.4.294</generator>
 <lastBuildDate>Wed, 26 Jul 2023 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Dumbarnie and Pittenweem</title>
@@ -352,7 +352,7 @@
 <div id="ref-Macdonald1889" class="csl-entry">
 Macdonald, Rev. Charles. 1889. <em><span class="nocase">Moidart; or Among the Clanranalds</span></em>.
 </div>
-</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+</div></section><aside id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>Fuji X-T5, XF16mmF1.4, f/16, ISO 125↩︎</p></li>
@@ -362,7 +362,7 @@ Macdonald, Rev. Charles. 1889. <em><span class="nocase">Moidart; or Among the Cl
 <li id="fn5"><p>Fuji X-T2, XF100-400mmF4.5-5.6 R LM OIS WR, ISO 200↩︎</p></li>
 <li id="fn6"><p>Fuji X-T2, XF100-400mmF4.5-5.6 R LM OIS WR, ISO 200↩︎</p></li>
 </ol>
-</section></div> ]]></description>
+</aside></div> ]]></description>
   <guid>https://niximagery.com/Stories/2023/2023-04-08-ardnamurchan.html</guid>
   <pubDate>Fri, 07 Apr 2023 23:00:00 GMT</pubDate>
 </item>
@@ -685,15 +685,18 @@ so wildflowers will come up where you are.</p>
 
 
 
-<div class="callout callout-style-simple callout-note no-icon">
-<div class="callout-body d-flex">
+<div class="callout callout-style-simple callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
-<div class="callout-body-container">
+<div class="callout-title-container flex-fill">
+
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p><em>A photograph is a secret about a secret. The more it tells you the less you know.</em><br>
 – Diane Arbus</p>
-</div>
 </div>
 </div>
 <p>Speaking of Kings, we went for a walk in Pittencrieff Park (known locally as “The Glen”). We were hunting for autumn leaves for an artsy project, specifically Oak. A walk in a park is never a bad idea in my book, and it gave me a chance to re-introduce myself to the big Fuji XF100-400mm zoom lens that I got back from service and repair this week.</p>
@@ -704,8 +707,8 @@ so wildflowers will come up where you are.</p>
 <p>The contrast was strong as we explored some of the nooks and crannies. Sunlight danced on water and dappled through the leaves, reflecting and re-reflecting greens and reds, oranges and yellows between dark and mysterious Tolkienesque shadows.</p>
 <p><img src="https://niximagery.com/img/DSF9742.jpg" class="img-fluid"> The <strong>Waterfall</strong> on Tower Burn.</p>
 <audio controls="controls">
-<source type="audio/mp3" src="../../audio/Pittencrieff%20Park.mp3">
-<source type="audio/ogg" src="../../audio/Pittencrieff%20Park.ogg">
+<source type="audio/mp3" src="../../audio/Pittencrieff Park.mp3">
+<source type="audio/ogg" src="../../audio/Pittencrieff Park.ogg">
 </audio>
 <p><img src="https://niximagery.com/img/DSF9763.jpg" class="img-fluid"> What the Americans call <strong>a Sqrl</strong>. There are plenty of these in and around Dunfermline (squirrels, although there are a fair number of Americans, even at this time of year). They have a sense of humour, of course, and will run right across the feet of anyone with a camera just to watch them fumble for focus and fail.</p>
 <p><img src="https://niximagery.com/img/DSF9819.jpg" class="img-fluid"> <strong>Alliums</strong> in the formal garden. We walked here after pausing for a breakfast roll at the Peacock Room, and chatting to an old friend I hadn’t seen for 20 years. That was a pleasant surprise and oddly, enabled me to fill in a couple of gaps from a particular period in my life. Nothing major, more an ironing out of wrinkles in a shirt I haven’t worn for a while, but a resolution nonetheless.</p>
@@ -729,15 +732,18 @@ so wildflowers will come up where you are.</p>
 
 
 
-<div class="callout callout-style-simple callout-note no-icon">
-<div class="callout-body d-flex">
+<div class="callout callout-style-simple callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
-<div class="callout-body-container">
+<div class="callout-title-container flex-fill">
+
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p><em>Make visible, what without you, might perhaps never have been seen.</em><br>
 – Robert Bresson</p>
-</div>
 </div>
 </div>
 <p>After lunch, we had an errand to run in the Lang Toun which gave us an excuse to take another walk, this time around the harbour at Dysart. There is a huge wall there which is home to various pigeons, and tells quite a story of how this place has changed over the years. Part of the cliff at the end of the harbour is no longer safe to walk along but it is easy to access the coastal walk through a short tunnel in the cliff at the end of the wall.</p>
