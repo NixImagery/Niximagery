@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: docs
-  resources: 
-      - "*.mp3"
   preview:
     port: 7200
 bibliography: /Users/v1nhood/Library/CloudStorage/Dropbox/Bibliographies/NixImagery.bib
@@ -18,16 +16,17 @@ website:
   favicon: img/favicon.ico
   navbar:
     right:
+      # - icon: bi-info-square
       - text: About
         href: about.qmd
-      - text: Stories
-        href: Stories
-      - text: Moments
-        href: Moments
-      - text: Cameras
-        href: Cameras
-      - text: Exposures
-        href: Exposures
+      # - text: Stories
+      #   href: Stories
+      # - text: Moments
+      #   href: Moments
+      # - text: Cameras
+      #   href: Cameras
+      # - text: Exposures
+      #   href: Exposures
       - icon: github
         href: https://github.com/NixImagery
       - icon: twitter
