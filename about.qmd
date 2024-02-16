@@ -3,16 +3,6 @@ title: About this place
 image: /img/wild_aye/DSF3827.jpg
 about:
   template: trestles
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/Niximagery
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/Niximagery
-    - icon: github
-      text: Github
-      href: https://github.com/Niximagery
 
 ---
 
@@ -21,14 +11,12 @@ about:
 -- Ibarionex Perello
 :::
 
-There are sometimes stories to go with pictures I make. I wanted to try to make a space where I can, if I can find the time, tell the stories of the images. Or maybe post the images of the stories. Whatever. [Niximagery.com](https://niximagery.com) is like a digital home that I return to from time to time but I mostly write over at [SubStack](https://niximagery.substack.com/). I hope you enjoy them both. 
+There are sometimes stories to go with pictures I make. I wanted to try to make a space where I can, if I can find the time, tell the stories of the images. Or maybe post the images of the stories. Whatever. [Niximagery.com](https://niximagery.com) is like a digital home that I return to from time to time but I also write over at [SubStack](https://circlesaroundthegrit.substack.com/). I hope you enjoy them both. 
 
 
 Nick Hood  
 Fife
 
-![](/img/rps-members-logo-rgb-2023.png){width=200}
-
-
+---
 p.s. the doors photo? That was taken by my wife.  
 She is [a better photographer than I am](https://wildaye.co.uk/).

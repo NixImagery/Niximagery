@@ -1,7 +1,7 @@
 ---
 date: 19 July 2023
 listing: 
-    type: default
+    type: grid
     sort: "date desc"
     # grid-columns: 2
 page-layout: full

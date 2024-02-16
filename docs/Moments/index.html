@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.294">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Niximagery – index</title>
+<title>Niximagery</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -48,12 +48,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     "f",
     "/",
     "s"
   ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -62,6 +63,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -77,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -96,26 +98,48 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HNH39SN409"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-HNH39SN409', { 'anonymize_ip': true});
-</script>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Niximagery">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://niximagery.com/Moments/images/IMG_9378.png">
+<meta property="og:site_name" content="Niximagery">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
@@ -129,28 +153,26 @@ gtag('config', 'G-HNH39SN409', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../Stories"> 
+<span class="menu-text">Stories</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../Moments"> 
+<span class="menu-text">Moments</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/NixImagery" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/NixImagery"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/NixImagery" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="../index.xml"> <i class="bi bi-rss" role="img">
 </i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://instagram.com/NixImagery" rel="" target=""><i class="bi bi-instagram" role="img">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="../index.xml" rel="" target=""><i class="bi bi-rss" role="img">
-</i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -167,6 +189,28 @@ gtag('config', 'G-HNH39SN409', { 'anonymize_ip': true});
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+</div>
+
+
+
+<div class="quarto-title-meta column-page">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">19th Jul 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
 
 
 <section id="moments" class="level1">
@@ -178,155 +222,140 @@ gtag('config', 'G-HNH39SN409', { 'anonymize_ip': true});
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1690066800000" data-listing-file-modified-sort="1697309009755" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
-<div class="thumbnail">
-<p><a href="../Moments/2023-07-23-conker.html"> <img src="../img/DSF1165.jpg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../Moments/2023-07-23-conker.html">
-<h3 class="no-anchor listing-title">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1690066800000" data-listing-file-modified-sort="1708019905181" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
+<a href="../Moments/2023-07-23-conker.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../img/DSF1165.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 The Conker
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
+</h5>
+<div class="card-text listing-description">
 <strong>C</strong>abinet-maker, could you craft me a conker?
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="../Moments/2023-07-23-conker.html">
-<div class="listing-date">
-23rd Jul 2023
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Robert Macfarlane
 </div>
+<div class="listing-date">
+23rd Jul 2023
+</div>
+</div>
+</div>
+</div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1667433600000" data-listing-file-modified-sort="1697309009755" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
-<div class="thumbnail">
-<p><a href="../Moments/2022-11-02-frandy-tree.html"> <img src="../img/DSF8829.jpg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../Moments/2022-11-02-frandy-tree.html">
-<h3 class="no-anchor listing-title">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1667433600000" data-listing-file-modified-sort="1708019905181" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
+<a href="../Moments/2022-11-02-frandy-tree.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../img/DSF8829.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 The Frandy Tree
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
+</h5>
+<div class="card-text listing-description">
  <strong>The Frandy Tree</strong>, an Ash at Glendevon
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="../Moments/2022-11-02-frandy-tree.html">
-<div class="listing-date">
-3rd Nov 2022
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Norse Mythology
 </div>
+<div class="listing-date">
+3rd Nov 2022
+</div>
+</div>
+</div>
+</div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1667084400000" data-listing-file-modified-sort="1697309009755" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
-<div class="thumbnail">
-<p><a href="../Moments/2022-10-30-scots-pine.html"> <img src="../img/DSF0430.jpg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../Moments/2022-10-30-scots-pine.html">
-<h3 class="no-anchor listing-title">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1667084400000" data-listing-file-modified-sort="1708019905181" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
+<a href="../Moments/2022-10-30-scots-pine.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../img/DSF0430.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 In the Scots Pine
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
+</h5>
+<div class="card-text listing-description">
 sa ghiuthas-Albannach, eun a’ bruidhinn<br>
 chan ann ann an cainnt nan eun<br>
 ach anns a’ chànan aige fhèin
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="../Moments/2022-10-30-scots-pine.html">
-<div class="listing-date">
-30th Oct 2022
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Rody Gorman
 </div>
+<div class="listing-date">
+30th Oct 2022
+</div>
+</div>
+</div>
+</div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1665788400000" data-listing-file-modified-sort="1697309009754" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
-<div class="thumbnail">
-<p><a href="../Moments/2022-10-15-autumn.html"> <img src="../img/DSF0026.jpg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../Moments/2022-10-15-autumn.html">
-<h3 class="no-anchor listing-title">
+<div class="g-col-1" data-index="3" data-listing-date-sort="1665788400000" data-listing-file-modified-sort="1708019905181" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<a href="../Moments/2022-10-15-autumn.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../img/DSF0026.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 Autumn
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
+</h5>
+<div class="card-text listing-description">
 Inside each of us there’s a continual autumn.<br>
 Our leaves fall and are blown out over the water,<br>
 a crow sits in the blackened limbs and talks about what’s gone.<br>
 There’s a…
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="../Moments/2022-10-15-autumn.html">
-<div class="listing-date">
-15th Oct 2022
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Jalal Al-din Muhammad Rumi
 </div>
+<div class="listing-date">
+15th Oct 2022
+</div>
+</div>
+</div>
+</div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1661641200000" data-listing-file-modified-sort="1697309009754" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
-<div class="thumbnail">
-<p><a href="../Moments/2022-08-28-rose.html"> <img src="../img/DSF9572.jpg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../Moments/2022-08-28-rose.html">
-<h3 class="no-anchor listing-title">
+<div class="g-col-1" data-index="4" data-listing-date-sort="1661641200000" data-listing-file-modified-sort="1708019905181" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
+<a href="../Moments/2022-08-28-rose.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../img/DSF9572.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 The Rose
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
+</h5>
+<div class="card-text listing-description">
 So this flower doth judge and sentence<br>
 Worldly joyes to be a scourge:<br>
 For they all produce repentance,<br>
 And repentance is a purge.
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="../Moments/2022-08-28-rose.html">
-<div class="listing-date">
-28th Aug 2022
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 George Herbert
 </div>
-</a>
+<div class="listing-date">
+28th Aug 2022
 </div>
+</div>
+</div>
+</div>
+</a>
 </div>
 </div>
 <div class="listing-no-matching d-none">
@@ -461,15 +490,28 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    if (id.startsWith('sec-')) {
+    if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
         }
         return container.innerHTML
       } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -478,7 +520,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
-      return note.innerHTML;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
@@ -520,6 +570,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
       }
     }, function(instance) {
     });
@@ -591,6 +664,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -667,32 +766,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </i> 
     </a>
   </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.instagram.com/niximagery/">
-      <i class="bi bi-instagram" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
+    <li class="nav-item">
     <a class="nav-link" href="https://mastodon.scot/@niximagery">
-      <i class="bi bi-mastodon" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/NixImagery">
-      <i class="bi bi-twitter" role="img">
-</i> 
-    </a>
+<p>Mastodon</p>
+</a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="https://www.flickr.com/photos/niximagery/">
-<p>flickr</p>
+<p>Flickr</p>
 </a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="https://500px.com/p/niximagery">
 <p>500px</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://linkedin.com/in/Niximagery">
+<p>LinkedIn</p>
 </a>
   </li>  
 </ul>

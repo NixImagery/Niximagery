@@ -3,8 +3,8 @@ project:
   output-dir: docs
   preview:
     port: 7200
-bibliography: /Users/v1nhood/Library/CloudStorage/Dropbox/Bibliographies/NixImagery.bib
-csl: /Users/v1nhood/Library/CloudStorage/Dropbox/styles/chicago-author-date-with-ibid.csl
+bibliography: ../Dropbox/Bibliographies/NixImagery.bib
+csl: ../Dropbox/styles/chicago-author-date-with-ibid.csl
 execute:
   freeze: auto  # re-render only when source changes
   
@@ -16,27 +16,18 @@ website:
   favicon: img/favicon.ico
   navbar:
     right:
-      # - icon: bi-info-square
       - text: About
         href: about.qmd
-      # - text: Stories
-      #   href: Stories
-      # - text: Moments
-      #   href: Moments
-      # - text: Cameras
-      #   href: Cameras
-      # - text: Exposures
-      #   href: Exposures
+      - text: Stories
+        href: Stories
+      - text: Moments
+        href: Moments
       - icon: github
         href: https://github.com/NixImagery
-      - icon: twitter
-        href: https://twitter.com/NixImagery
-      - icon: instagram
-        href: https://instagram.com/NixImagery
       - icon: rss
         href: index.xml
-  google-analytics: G-HNH39SN409
-  twitter-card: true
+  # google-analytics: G-HNH39SN409
+  # twitter-card: true
   open-graph: true
   page-footer:
     background: light
@@ -44,22 +35,14 @@ website:
     right:
       - icon: github
         href: https://github.com/NixImagery
-        # text: The NixImagery Repository at GitHub
-      - icon: instagram
-        href: https://www.instagram.com/niximagery/
-        # text: NixImagery on Instagram
-      - icon: mastodon
+      - text: Mastodon
         href: https://mastodon.scot/@niximagery
-        # text: NixImagery on Mastodon
-      - icon: twitter
-        href: https://twitter.com/NixImagery
-        # text: NixImagery on Twitter
-      - icon: flickr
+      - text: Flickr
         href: https://www.flickr.com/photos/niximagery/
-        text: flickr
-      - icon: 500px
+      - text: 500px
         href: https://500px.com/p/niximagery
-        text: 500px
+      - text: LinkedIn
+        href: https://linkedin.com/in/Niximagery
 
 format:
   html:

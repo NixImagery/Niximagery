@@ -5,14 +5,13 @@ author: Nick Hood
 listing:
   contents: 
     - Stories
-    - Moments
   exclude:
     filename: index.*
   sort: "date desc"
   type: grid
   # max-items: 9
   grid-columns: 4
-  page-size: 20
+  page-size: 12
   feed: true
   # categories: false
   # sort-ui: false
@@ -23,11 +22,9 @@ date: today
 
 ::: {.column width=50%}
 
-Over the summer, I have changed the machinery behind the Niximagery website and added a [Niximagery Substack](https://nximagery.substack.com). The substack is another website with a facility for you to sign up for new posts via email, if you want to.
+A lot has changed since your last visit, quite possibly. I think that the [Niximagery Substack](https://nximagery.substack.com) has not worked the way I had hoped, quite probably because I didn't pay it enough attention. It will likely disappear soon.
 
-Also over the summer, we took [a week in Corfu](/Stories/2023/2023-07-13-corfu.qmd) but we took no proper cameras with us. Nowadays, of course, like the mythological London rat, you're never more than six feet from a camera in your phone, so we did capture some memories to share. Once we got back, the stories of wildfires across Greece and the islands of course, made us sad. We hope the wonderful people we met there are all OK in the wrath of a changing climate.
-
-Back home, and good habits are restored, including [walking in the Perthshire woods](/Stories/2023/2023-07-14-hermitage.qmd) and some runs up the [East Neuk of Fife](/Stories/2023/2023-07-24-dumbarnie.qmd) and across the bridge to [Yellowcraig Beach](/Stories/2023/2023-07-20-yellowcraig.md). I hope you enjoy the words and images.
+I eventually took the opportunity to join the [Edinburgh Urban Sketchers](https://www.facebook.com/groups/Edinburghurbansketchers) for one of their regular sessions. I have been carrying sketching materials around with me for a couple of years now and only rarely find the nerve to actually take them out and use them. I think this event has broken the fear of drawing in public. I made a couple of sketches from St. Davids bay and another today on [a trip to St Monans](Stories/2024/02-16-st-monans.qmd). I'm not going to put all of my sketching efforts online, it sort of defeats the point of the practice.
 
 :::
 
@@ -36,7 +33,7 @@ Back home, and good habits are restored, including [walking in the Perthshire wo
 
 ::: {.column width=45%}
 
-![A sketch, Corfu Town. Waiting for the bus. Faber Castell 9000 6B pencil in a Paperblanks notebook.](/img/IMG_0118.jpg)
+![A sketch from my first outing to an Edinburgh Urban Sketchers gathering. Cost, Hanover Street, Edinburgh. Check it out -- I got a stamp!](/img/IMG_0383.jpg)
 
 :::
 :::

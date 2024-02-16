@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.294">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -49,12 +49,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     "f",
     "/",
     "s"
   ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -63,6 +64,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -79,7 +81,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 12,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
@@ -97,32 +100,47 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HNH39SN409"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-HNH39SN409', { 'anonymize_ip': true});
-</script>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="alternate" type="application/rss+xml" title="Niximagery" href="index.xml" data-external="1"><meta property="og:title" content="Niximagery">
 <meta property="og:image" content="https://niximagery.com/images/IMG_9378.png">
 <meta property="og:site_name" content="Niximagery">
-<meta name="twitter:title" content="Niximagery">
-<meta name="twitter:image" content="https://niximagery.com/images/IMG_9378.png">
-<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
@@ -136,28 +154,26 @@ gtag('config', 'G-HNH39SN409', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Stories"> 
+<span class="menu-text">Stories</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Moments"> 
+<span class="menu-text">Moments</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/NixImagery" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/NixImagery"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/NixImagery" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
 </i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://instagram.com/NixImagery" rel="" target=""><i class="bi bi-instagram" role="img">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml" rel="" target=""><i class="bi bi-rss" role="img">
-</i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -193,7 +209,7 @@ gtag('config', 'G-HNH39SN409', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">20th Oct 2023</p>
+      <p class="date">16th Feb 2024</p>
     </div>
   </div>
   
@@ -204,18 +220,18 @@ gtag('config', 'G-HNH39SN409', { 'anonymize_ip': true});
 
 </header>
 
+
 <div class="columns">
 <div class="column" style="width:50%;">
-<p>Over the summer, I have changed the machinery behind the Niximagery website and added a <a href="https://nximagery.substack.com">Niximagery Substack</a>. The substack is another website with a facility for you to sign up for new posts via email, if you want to.</p>
-<p>Also over the summer, we took <a href="./Stories/2023/2023-07-13-corfu.html">a week in Corfu</a> but we took no proper cameras with us. Nowadays, of course, like the mythological London rat, you’re never more than six feet from a camera in your phone, so we did capture some memories to share. Once we got back, the stories of wildfires across Greece and the islands of course, made us sad. We hope the wonderful people we met there are all OK in the wrath of a changing climate.</p>
-<p>Back home, and good habits are restored, including <a href="./Stories/2023/2023-07-14-hermitage.html">walking in the Perthshire woods</a> and some runs up the <a href="./Stories/2023/2023-07-24-dumbarnie.html">East Neuk of Fife</a> and across the bridge to <a href="./Stories/2023/2023-07-20-yellowcraig.html">Yellowcraig Beach</a>. I hope you enjoy the words and images.</p>
+<p>A lot has changed since your last visit, quite possibly. I think that the <a href="https://nximagery.substack.com">Niximagery Substack</a> has not worked the way I had hoped, quite probably because I didn’t pay it enough attention. It will likely disappear soon.</p>
+<p>I eventually took the opportunity to join the <a href="https://www.facebook.com/groups/Edinburghurbansketchers">Edinburgh Urban Sketchers</a> for one of their regular sessions. I have been carrying sketching materials around with me for a couple of years now and only rarely find the nerve to actually take them out and use them. I think this event has broken the fear of drawing in public. I made a couple of sketches from St.&nbsp;Davids bay and another today on <a href="./Stories/2024/02-16-st-monans.html">a trip to St Monans</a>. I’m not going to put all of my sketching efforts online, it sort of defeats the point of the practice.</p>
 </div><div class="column" style="width:5%;">
 
 </div><div class="column" style="width:45%;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="./img/IMG_0118.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A sketch, Corfu Town. Waiting for the bus. Faber Castell 9000 6B pencil in a Paperblanks notebook.</figcaption>
+<p><img src="./img/IMG_0383.jpg" class="img-fluid figure-img"></p>
+<figcaption>A sketch from my first outing to an Edinburgh Urban Sketchers gathering. Cost, Hanover Street, Edinburgh. Check it out – I got a stamp!</figcaption>
 </figure>
 </div>
 </div>
@@ -226,7 +242,30 @@ gtag('config', 'G-HNH39SN409', { 'anonymize_ip': true});
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1691881200000" data-listing-file-modified-sort="1697309009771" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="416">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1708041600000" data-listing-file-modified-sort="1708113730815" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="271">
+<a href="./Stories/2024/02-16-st-monans.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="img/_DSF0320.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+St.&nbsp;Monans and St.&nbsp;Davids
+</h5>
+<div class="card-text listing-description">
+The short February break has been a long time coming. The world changes constantly and nowhere is this more evident than on the Fife Coast.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+16th Feb 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1691881200000" data-listing-file-modified-sort="1708019905184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="416">
 <a href="./Stories/2023/2023-08-13-largo.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="img/_DSF1333_Panorama.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -249,7 +288,7 @@ The summer is going down fighting, with thunder, rain, heat and humidity to set 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1690412400000" data-listing-file-modified-sort="1697309009770" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="382">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1690412400000" data-listing-file-modified-sort="1708019905183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="382">
 <a href="./Stories/2023/2023-07-24-dumbarnie.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="img/_DSF1262.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -272,32 +311,7 @@ Where we live in Fife, we are very lucky indeed to have easy access to some of t
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1690066800000" data-listing-file-modified-sort="1697309009755" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
-<a href="./Moments/2023-07-23-conker.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/DSF1165.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Conker
-</h5>
-<div class="card-text listing-description">
-<strong>C</strong>abinet-maker, could you craft me a conker?
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Robert Macfarlane
-</div>
-<div class="listing-date">
-23rd Jul 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1689807600000" data-listing-file-modified-sort="1697309009770" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="458">
+<div class="g-col-1" data-index="3" data-listing-date-sort="1689807600000" data-listing-file-modified-sort="1708019905183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="458">
 <a href="./Stories/2023/2023-07-20-yellowcraig.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="img/DSF1259.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -320,7 +334,7 @@ Finally, a return to old habits as we took a road trip to Yellowcraigs, with a p
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1689289200000" data-listing-file-modified-sort="1697309009770" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="85">
+<div class="g-col-1" data-index="4" data-listing-date-sort="1689289200000" data-listing-file-modified-sort="1708019905183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="85">
 <a href="./Stories/2023/2023-07-14-hermitage.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="img/DSF1159.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -343,7 +357,7 @@ These images tell stories of their own. If you can, look at them on a large scre
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-date-sort="1689202800000" data-listing-file-modified-sort="1697309009770" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="281">
+<div class="g-col-1" data-index="5" data-listing-date-sort="1689202800000" data-listing-file-modified-sort="1708019905183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="281">
 <a href="./Stories/2023/2023-07-13-corfu.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="img/IMG_0084.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -366,7 +380,7 @@ During our recent short vacation to Corfu, we took no “proper” cameras to en
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-date-sort="1680908400000" data-listing-file-modified-sort="1697309009770" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1014">
+<div class="g-col-1" data-index="6" data-listing-date-sort="1680908400000" data-listing-file-modified-sort="1708019905183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1014">
 <a href="./Stories/2023/2023-04-08-ardnamurchan.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="img/23-4-DSF1042.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -389,7 +403,7 @@ This term has been quite a slog, and this week in particular has brought challen
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-date-sort="1675555200000" data-listing-file-modified-sort="1697309009769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="443">
+<div class="g-col-1" data-index="7" data-listing-date-sort="1675555200000" data-listing-file-modified-sort="1708019905183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="443">
 <a href="./Stories/2023/2023-02-05-winter-walking.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="img/DSF0457.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -412,7 +426,7 @@ Winter has its attractions, even if it isn’t all frosty and picturesque by the
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-date-sort="1675555200000" data-listing-file-modified-sort="1697309009770" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1386">
+<div class="g-col-1" data-index="8" data-listing-date-sort="1675555200000" data-listing-file-modified-sort="1708019905183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1386">
 <a href="./Stories/2023/2023-02-18-patterdale.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="img/2023-02/DSF0724Panorama.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -435,7 +449,7 @@ The February half-term break gave us the opportunity to head back to the Lake Di
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-date-sort="1671840000000" data-listing-file-modified-sort="1697309009769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="431">
+<div class="g-col-1" data-index="9" data-listing-date-sort="1671840000000" data-listing-file-modified-sort="1708019905183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="431">
 <a href="./Stories/2022/2022-12-24-dunkeld.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="img/DSF0685_Panorama.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -458,7 +472,7 @@ Earlier in the year, we booked a dinner-bed-and-breakfast deal for Christmas Eve
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="10" data-listing-date-sort="1669939200000" data-listing-file-modified-sort="1697309009769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1508">
+<div class="g-col-1" data-index="10" data-listing-date-sort="1669939200000" data-listing-file-modified-sort="1708019905183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1508">
 <a href="./Stories/2022/2022-12-05-school-sketches.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -483,59 +497,7 @@ During late November and early December, my job has required me to make visits t
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="11" data-listing-date-sort="1667433600000" data-listing-file-modified-sort="1697309009755" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
-<a href="./Moments/2022-11-02-frandy-tree.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/DSF8829.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Frandy Tree
-</h5>
-<div class="card-text listing-description">
- <strong>The Frandy Tree</strong>, an Ash at Glendevon
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Norse Mythology
-</div>
-<div class="listing-date">
-3rd Nov 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="12" data-listing-date-sort="1667084400000" data-listing-file-modified-sort="1697309009755" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
-<a href="./Moments/2022-10-30-scots-pine.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/DSF0430.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-In the Scots Pine
-</h5>
-<div class="card-text listing-description">
-sa ghiuthas-Albannach, eun a’ bruidhinn<br>
-chan ann ann an cainnt nan eun<br>
-ach anns a’ chànan aige fhèin
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Rody Gorman
-</div>
-<div class="listing-date">
-30th Oct 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="13" data-listing-date-sort="1665874800000" data-listing-file-modified-sort="1697309009768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="876">
+<div class="g-col-1" data-index="11" data-listing-date-sort="1665874800000" data-listing-file-modified-sort="1708019905182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="876">
 <a href="./Stories/2022/2022-10-16-summer-house.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -560,39 +522,11 @@ The Summer House
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="14" data-listing-date-sort="1665788400000" data-listing-file-modified-sort="1697309009754" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
-<a href="./Moments/2022-10-15-autumn.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/DSF0026.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Autumn
-</h5>
-<div class="card-text listing-description">
-Inside each of us there’s a continual autumn.<br>
-Our leaves fall and are blown out over the water,<br>
-a crow sits in the blackened limbs and talks about what’s gone.<br>
-There’s a…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Jalal Al-din Muhammad Rumi
-</div>
-<div class="listing-date">
-15th Oct 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="15" data-listing-date-sort="1665183600000" data-listing-file-modified-sort="1697309009768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="478">
+<div class="g-col-1" data-index="12" data-listing-date-sort="1665183600000" data-listing-file-modified-sort="1708019905182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="478">
 <a href="./Stories/2022/2022-10-08-the-glen.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/DSF9730.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="./img/DSF9730.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -614,11 +548,11 @@ The Glen
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="16" data-listing-date-sort="1665183600000" data-listing-file-modified-sort="1697309009768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
+<div class="g-col-1" data-index="13" data-listing-date-sort="1665183600000" data-listing-file-modified-sort="1708019905182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
 <a href="./Stories/2022/2022-10-08b-dysart.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/DSF9879.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="./img/DSF9879.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -640,11 +574,11 @@ Dysart
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="17" data-listing-date-sort="1662764400000" data-listing-file-modified-sort="1697309009768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
+<div class="g-col-1" data-index="14" data-listing-date-sort="1662764400000" data-listing-file-modified-sort="1708019905182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
 <a href="./Stories/2022/2022-09-10-lower-largo.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/DSF9654.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="./img/DSF9654.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -665,39 +599,11 @@ On the day of the King’s proclamation, and in need of some sea air, we took a 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="18" data-listing-date-sort="1661641200000" data-listing-file-modified-sort="1697309009754" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
-<a href="./Moments/2022-08-28-rose.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/DSF9572.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Rose
-</h5>
-<div class="card-text listing-description">
-So this flower doth judge and sentence<br>
-Worldly joyes to be a scourge:<br>
-For they all produce repentance,<br>
-And repentance is a purge.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-George Herbert
-</div>
-<div class="listing-date">
-28th Aug 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="19" data-listing-date-sort="1661554800000" data-listing-file-modified-sort="1697309009768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="329">
+<div class="g-col-1" data-index="15" data-listing-date-sort="1661554800000" data-listing-file-modified-sort="1708019905181" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="329">
 <a href="./Stories/2022/2022-08-27-stronachie.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/DSF9458_Panorama.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="./img/DSF9458_Panorama.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -722,6 +628,9 @@ On Saturday afternoon, for no good reason and many, we jumped in the car with so
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -851,15 +760,28 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    if (id.startsWith('sec-')) {
+    if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
         }
         return container.innerHTML
       } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -868,7 +790,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
-      return note.innerHTML;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
@@ -910,6 +840,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
       }
     }, function(instance) {
     });
@@ -981,6 +934,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1057,32 +1036,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </i> 
     </a>
   </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.instagram.com/niximagery/">
-      <i class="bi bi-instagram" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
+    <li class="nav-item">
     <a class="nav-link" href="https://mastodon.scot/@niximagery">
-      <i class="bi bi-mastodon" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/NixImagery">
-      <i class="bi bi-twitter" role="img">
-</i> 
-    </a>
+<p>Mastodon</p>
+</a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="https://www.flickr.com/photos/niximagery/">
-<p>flickr</p>
+<p>Flickr</p>
 </a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="https://500px.com/p/niximagery">
 <p>500px</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://linkedin.com/in/Niximagery">
+<p>LinkedIn</p>
 </a>
   </li>  
 </ul>
