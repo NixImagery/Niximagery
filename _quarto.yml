@@ -27,7 +27,7 @@ website:
       - icon: rss
         href: index.xml
   # google-analytics: G-HNH39SN409
-  # twitter-card: true
+  twitter-card: true
   open-graph: true
   page-footer:
     background: light
